@@ -771,6 +771,7 @@ libmpcodecs/vd_mtga.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_null.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_nuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_odivx.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_qt8bps.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_qtrle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_qtrpza.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_qtsmc.c svn_keywords=Author+Date+Id+Revision
