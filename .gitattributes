@@ -251,6 +251,7 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 /help_mp-nl.h svn_keywords=Author+Date+Id+Revision
 /help_mp-no.h svn_keywords=Author+Date+Id+Revision
 /help_mp-pl.h svn_keywords=Author+Date+Id+Revision
+/help_mp-ro.h svn_keywords=Author+Date+Id+Revision
 /http.c svn_keywords=Author+Date+Id+Revision
 /http.h svn_keywords=Author+Date+Id+Revision
 liba52/srfftp.h svn_keywords=Author+Date+Id+Revision
