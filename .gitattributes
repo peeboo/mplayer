@@ -594,6 +594,7 @@ linux/lrmi.h svn_keywords=Author+Date+Id+Revision
 linux/shmem.c svn_keywords=Author+Date+Id+Revision
 linux/shmem.h svn_keywords=Author+Date+Id+Revision
 linux/timer-lx.c svn_keywords=Author+Date+Id+Revision
+linux/timer.c svn_keywords=Author+Date+Id+Revision
 linux/timer.h svn_keywords=Author+Date+Id+Revision
 linux/vbelib.c svn_keywords=Author+Date+Id+Revision
 linux/vbelib.h svn_keywords=Author+Date+Id+Revision
