@@ -523,6 +523,7 @@ libmpcodecs/vd_qtrle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_qtrpza.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_qtsmc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_raw.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_real.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_rle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_roqvideo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_vfw.c svn_keywords=Author+Date+Id+Revision
