@@ -472,6 +472,7 @@ libmpcodecs/ad_mp3.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_msadpcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_pcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_roqaudio.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/dec_audio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mpc_info.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.c svn_keywords=Author+Date+Id+Revision
