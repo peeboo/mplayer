@@ -898,6 +898,7 @@ libmpdemux/demux_demuxers.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_film.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_fli.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_gif.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_lmlm4.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mkv.cpp svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
