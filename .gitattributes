@@ -538,7 +538,6 @@ libmpcodecs/native/qtrle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/qtrpza.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/qtsmc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/roqav.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/roqav.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/svq1.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/svq1.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/svq1_cb.h svn_keywords=Author+Date+Id+Revision
