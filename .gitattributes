@@ -401,6 +401,7 @@ libmpdemux/mpeg_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/network.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/network.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/nuppelvideo.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/open.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.h svn_keywords=Author+Date+Id+Revision
