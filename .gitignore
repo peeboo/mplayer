@@ -3,6 +3,7 @@
 /.libdeps
 DOCS/HTML
 DOCS/HTML-single
+DOCS/tech/doxygen
 DOCS/xml/en/main.xml
 DOCS/xml/es/main.xml
 DOCS/xml/fr/main.xml
