@@ -378,6 +378,8 @@ loader/dshow/test.divx svneol=native#unset svn_keywords=Author+Date+Id+Revision
 loader/elfdll.c svn_keywords=Author+Date+Id+Revision
 loader/ext.c svn_keywords=Author+Date+Id+Revision
 loader/ext.h svn_keywords=Author+Date+Id+Revision
+loader/ldt_keeper.c svn_keywords=Author+Date+Id+Revision
+loader/ldt_keeper.h svn_keywords=Author+Date+Id+Revision
 loader/loader.h svn_keywords=Author+Date+Id+Revision
 loader/module.c svn_keywords=Author+Date+Id+Revision
 loader/pe_image.c svn_keywords=Author+Date+Id+Revision
