@@ -314,6 +314,7 @@ TOOLS/cache2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/calcbpp.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/countquant.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/cpuinfo.c svn_keywords=Author+Date+Id+Revision
+TOOLS/divx2svcd svn_keywords=Author+Date+Id+Revision
 TOOLS/dump_mp4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
