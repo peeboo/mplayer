@@ -1392,6 +1392,7 @@ postproc/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
 /subreader.h svn_keywords=Author+Date+Id+Revision
 tremor/.cvsignore svn_keywords=Author+Date+Id+Revision
 tremor/COPYING svn_keywords=Author+Date+Id+Revision
+tremor/FILES svn_keywords=Author+Date+Id+Revision
 tremor/Makefile svn_keywords=Author+Date+Id+Revision
 tremor/asm_arm.h svn_keywords=Author+Date+Id+Revision
 tremor/backends.h svn_keywords=Author+Date+Id+Revision
