@@ -2,6 +2,7 @@
 /.cvsignore svn_keywords=Author+Date+Id+Revision
 /AUTHORS svn_keywords=Author+Date+Id+Revision
 /ChangeLog svn_keywords=Author+Date+Id+Revision
+/Copyright svn_keywords=Author+Date+Id+Revision
 DOCS/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/README svn_keywords=Author+Date+Id+Revision
 DOCS/de/bugreports.html svn_keywords=Author+Date+Id+Revision
