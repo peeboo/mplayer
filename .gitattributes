@@ -824,6 +824,7 @@ libmpcodecs/vf_delogo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_denoise3d.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_detc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dint.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_divtc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_down3dright.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dsize.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dvbscale.c svn_keywords=Author+Date+Id+Revision
