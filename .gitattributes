@@ -533,6 +533,7 @@ libvo/font_load.h svn_keywords=Author+Date+Id+Revision
 libvo/img_format.c svn_keywords=Author+Date+Id+Revision
 libvo/img_format.h svn_keywords=Author+Date+Id+Revision
 libvo/jpeg_enc.c svn_keywords=Author+Date+Id+Revision
+libvo/jpeg_enc.h svn_keywords=Author+Date+Id+Revision
 libvo/mga_common.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.h svn_keywords=Author+Date+Id+Revision
