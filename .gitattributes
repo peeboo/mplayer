@@ -96,6 +96,7 @@ debian/substvars svn_keywords=Author+Date+Id+Revision
 /demux_avi.c svn_keywords=Author+Date+Id+Revision
 /demux_mpg.c svn_keywords=Author+Date+Id+Revision
 /demuxer.c svn_keywords=Author+Date+Id+Revision
+/demuxer.h svn_keywords=Author+Date+Id+Revision
 /dll_init.c svn_keywords=Author+Date+Id+Revision
 drivers/3dfx.h svn_keywords=Author+Date+Id+Revision
 drivers/Makefile svn_keywords=Author+Date+Id+Revision
