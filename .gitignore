@@ -36,6 +36,7 @@ libao2/.depend
 libao2/config.mak
 /libavcodec
 libdha/.depend
+libdha/libdha.so.*
 libdha/pci.db
 libdha/pci_dev_ids.c
 libdha/pci_ids.h
