@@ -340,6 +340,7 @@ TOOLS/realcodecs/rv30.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/rv30.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/sipr.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/sipr.sh svn_keywords=Author+Date+Id+Revision
+TOOLS/subfont-c/.cvsignore svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/Makefile svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/README svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/encodings/charmap2enc svn_keywords=Author+Date+Id+Revision

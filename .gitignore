@@ -19,6 +19,7 @@ TOOLS/fastmem2-sse
 TOOLS/mem2dump
 TOOLS/movinfo
 TOOLS/png2raw
+TOOLS/subfont-c/subfont
 /build-stamp
 /codec-cfg
 /codecs.conf.h
