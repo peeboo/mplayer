@@ -653,6 +653,7 @@ libmpdemux/demux_real.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_roq.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rtp.cpp svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rtp.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_smjpeg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_viv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_y4m.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demuxer.c svn_keywords=Author+Date+Id+Revision
