@@ -474,6 +474,7 @@ postproc/postprocess.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.h svn_keywords=Author+Date+Id+Revision
 postproc/postprocess_template.c svn_keywords=Author+Date+Id+Revision
 postproc/swscale.c svn_keywords=Author+Date+Id+Revision
+postproc/swscale.h svn_keywords=Author+Date+Id+Revision
 postproc/swscale_template.c svn_keywords=Author+Date+Id+Revision
 /spudec.c svn_keywords=Author+Date+Id+Revision
 /spudec.h svn_keywords=Author+Date+Id+Revision
