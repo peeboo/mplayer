@@ -562,6 +562,7 @@ libmpcodecs/vd_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_mpng.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_msrle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_msvidc.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_mtga.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_null.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_nuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_odivx.c svn_keywords=Author+Date+Id+Revision
