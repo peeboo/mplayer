@@ -201,6 +201,7 @@ loader/pe_resource.c svn_keywords=Author+Date+Id+Revision
 loader/registry.c svn_keywords=Author+Date+Id+Revision
 loader/registry.h svn_keywords=Author+Date+Id+Revision
 loader/resource.c svn_keywords=Author+Date+Id+Revision
+loader/setup_FS.c svn_keywords=Author+Date+Id+Revision
 loader/stubs.s svn_keywords=Author+Date+Id+Revision
 loader/vfl.c svn_keywords=Author+Date+Id+Revision
 loader/win32.c svn_keywords=Author+Date+Id+Revision
