@@ -203,6 +203,7 @@ TOOLS/subfont-c/runme svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/subfont.c svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-gimp/Makefile svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-gimp/mplayer_subfont svn_keywords=Author+Date+Id+Revision
+TOOLS/usleep-test.c svn_keywords=Author+Date+Id+Revision
 TOOLS/vivodump.c svn_keywords=Author+Date+Id+Revision
 TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 TVout/Mon-640x400 svn_keywords=Author+Date+Id+Revision
