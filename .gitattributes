@@ -1234,6 +1234,7 @@ mp3lib/equalizer.c svn_keywords=Author+Date+Id+Revision
 mp3lib/fastmemcpy.h svn_keywords=Author+Date+Id+Revision
 mp3lib/huffman.h svn_keywords=Author+Date+Id+Revision
 mp3lib/l2tables.h svn_keywords=Author+Date+Id+Revision
+mp3lib/layer1.c svn_keywords=Author+Date+Id+Revision
 mp3lib/layer2.c svn_keywords=Author+Date+Id+Revision
 mp3lib/layer3.c svn_keywords=Author+Date+Id+Revision
 mp3lib/mp3.h svn_keywords=Author+Date+Id+Revision
