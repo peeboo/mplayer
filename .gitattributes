@@ -447,6 +447,7 @@ libdha/sysdep/pci_win32.c svn_keywords=Author+Date+Id+Revision
 libdha/sysdep/pci_x86.c svn_keywords=Author+Date+Id+Revision
 libdha/test.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/Makefile svn_keywords=Author+Date+Id+Revision
+libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_cinepak.c svn_keywords=Author+Date+Id+Revision
