@@ -513,6 +513,7 @@ libmpcodecs/vf.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_expand.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_pp.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_scale.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_vo.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
