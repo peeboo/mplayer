@@ -678,6 +678,7 @@ loader/wine/winuser.h svn_keywords=Author+Date+Id+Revision
 loader/wineacm.h svn_keywords=Author+Date+Id+Revision
 /lzoconf.h svn_keywords=Author+Date+Id+Revision
 /mangle.h svn_keywords=Author+Date+Id+Revision
+/me-opt-reg.c svn_keywords=Author+Date+Id+Revision
 /mencoder.c svn_keywords=Author+Date+Id+Revision
 /minilzo.c svn_keywords=Author+Date+Id+Revision
 /minilzo.h svn_keywords=Author+Date+Id+Revision
