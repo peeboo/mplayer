@@ -108,6 +108,7 @@ DOCS/tech/patches.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/playtree svn_keywords=Author+Date+Id+Revision
 DOCS/tech/playtree-hun svn_keywords=Author+Date+Id+Revision
 DOCS/tech/porting-status.txt svn_keywords=Author+Date+Id+Revision
+DOCS/tech/qt-libwine-howto.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/realcodecs/TODO svn_keywords=Author+Date+Id+Revision
 DOCS/tech/realcodecs/audio-codecs.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/realcodecs/streaming.txt svn_keywords=Author+Date+Id+Revision
