@@ -507,6 +507,7 @@ help/help_mp-sk.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-tr.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-uk.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_CN.h svn_keywords=Author+Date+Id+Revision
+help/help_mp-zh_TW.h svn_keywords=Author+Date+Id+Revision
 input/.cvsignore svn_keywords=Author+Date+Id+Revision
 input/Makefile svn_keywords=Author+Date+Id+Revision
 input/input.c svn_keywords=Author+Date+Id+Revision
