@@ -20,6 +20,8 @@ TOOLS/mem2dump
 TOOLS/movinfo
 TOOLS/png2raw
 /build-stamp
+/codec-cfg
+/codecs.conf.h
 /config.h
 /config.mak
 /configure-stamp
