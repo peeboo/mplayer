@@ -22,6 +22,12 @@ TOOLS/png2raw
 /config.mak
 /configure-stamp
 /configure.log
+debian/files
+debian/mplayer
+debian/mplayer.postinst.debhelper
+debian/mplayer.postrm.debhelper
+debian/mplayer.prerm.debhelper
+debian/mplayer.substvars
 /help_mp.h
 input/.depend
 liba52/.depend
