@@ -9,10 +9,12 @@ Gui/mplayer/.depend
 /help_mp.h
 libao2/.depend
 libao2/config.mak
+libao2/config2.mak
 libmpdemux/.depend
 libmpeg2/.depend
 libvo/.depend
 libvo/config.mak
+libvo/config2.mak
 linux/.depend
 loader/dshow/.depend
 /mencoder
