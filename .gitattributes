@@ -238,6 +238,7 @@ debian/templates svn_keywords=Author+Date+Id+Revision
 /dec_audio.h svn_keywords=Author+Date+Id+Revision
 /dec_video.c svn_keywords=Author+Date+Id+Revision
 /dec_video.h svn_keywords=Author+Date+Id+Revision
+/divx4_vbr.c svn_keywords=Author+Date+Id+Revision
 /dll_init.c svn_keywords=Author+Date+Id+Revision
 /dll_init.h svn_keywords=Author+Date+Id+Revision
 drivers/3dfx.h svn_keywords=Author+Date+Id+Revision
