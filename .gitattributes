@@ -67,6 +67,7 @@ DOCS/tech/general.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/mpsub.sub svn_keywords=Author+Date+Id+Revision
 DOCS/tech/patches.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/tech-hun.txt svn_keywords=Author+Date+Id+Revision
+DOCS/users_against_developers.html svn_keywords=Author+Date+Id+Revision
 DOCS/video.html svn_keywords=Author+Date+Id+Revision
 Gui/Makefile svn_keywords=Author+Date+Id+Revision
 Gui/app.c svn_keywords=Author+Date+Id+Revision
