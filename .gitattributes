@@ -486,7 +486,6 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/inttypes.h.link svn_keywords=Author+Date+Id+Revision
 etc/menu.conf svn_keywords=Author+Date+Id+Revision
 etc/mplayer.ico -text
-/fibmap_mplayer.c svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /get_path.c svn_keywords=Author+Date+Id+Revision
@@ -930,8 +929,6 @@ libmpdemux/dvb_defaults.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvb_tune.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvbin.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvbin.h svn_keywords=Author+Date+Id+Revision
-libmpdemux/dvdauth.c svn_keywords=Author+Date+Id+Revision
-libmpdemux/dvdauth.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvdnav_stream.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvdnav_stream.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/extension.c svn_keywords=Author+Date+Id+Revision
