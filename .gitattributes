@@ -462,6 +462,7 @@ loader/loader.h svn_keywords=Author+Date+Id+Revision
 loader/module.c svn_keywords=Author+Date+Id+Revision
 loader/pe_image.c svn_keywords=Author+Date+Id+Revision
 loader/pe_resource.c svn_keywords=Author+Date+Id+Revision
+loader/qtx/c.sh svn_keywords=Author+Date+Id+Revision
 loader/qtx/qtxload.c svn_keywords=Author+Date+Id+Revision
 loader/qtx/qtxsdk/components.h svn_keywords=Author+Date+Id+Revision
 loader/registry.c svn_keywords=Author+Date+Id+Revision
