@@ -200,6 +200,7 @@ TOOLS/cache.c svn_keywords=Author+Date+Id+Revision
 TOOLS/cache2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/cpuinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/cygwin_inttypes.h svn_keywords=Author+Date+Id+Revision
+TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mem2dump.c svn_keywords=Author+Date+Id+Revision
