@@ -549,6 +549,7 @@ libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
 libmpdemux/README svn_keywords=Author+Date+Id+Revision
 libmpdemux/asf.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/asf_mmst_streaming.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/asf_streaming.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/asfheader.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/aviheader.c svn_keywords=Author+Date+Id+Revision
