@@ -643,6 +643,7 @@ libmpcodecs/vf_rectangle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rgb2bgr.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rotate.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_scale.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_swapuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_test.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_unsharp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_vo.c svn_keywords=Author+Date+Id+Revision
