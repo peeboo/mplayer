@@ -755,6 +755,7 @@ libmpdemux/dvdauth.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvdauth.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvdnav_stream.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvdnav_stream.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/extension.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/frequencies.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/frequencies.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/genres.h svn_keywords=Author+Date+Id+Revision
