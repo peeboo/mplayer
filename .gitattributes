@@ -687,6 +687,7 @@ vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
 vidix/drivers/.cvsignore svn_keywords=Author+Date+Id+Revision
 vidix/drivers/Makefile svn_keywords=Author+Date+Id+Revision
+vidix/drivers/nvidia_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/radeon.h svn_keywords=Author+Date+Id+Revision
 vidix/drivers/radeon_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
