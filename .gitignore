@@ -17,8 +17,10 @@ TOOLS/fastmem2-sse
 TOOLS/mem2dump
 TOOLS/movinfo
 TOOLS/png2raw
+/build-stamp
 /config.h
 /config.mak
+/configure-stamp
 /configure.log
 /help_mp.h
 input/.depend
