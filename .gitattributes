@@ -171,6 +171,7 @@ debian/templates svn_keywords=Author+Date+Id+Revision
 /dec_video.c svn_keywords=Author+Date+Id+Revision
 /demux_asf.c svn_keywords=Author+Date+Id+Revision
 /demux_avi.c svn_keywords=Author+Date+Id+Revision
+/demux_mov.c svn_keywords=Author+Date+Id+Revision
 /demux_mpg.c svn_keywords=Author+Date+Id+Revision
 /demuxer.c svn_keywords=Author+Date+Id+Revision
 /demuxer.h svn_keywords=Author+Date+Id+Revision
