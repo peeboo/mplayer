@@ -326,6 +326,7 @@ libmpdemux/url.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/url.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/video.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/Makefile svn_keywords=Author+Date+Id+Revision
 libmpeg2/attributes.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/decode.c svn_keywords=Author+Date+Id+Revision
