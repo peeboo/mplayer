@@ -1,5 +1,8 @@
 /.depend
 /config.h
 /config.mak
+libao2/config.mak
+libvo/config.mak
+mp3lib/config.mak
 /mplayer
 /version.h
