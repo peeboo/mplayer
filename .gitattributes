@@ -395,6 +395,7 @@ libao2/filter.h svn_keywords=Author+Date+Id+Revision
 libao2/fir.h svn_keywords=Author+Date+Id+Revision
 libao2/firfilter.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_delay.c svn_keywords=Author+Date+Id+Revision
+libao2/pl_extrastereo.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_format.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_resample.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_surround.c svn_keywords=Author+Date+Id+Revision
