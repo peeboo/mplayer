@@ -741,6 +741,7 @@ libmpcodecs/vd_dmo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_fli.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_hmblck.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_huffyuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ijpg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
