@@ -596,6 +596,7 @@ liba52/imdct.c svn_keywords=Author+Date+Id+Revision
 liba52/imdct_3dnow.h svn_keywords=Author+Date+Id+Revision
 liba52/imdct_mlib.c svn_keywords=Author+Date+Id+Revision
 liba52/liba52.txt svn_keywords=Author+Date+Id+Revision
+liba52/liba52_changes.diff svn_keywords=Author+Date+Id+Revision
 liba52/mangle.h svn_keywords=Author+Date+Id+Revision
 liba52/mm_accel.h svn_keywords=Author+Date+Id+Revision
 liba52/parse.c svn_keywords=Author+Date+Id+Revision
