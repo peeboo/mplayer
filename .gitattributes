@@ -146,6 +146,7 @@ libvo/img_format.h svn_keywords=Author+Date+Id+Revision
 libvo/mga_common.c svn_keywords=Author+Date+Id+Revision
 libvo/mmx.h svn_keywords=Author+Date+Id+Revision
 libvo/osd.c svn_keywords=Author+Date+Id+Revision
+libvo/osd.h svn_keywords=Author+Date+Id+Revision
 libvo/osd_template.c svn_keywords=Author+Date+Id+Revision
 libvo/rgb15to16mmx.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.c svn_keywords=Author+Date+Id+Revision
