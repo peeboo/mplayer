@@ -1143,6 +1143,7 @@ postproc/rgb2rgb.h svn_keywords=Author+Date+Id+Revision
 postproc/rgb2rgb_template.c svn_keywords=Author+Date+Id+Revision
 postproc/swscale.c svn_keywords=Author+Date+Id+Revision
 postproc/swscale.h svn_keywords=Author+Date+Id+Revision
+postproc/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 postproc/swscale_template.c svn_keywords=Author+Date+Id+Revision
 postproc/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
 postproc/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
