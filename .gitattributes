@@ -839,6 +839,7 @@ libmpcodecs/vf_hue.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_il.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_ilpack.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_ivtc.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_kerndeint.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_lavc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_lavcdeint.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_mirror.c svn_keywords=Author+Date+Id+Revision
