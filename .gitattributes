@@ -426,6 +426,7 @@ libaf/af_resample.c svn_keywords=Author+Date+Id+Revision
 libaf/af_volume.c svn_keywords=Author+Date+Id+Revision
 libaf/control.h svn_keywords=Author+Date+Id+Revision
 libaf/dsp.h svn_keywords=Author+Date+Id+Revision
+libaf/equalizer.h svn_keywords=Author+Date+Id+Revision
 libaf/filter.c svn_keywords=Author+Date+Id+Revision
 libaf/filter.h svn_keywords=Author+Date+Id+Revision
 libaf/window.c svn_keywords=Author+Date+Id+Revision
