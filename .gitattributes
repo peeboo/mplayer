@@ -1347,6 +1347,7 @@ osdep/kerneltwosix.h svn_keywords=Author+Date+Id+Revision
 osdep/keycodes.h svn_keywords=Author+Date+Id+Revision
 osdep/lrmi.c svn_keywords=Author+Date+Id+Revision
 osdep/lrmi.h svn_keywords=Author+Date+Id+Revision
+osdep/macosx_finder_args.c svn_keywords=Author+Date+Id+Revision
 osdep/mplayer.rc svn_keywords=Author+Date+Id+Revision
 osdep/scandir.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.c svn_keywords=Author+Date+Id+Revision
