@@ -321,6 +321,7 @@ liba52/bitstream.c svn_keywords=Author+Date+Id+Revision
 liba52/bitstream.h svn_keywords=Author+Date+Id+Revision
 liba52/compare.c svn_keywords=Author+Date+Id+Revision
 liba52/config.h svn_keywords=Author+Date+Id+Revision
+liba52/crc.c svn_keywords=Author+Date+Id+Revision
 liba52/downmix.c svn_keywords=Author+Date+Id+Revision
 liba52/imdct.c svn_keywords=Author+Date+Id+Revision
 liba52/imdct_mlib.c svn_keywords=Author+Date+Id+Revision
