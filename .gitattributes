@@ -1,4 +1,5 @@
 * text=auto !eol
+/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/AUTHORS svn_keywords=Author+Date+Id+Revision
 DOCS/ChangeLog svn_keywords=Author+Date+Id+Revision
 DOCS/ChangeLog.mpeg svn_keywords=Author+Date+Id+Revision
