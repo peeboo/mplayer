@@ -52,6 +52,7 @@ DOCS/tech/tech-hun.txt svn_keywords=Author+Date+Id+Revision
 /Makefile svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/compile.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/gltest.c svn_keywords=Author+Date+Id+Revision
+TOOLS/alaw-gen.c svn_keywords=Author+Date+Id+Revision
 TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block2.c svn_keywords=Author+Date+Id+Revision
