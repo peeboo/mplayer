@@ -62,7 +62,6 @@ libmpdvdkit2/.depend
 libmpeg2/.depend
 libvo/.depend
 libvo/config.mak
-linux/.depend
 loader/dmo/.depend
 loader/dshow/.depend
 /mencoder
@@ -72,6 +71,7 @@ mp3lib/test1
 mp3lib/test2
 /mplayer
 /mplayer.exe.spec.c
+osdep/.depend
 postproc/.depend
 /version.h
 vidix/.depend
