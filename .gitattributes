@@ -972,6 +972,7 @@ libmpdemux/mp3_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp_msg.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/ms_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_avi.c svn_keywords=Author+Date+Id+Revision
