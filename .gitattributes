@@ -99,6 +99,7 @@ Gui/mplayer/gtk/fs.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/mb.c svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/mb.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/menu.c svn_keywords=Author+Date+Id+Revision
+Gui/mplayer/gtk/menu.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/opts.c svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/opts.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/gtk/pl.c svn_keywords=Author+Date+Id+Revision
