@@ -2,6 +2,7 @@
 /.developer
 /.libdeps
 DOCS/HTML
+DOCS/HTML-single
 DOCS/xml/html-chunk.xsl
 DOCS/xml/html.xsl
 DOCS/xml/xmllint.sh
