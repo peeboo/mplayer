@@ -314,6 +314,7 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /get_path.c svn_keywords=Author+Date+Id+Revision
+/help_diff.sh svn_keywords=Author+Date+Id+Revision
 /help_mp-cs.h svn_keywords=Author+Date+Id+Revision
 /help_mp-de.h svn_keywords=Author+Date+Id+Revision
 /help_mp-dk.h svn_keywords=Author+Date+Id+Revision
