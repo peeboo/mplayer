@@ -3,8 +3,13 @@
 /.libdeps
 DOCS/HTML
 DOCS/HTML-single
+DOCS/xml/en/main.xml
+DOCS/xml/es/main.xml
+DOCS/xml/fr/main.xml
 DOCS/xml/html-chunk.xsl
 DOCS/xml/html-single.xsl
+DOCS/xml/pl/main.xml
+DOCS/xml/ru/main.xml
 DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
 Gui/.depend
