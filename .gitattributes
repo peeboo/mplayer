@@ -584,6 +584,7 @@ libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_lcl.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_libdv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_libmpeg2.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_lzo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_mpng.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_msrle.c svn_keywords=Author+Date+Id+Revision
