@@ -14,7 +14,6 @@ libmpdemux/.depend
 libmpeg2/.depend
 libvo/.depend
 libvo/config.mak
-libvo/config2.mak
 linux/.depend
 loader/dshow/.depend
 /mencoder
