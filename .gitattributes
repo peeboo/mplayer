@@ -156,6 +156,7 @@ liba52/srfftp_3dnow.h svn_keywords=Author+Date+Id+Revision
 libao2/Makefile svn_keywords=Author+Date+Id+Revision
 libao2/ao_null.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_oss.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_sdl.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.h svn_keywords=Author+Date+Id+Revision
 libao2/audio_out_internal.h svn_keywords=Author+Date+Id+Revision
