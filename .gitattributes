@@ -369,9 +369,16 @@ libao2/pl_resample.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_surround.c svn_keywords=Author+Date+Id+Revision
 libao2/remez.c svn_keywords=Author+Date+Id+Revision
 libao2/remez.h svn_keywords=Author+Date+Id+Revision
+libdha/AsmMacros.h svn_keywords=Author+Date+Id+Revision
+libdha/Makefile svn_keywords=Author+Date+Id+Revision
+libdha/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.vxd -text
+libdha/libdha.c svn_keywords=Author+Date+Id+Revision
+libdha/libdha.h svn_keywords=Author+Date+Id+Revision
+libdha/pci.c svn_keywords=Author+Date+Id+Revision
+libdha/test.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
 libmpdemux/README svn_keywords=Author+Date+Id+Revision
