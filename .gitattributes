@@ -804,7 +804,6 @@ libvo/vo_md5.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_null.c svn_keywords=Author+Date+Id+Revision
-libvo/vo_odivx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_pgm.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_png.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_sdl.c svn_keywords=Author+Date+Id+Revision
