@@ -114,6 +114,7 @@ debian/control svn_keywords=Author+Date+Id+Revision
 debian/copyright svn_keywords=Author+Date+Id+Revision
 debian/dirs svn_keywords=Author+Date+Id+Revision
 debian/files svn_keywords=Author+Date+Id+Revision
+debian/mplayer.conf svn_keywords=Author+Date+Id+Revision
 debian/rules svn_keywords=Author+Date+Id+Revision
 debian/substvars svn_keywords=Author+Date+Id+Revision
 /dec_audio.c svn_keywords=Author+Date+Id+Revision
