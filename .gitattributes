@@ -314,6 +314,7 @@ drivers/sis_vid.h svn_keywords=Author+Date+Id+Revision
 etc/codecs.conf svn_keywords=Author+Date+Id+Revision
 etc/cygwin_inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/example.conf svn_keywords=Author+Date+Id+Revision
+etc/input.conf svn_keywords=Author+Date+Id+Revision
 etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 /fibmap_mplayer.c svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
