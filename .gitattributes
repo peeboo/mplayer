@@ -86,6 +86,7 @@ TOOLS/blocking.c svn_keywords=Author+Date+Id+Revision
 TOOLS/buffer.c svn_keywords=Author+Date+Id+Revision
 TOOLS/c svn_keywords=Author+Date+Id+Revision
 TOOLS/cache.c svn_keywords=Author+Date+Id+Revision
+TOOLS/cache2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/cpuinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
