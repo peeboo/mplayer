@@ -34,6 +34,7 @@ TOOLS/GL-test/compile.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/gltest.c svn_keywords=Author+Date+Id+Revision
 TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block.c svn_keywords=Author+Date+Id+Revision
+TOOLS/audio-block2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-select.c svn_keywords=Author+Date+Id+Revision
 TOOLS/c svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
