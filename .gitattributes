@@ -670,6 +670,7 @@ libdha/sysdep/pci_svr4.c svn_keywords=Author+Date+Id+Revision
 libdha/sysdep/pci_win32.c svn_keywords=Author+Date+Id+Revision
 libdha/sysdep/pci_x86.c svn_keywords=Author+Date+Id+Revision
 libdha/test.c svn_keywords=Author+Date+Id+Revision
+libfaad2/.cvsignore svn_keywords=Author+Date+Id+Revision
 libfaad2/Makefile svn_keywords=Author+Date+Id+Revision
 libfaad2/README svn_keywords=Author+Date+Id+Revision
 libfaad2/bits.h svn_keywords=Author+Date+Id+Revision
