@@ -43,6 +43,7 @@ DOCS/faq.html svn_keywords=Author+Date+Id+Revision
 DOCS/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/skin.html svn_keywords=Author+Date+Id+Revision
 DOCS/sound.html svn_keywords=Author+Date+Id+Revision
+DOCS/tech/cvs-howto.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/general.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/mpsub.sub svn_keywords=Author+Date+Id+Revision
 DOCS/tech/patches.txt svn_keywords=Author+Date+Id+Revision
