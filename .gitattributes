@@ -522,3 +522,5 @@ postproc/swscale_template.c svn_keywords=Author+Date+Id+Revision
 xa/xa_gsm.c svn_keywords=Author+Date+Id+Revision
 xa/xa_gsm.h svn_keywords=Author+Date+Id+Revision
 xa/xa_gsm_int.h svn_keywords=Author+Date+Id+Revision
+/xacodec.c svn_keywords=Author+Date+Id+Revision
+/xacodec.h svn_keywords=Author+Date+Id+Revision
