@@ -225,6 +225,7 @@ TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mem2dump.c svn_keywords=Author+Date+Id+Revision
 TOOLS/menc2pass svn_keywords=Author+Date+Id+Revision
 TOOLS/mencvcd svn_keywords=Author+Date+Id+Revision
+TOOLS/midentify svn_keywords=Author+Date+Id+Revision
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mp.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/mpconsole svn_keywords=Author+Date+Id+Revision
