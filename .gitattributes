@@ -317,6 +317,7 @@ libvo/vo_fbdev.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_fsdga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_ggi.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gl.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_gl2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_md5.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mpegpes.c svn_keywords=Author+Date+Id+Revision
