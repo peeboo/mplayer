@@ -143,6 +143,7 @@ DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/ru/codecs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/edl.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/features.xml svn_keywords=Author+Date+Id+Revision
