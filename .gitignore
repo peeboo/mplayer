@@ -12,6 +12,7 @@ libvo/.depend
 libvo/config.mak
 linux/.depend
 loader/dshow/.depend
+/mencoder
 mp3lib/.depend
 mp3lib/config.mak
 /mplayer
