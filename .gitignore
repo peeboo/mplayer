@@ -4,7 +4,7 @@
 DOCS/HTML
 DOCS/HTML-single
 DOCS/xml/html-chunk.xsl
-DOCS/xml/html.xsl
+DOCS/xml/html-single.xsl
 DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
 Gui/.depend
