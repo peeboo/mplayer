@@ -16,8 +16,6 @@ DOCS/xml/xsltproc.sh
 Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
-TOOLS/audio-block
-TOOLS/audio-select
 TOOLS/bios2dump
 TOOLS/cpuinfo
 TOOLS/fastmem-k6
