@@ -313,6 +313,7 @@ libao2/ao_alsa5.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa9.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_dxr3.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_mpegpes.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_nas.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_null.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_oss.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_pcm.c svn_keywords=Author+Date+Id+Revision
