@@ -399,6 +399,7 @@ libdha/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 libdha/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
 libdha/libdha.c svn_keywords=Author+Date+Id+Revision
 libdha/libdha.h svn_keywords=Author+Date+Id+Revision
+libdha/mtrr.c svn_keywords=Author+Date+Id+Revision
 libdha/oth/pci.db.gz svneol=native#unset svn_keywords=Author+Date+Id+Revision
 libdha/pci.c svn_keywords=Author+Date+Id+Revision
 libdha/pci_db2c.awk svn_keywords=Author+Date+Id+Revision
