@@ -891,6 +891,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /playtreeparser.h svn_keywords=Author+Date+Id+Revision
 postproc/.cvsignore svn_keywords=Author+Date+Id+Revision
 postproc/Makefile svn_keywords=Author+Date+Id+Revision
+postproc/cs_test.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.h svn_keywords=Author+Date+Id+Revision
 postproc/postprocess_template.c svn_keywords=Author+Date+Id+Revision
