@@ -1416,7 +1416,6 @@ tremor/block.c svn_keywords=Author+Date+Id+Revision
 tremor/codebook.c svn_keywords=Author+Date+Id+Revision
 tremor/codebook.h svn_keywords=Author+Date+Id+Revision
 tremor/codec_internal.h svn_keywords=Author+Date+Id+Revision
-tremor/config_types.h svn_keywords=Author+Date+Id+Revision
 tremor/floor0.c svn_keywords=Author+Date+Id+Revision
 tremor/floor1.c svn_keywords=Author+Date+Id+Revision
 tremor/framing.c svn_keywords=Author+Date+Id+Revision
