@@ -645,6 +645,7 @@ libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_nuv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_ogg.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_pva.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rawaudio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rawdv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_real.c svn_keywords=Author+Date+Id+Revision
