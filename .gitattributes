@@ -35,6 +35,7 @@ TOOLS/c svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
+TOOLS/perlbench.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/png2raw.c svn_keywords=Author+Date+Id+Revision
 TVout/Mon-640x400 svn_keywords=Author+Date+Id+Revision
 TVout/Mon-640x480 svn_keywords=Author+Date+Id+Revision
