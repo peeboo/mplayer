@@ -54,6 +54,7 @@ libmpeg2/.depend
 libvo/.depend
 libvo/config.mak
 linux/.depend
+loader/dmo/.depend
 loader/dshow/.depend
 /mencoder
 mp3lib/.depend

@@ -914,6 +914,7 @@ linux/vsscanf.c svn_keywords=Author+Date+Id+Revision
 loader/Makefile svn_keywords=Author+Date+Id+Revision
 loader/afl.c svn_keywords=Author+Date+Id+Revision
 loader/com.h svn_keywords=Author+Date+Id+Revision
+loader/dmo/.cvsignore svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_Filter.h svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_VideoDecoder.c svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_VideoDecoder.h svn_keywords=Author+Date+Id+Revision
