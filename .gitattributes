@@ -41,6 +41,7 @@ DOCS/tech/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/tech/Doxyfile svn_keywords=Author+Date+Id+Revision
 DOCS/tech/MAINTAINERS svn_keywords=Author+Date+Id+Revision
 DOCS/tech/TODO svn_keywords=Author+Date+Id+Revision
+DOCS/tech/binary-packaging.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/code-documentation.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/codec-devel.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/codecs-in.html svn_keywords=Author+Date+Id+Revision
