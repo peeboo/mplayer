@@ -128,7 +128,6 @@ debian/control svn_keywords=Author+Date+Id+Revision
 debian/copyright svn_keywords=Author+Date+Id+Revision
 debian/dirs svn_keywords=Author+Date+Id+Revision
 debian/docs svn_keywords=Author+Date+Id+Revision
-debian/files svn_keywords=Author+Date+Id+Revision
 debian/menu svn_keywords=Author+Date+Id+Revision
 debian/postinst svn_keywords=Author+Date+Id+Revision
 debian/postinst.templates svn_keywords=Author+Date+Id+Revision
