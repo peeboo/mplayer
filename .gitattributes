@@ -579,7 +579,6 @@ libvo/vosub_vidix.h svn_keywords=Author+Date+Id+Revision
 libvo/wskeys.h svn_keywords=Author+Date+Id+Revision
 libvo/x11_common.c svn_keywords=Author+Date+Id+Revision
 libvo/x11_common.h svn_keywords=Author+Date+Id+Revision
-libvo/zoran.h svn_keywords=Author+Date+Id+Revision
 linux/.cvsignore svn_keywords=Author+Date+Id+Revision
 linux/Makefile svn_keywords=Author+Date+Id+Revision
 linux/getch2.c svn_keywords=Author+Date+Id+Revision
