@@ -356,6 +356,7 @@ mp3lib/dct64_3dnow.s svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_MMX.s svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_i386.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_k7.s svn_keywords=Author+Date+Id+Revision
+mp3lib/dct64_sse.s svn_keywords=Author+Date+Id+Revision
 mp3lib/decod386.c svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_MMX.s svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_i586.s svn_keywords=Author+Date+Id+Revision
