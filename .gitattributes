@@ -165,6 +165,8 @@ loader/config.h svn_keywords=Author+Date+Id+Revision
 loader/driver.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/DS_Filter.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/DS_Filter.h svn_keywords=Author+Date+Id+Revision
+loader/dshow/DS_VideoDec.c svn_keywords=Author+Date+Id+Revision
+loader/dshow/DS_VideoDec.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/Makefile svn_keywords=Author+Date+Id+Revision
 loader/dshow/allocator.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/allocator.h svn_keywords=Author+Date+Id+Revision
@@ -178,6 +180,7 @@ loader/dshow/interfaces.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/iunk.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/outputpin.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/outputpin.h svn_keywords=Author+Date+Id+Revision
+loader/dshow/test.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/test.divx svneol=native#unset svn_keywords=Author+Date+Id+Revision
 loader/elfdll.c svn_keywords=Author+Date+Id+Revision
 loader/ext.c svn_keywords=Author+Date+Id+Revision
