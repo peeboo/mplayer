@@ -323,6 +323,7 @@ mp3lib/decode_i586.s svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_k7.s svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_sse.s svn_keywords=Author+Date+Id+Revision
 mp3lib/equalizer.c svn_keywords=Author+Date+Id+Revision
+mp3lib/fastmemcpy.h svn_keywords=Author+Date+Id+Revision
 mp3lib/huffman.h svn_keywords=Author+Date+Id+Revision
 mp3lib/l2tables.h svn_keywords=Author+Date+Id+Revision
 mp3lib/layer2.c svn_keywords=Author+Date+Id+Revision
