@@ -392,6 +392,7 @@ libdha/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.vxd -text
+libdha/kernelhelper/Makefile svn_keywords=Author+Date+Id+Revision
 libdha/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 libdha/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 libdha/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
