@@ -147,6 +147,7 @@ debian/postinst.templates svn_keywords=Author+Date+Id+Revision
 debian/rules svn_keywords=Author+Date+Id+Revision
 debian/substvars svn_keywords=Author+Date+Id+Revision
 /dec_audio.c svn_keywords=Author+Date+Id+Revision
+/dec_video.c svn_keywords=Author+Date+Id+Revision
 /demux_asf.c svn_keywords=Author+Date+Id+Revision
 /demux_avi.c svn_keywords=Author+Date+Id+Revision
 /demux_mpg.c svn_keywords=Author+Date+Id+Revision
