@@ -93,7 +93,6 @@ DOCS/tech/formats.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/general.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/hwac3.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libao2.txt svn_keywords=Author+Date+Id+Revision
-DOCS/tech/libavc-options.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libmpcodecs.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libvo.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libvo2.txt svn_keywords=Author+Date+Id+Revision
