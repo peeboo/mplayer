@@ -204,6 +204,7 @@ DOCS/xml/ru/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/patches.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/tvinput.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/ru/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/users-vs-dev.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html-chunk.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html-common.xsl svn_keywords=Author+Date+Id+Revision
