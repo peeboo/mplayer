@@ -546,6 +546,7 @@ libmpcodecs/ad.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_acm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_alaw.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_dk3adpcm.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ad_dmo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_dvdpcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_faad.c svn_keywords=Author+Date+Id+Revision
