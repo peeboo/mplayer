@@ -283,6 +283,7 @@ mp3lib/tabinit.c svn_keywords=Author+Date+Id+Revision
 /spudec.h svn_keywords=Author+Date+Id+Revision
 /stheader.h svn_keywords=Author+Date+Id+Revision
 /stream.c svn_keywords=Author+Date+Id+Revision
+/stream.h svn_keywords=Author+Date+Id+Revision
 /subreader.c svn_keywords=Author+Date+Id+Revision
 /subreader.h svn_keywords=Author+Date+Id+Revision
 /tvision.c svn_keywords=Author+Date+Id+Revision
