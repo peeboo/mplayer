@@ -596,6 +596,7 @@ libaf/.cvsignore svn_keywords=Author+Date+Id+Revision
 libaf/Makefile svn_keywords=Author+Date+Id+Revision
 libaf/af.c svn_keywords=Author+Date+Id+Revision
 libaf/af.h svn_keywords=Author+Date+Id+Revision
+libaf/af_center.c svn_keywords=Author+Date+Id+Revision
 libaf/af_channels.c svn_keywords=Author+Date+Id+Revision
 libaf/af_comp.c svn_keywords=Author+Date+Id+Revision
 libaf/af_delay.c svn_keywords=Author+Date+Id+Revision
