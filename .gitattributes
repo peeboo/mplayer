@@ -459,6 +459,7 @@ libmpdemux/nuppelvideo.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/open.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/qtpalette.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/rtp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/rtp.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/stheader.h svn_keywords=Author+Date+Id+Revision
