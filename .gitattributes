@@ -1103,6 +1103,7 @@ libmpeg2/motion_comp_vis.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/mpeg2.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/mpeg2_internal.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/slice.c svn_keywords=Author+Date+Id+Revision
+libmpeg2/uyvy.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/vis.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/vlc.h svn_keywords=Author+Date+Id+Revision
 libvo/.cvsignore svn_keywords=Author+Date+Id+Revision
