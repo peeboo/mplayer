@@ -759,7 +759,6 @@ libmpcodecs/native/lzoconf.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/minilzo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/minilzo.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/nuppelvideo.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/qtrle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/roqav.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/tables144.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/tables288.h svn_keywords=Author+Date+Id+Revision
