@@ -210,6 +210,7 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /ac3-iec958.h svn_keywords=Author+Date+Id+Revision
 /alaw.h svn_keywords=Author+Date+Id+Revision
 /bswap.h svn_keywords=Author+Date+Id+Revision
+/cfg-common.h svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer-def.h svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer.h svn_keywords=Author+Date+Id+Revision
 /cfgparser.c svn_keywords=Author+Date+Id+Revision
