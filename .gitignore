@@ -24,6 +24,7 @@ TOOLS/png2raw
 liba52/.depend
 libao2/.depend
 libao2/config.mak
+libdha/.depend
 libmpdemux/.depend
 libmpeg2/.depend
 libvo/.depend
@@ -39,3 +40,4 @@ mp3lib/test2
 postproc/.depend
 /version.h
 vidix/.depend
+vidix/drivers/.depend
