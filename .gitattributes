@@ -442,7 +442,6 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /cpudetect.c svn_keywords=Author+Date+Id+Revision
 /cpudetect.h svn_keywords=Author+Date+Id+Revision
 /cputable.h svn_keywords=Author+Date+Id+Revision
-/darwinfixlib.sh svn_keywords=Author+Date+Id+Revision
 debian-build/.cvsignore svn_keywords=Author+Date+Id+Revision
 debian-build/00README svn_keywords=Author+Date+Id+Revision
 debian-build/README.debian svn_keywords=Author+Date+Id+Revision
