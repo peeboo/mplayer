@@ -588,6 +588,7 @@ libmpcodecs/vf.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_cropdetect.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_dint.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dvbscale.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_eq.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_expand.c svn_keywords=Author+Date+Id+Revision
