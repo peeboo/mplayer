@@ -61,6 +61,7 @@ mp3lib/config.mak
 mp3lib/test1
 mp3lib/test2
 /mplayer
+/mplayer.exe.spec.c
 postproc/.depend
 /version.h
 vidix/.depend
