@@ -26,7 +26,6 @@ DOCS/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/tech/general.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/tech-hun.txt svn_keywords=Author+Date+Id+Revision
 /Makefile svn_keywords=Author+Date+Id+Revision
-/Makefile.No-DS svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/compile.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/gltest.c svn_keywords=Author+Date+Id+Revision
 TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
