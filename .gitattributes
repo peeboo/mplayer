@@ -298,6 +298,7 @@ mp3lib/mp3.h svn_keywords=Author+Date+Id+Revision
 mp3lib/mpg123.h svn_keywords=Author+Date+Id+Revision
 mp3lib/sr1.c svn_keywords=Author+Date+Id+Revision
 mp3lib/tabinit.c svn_keywords=Author+Date+Id+Revision
+mp3lib/test.c svn_keywords=Author+Date+Id+Revision
 /mplayer.c svn_keywords=Author+Date+Id+Revision
 /mplayer.h svn_keywords=Author+Date+Id+Revision
 /parse_es.c svn_keywords=Author+Date+Id+Revision
