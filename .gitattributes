@@ -477,7 +477,6 @@ drivers/tdfx_vid_tst.c svn_keywords=Author+Date+Id+Revision
 /edl.h svn_keywords=Author+Date+Id+Revision
 etc/.libdeps svn_keywords=Author+Date+Id+Revision
 etc/codecs.conf svn_keywords=Author+Date+Id+Revision
-etc/cygwin_inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/dvb-menu.conf svn_keywords=Author+Date+Id+Revision
 etc/example.conf svn_keywords=Author+Date+Id+Revision
 etc/input.conf svn_keywords=Author+Date+Id+Revision
