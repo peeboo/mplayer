@@ -276,6 +276,7 @@ Gui/wm/wskeys.h svn_keywords=Author+Date+Id+Revision
 Gui/wm/wsmkeys.h svn_keywords=Author+Date+Id+Revision
 Gui/wm/wsxdnd.c svn_keywords=Author+Date+Id+Revision
 Gui/wm/wsxdnd.h svn_keywords=Author+Date+Id+Revision
+/LICENSE svn_keywords=Author+Date+Id+Revision
 /Makefile svn_keywords=Author+Date+Id+Revision
 /README svn_keywords=Author+Date+Id+Revision
 TOOLS/.cvsignore svn_keywords=Author+Date+Id+Revision
