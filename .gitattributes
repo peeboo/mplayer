@@ -813,6 +813,7 @@ libmpcodecs/vf_boxblur.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_cropdetect.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_decimate.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_delogo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_denoise3d.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_detc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dint.c svn_keywords=Author+Date+Id+Revision
