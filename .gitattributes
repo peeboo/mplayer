@@ -166,6 +166,7 @@ TOOLS/cygwin_inttypes.h svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mem2dump.c svn_keywords=Author+Date+Id+Revision
+TOOLS/menc2pass svn_keywords=Author+Date+Id+Revision
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mp.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/mpfc/Makefile svn_keywords=Author+Date+Id+Revision
