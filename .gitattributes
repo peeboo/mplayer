@@ -565,6 +565,7 @@ libaf/af_comp.c svn_keywords=Author+Date+Id+Revision
 libaf/af_delay.c svn_keywords=Author+Date+Id+Revision
 libaf/af_dummy.c svn_keywords=Author+Date+Id+Revision
 libaf/af_equalizer.c svn_keywords=Author+Date+Id+Revision
+libaf/af_export.c svn_keywords=Author+Date+Id+Revision
 libaf/af_format.c svn_keywords=Author+Date+Id+Revision
 libaf/af_format.h svn_keywords=Author+Date+Id+Revision
 libaf/af_format_alaw.c svn_keywords=Author+Date+Id+Revision
