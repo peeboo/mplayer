@@ -73,7 +73,6 @@ debian/files svn_keywords=Author+Date+Id+Revision
 debian/inetd.conf.ex svn_keywords=Author+Date+Id+Revision
 debian/info.ex svn_keywords=Author+Date+Id+Revision
 debian/init.d.ex svn_keywords=Author+Date+Id+Revision
-debian/manpage.1.ex svn_keywords=Author+Date+Id+Revision
 debian/menu.ex svn_keywords=Author+Date+Id+Revision
 debian/rules svn_keywords=Author+Date+Id+Revision
 debian/substvars svn_keywords=Author+Date+Id+Revision
