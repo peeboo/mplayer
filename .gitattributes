@@ -789,6 +789,7 @@ libvo/video_out_internal.h svn_keywords=Author+Date+Id+Revision
 libvo/videodev_mjpeg.h svn_keywords=Author+Date+Id+Revision
 libvo/vo_3dfx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_aa.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_bl.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directfb2.c svn_keywords=Author+Date+Id+Revision
