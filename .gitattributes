@@ -130,6 +130,7 @@ libvo/mga_common.c svn_keywords=Author+Date+Id+Revision
 libvo/mmx.h svn_keywords=Author+Date+Id+Revision
 libvo/rgb15to16mmx.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.c svn_keywords=Author+Date+Id+Revision
+libvo/sub.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
 libvo/video_out.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out_internal.h svn_keywords=Author+Date+Id+Revision
