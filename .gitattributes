@@ -1095,6 +1095,7 @@ libmpdvdkit2/ioctl.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/libdvdcss.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/libdvdcss.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/libdvdcss_changes.diff svn_keywords=Author+Date+Id+Revision
+libmpdvdkit2/libdvdread_changes.diff svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/nav_print.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/nav_print.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/nav_read.c svn_keywords=Author+Date+Id+Revision
