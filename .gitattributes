@@ -1,9 +1,5 @@
 * text=auto !eol
 /.cvsignore svn_keywords=Author+Date+Id+Revision
-DOCS/German/BUGREPORTS svn_keywords=Author+Date+Id+Revision
-DOCS/German/CDROM svn_keywords=Author+Date+Id+Revision
-DOCS/German/CODECS svn_keywords=Author+Date+Id+Revision
-DOCS/German/DEBIAN svn_keywords=Author+Date+Id+Revision
 DOCS/German/bugreports.html svn_keywords=Author+Date+Id+Revision
 DOCS/German/documentation.html svn_keywords=Author+Date+Id+Revision
 DOCS/German/sound.html svn_keywords=Author+Date+Id+Revision
