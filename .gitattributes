@@ -599,6 +599,7 @@ libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_cinepak.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_cyuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_divx4.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_dmo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_fli.c svn_keywords=Author+Date+Id+Revision
