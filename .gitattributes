@@ -1115,6 +1115,7 @@ libvo/vo_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_null.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_pgm.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_png.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_pnm.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_quartz.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_quartz.h svn_keywords=Author+Date+Id+Revision
 libvo/vo_sdl.c svn_keywords=Author+Date+Id+Revision
