@@ -85,6 +85,7 @@ drivers/mga_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/mga_vid_test.c svn_keywords=Author+Date+Id+Revision
 drivers/sis_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/sis_vid.h svn_keywords=Author+Date+Id+Revision
+/fifo.c svn_keywords=Author+Date+Id+Revision
 /help_avp.h svn_keywords=Author+Date+Id+Revision
 /help_mp.h svn_keywords=Author+Date+Id+Revision
 liba52/srfftp.h svn_keywords=Author+Date+Id+Revision
