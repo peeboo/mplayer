@@ -63,6 +63,7 @@ drivers/mga_vid_test
 input/.depend
 liba52/.depend
 libaf/.depend
+libaf/config.mak
 libao2/.depend
 libao2/config.mak
 /libavcodec

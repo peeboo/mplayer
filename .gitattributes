@@ -595,6 +595,7 @@ libaf/af_format_ulaw.c svn_keywords=Author+Date+Id+Revision
 libaf/af_gate.c svn_keywords=Author+Date+Id+Revision
 libaf/af_hrtf.c svn_keywords=Author+Date+Id+Revision
 libaf/af_hrtf.h svn_keywords=Author+Date+Id+Revision
+libaf/af_ladspa.c svn_keywords=Author+Date+Id+Revision
 libaf/af_lavcresample.c svn_keywords=Author+Date+Id+Revision
 libaf/af_mp.c svn_keywords=Author+Date+Id+Revision
 libaf/af_mp.h svn_keywords=Author+Date+Id+Revision
