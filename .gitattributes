@@ -1120,6 +1120,7 @@ osdep/shmem.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.h svn_keywords=Author+Date+Id+Revision
 osdep/strsep.c svn_keywords=Author+Date+Id+Revision
 osdep/timer-lx.c svn_keywords=Author+Date+Id+Revision
+osdep/timer-macosx.c svn_keywords=Author+Date+Id+Revision
 osdep/timer.h svn_keywords=Author+Date+Id+Revision
 osdep/vbelib.c svn_keywords=Author+Date+Id+Revision
 osdep/vbelib.h svn_keywords=Author+Date+Id+Revision
