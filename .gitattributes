@@ -546,7 +546,6 @@ loader/wine/winnt.h svn_keywords=Author+Date+Id+Revision
 loader/wine/winreg.h svn_keywords=Author+Date+Id+Revision
 loader/wine/winuser.h svn_keywords=Author+Date+Id+Revision
 loader/wineacm.h svn_keywords=Author+Date+Id+Revision
-/memset.c svn_keywords=Author+Date+Id+Revision
 /mencoder.c svn_keywords=Author+Date+Id+Revision
 /mixer.c svn_keywords=Author+Date+Id+Revision
 /mixer.h svn_keywords=Author+Date+Id+Revision
