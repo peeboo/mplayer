@@ -1435,6 +1435,7 @@ tremor/registry.h svn_keywords=Author+Date+Id+Revision
 tremor/res012.c svn_keywords=Author+Date+Id+Revision
 tremor/sharedbook.c svn_keywords=Author+Date+Id+Revision
 tremor/synthesis.c svn_keywords=Author+Date+Id+Revision
+tremor/tremor.diff svn_keywords=Author+Date+Id+Revision
 tremor/window.c svn_keywords=Author+Date+Id+Revision
 tremor/window.h svn_keywords=Author+Date+Id+Revision
 tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
