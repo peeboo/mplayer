@@ -86,6 +86,7 @@ DOCS/xml/README.maintainers svn_keywords=Author+Date+Id+Revision
 DOCS/xml/configure svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/Makefile svn_keywords=Author+Date+Id+Revision
+DOCS/xml/cs/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/codecs.xml svn_keywords=Author+Date+Id+Revision
