@@ -570,6 +570,7 @@ libmpcodecs/vf_mirror.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_noise.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_palette.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_pp.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_rectangle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rgb2bgr.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rotate.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_scale.c svn_keywords=Author+Date+Id+Revision
