@@ -199,6 +199,7 @@ drivers/sis_vid.h svn_keywords=Author+Date+Id+Revision
 /fibmap_mplayer.c svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
+/help_mp-hu.h svn_keywords=Author+Date+Id+Revision
 /help_mp.h svn_keywords=Author+Date+Id+Revision
 /http.c svn_keywords=Author+Date+Id+Revision
 /http.h svn_keywords=Author+Date+Id+Revision
