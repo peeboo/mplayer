@@ -168,6 +168,7 @@ DOCS/xml/pl/html.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/patches.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/ports.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/pl/skin.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/Makefile svn_keywords=Author+Date+Id+Revision
