@@ -707,6 +707,7 @@ postproc/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
 postproc/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
 postproc/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
 /qtrle.c svn_keywords=Author+Date+Id+Revision
+/qtsmc.c svn_keywords=Author+Date+Id+Revision
 /spudec.c svn_keywords=Author+Date+Id+Revision
 /spudec.h svn_keywords=Author+Date+Id+Revision
 /subreader.c svn_keywords=Author+Date+Id+Revision
