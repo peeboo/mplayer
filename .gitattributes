@@ -1,6 +1,5 @@
 * text=auto !eol
 /.cvsignore svn_keywords=Author+Date+Id+Revision
-DOCS/BUGS svn_keywords=Author+Date+Id+Revision
 DOCS/German/BUGREPORTS svn_keywords=Author+Date+Id+Revision
 DOCS/German/CDROM svn_keywords=Author+Date+Id+Revision
 DOCS/German/CODECS svn_keywords=Author+Date+Id+Revision
@@ -29,7 +28,6 @@ DOCS/Polish/SDL svn_keywords=Author+Date+Id+Revision
 DOCS/Polish/SOUNDCARDS svn_keywords=Author+Date+Id+Revision
 DOCS/Polish/SUB+OSD svn_keywords=Author+Date+Id+Revision
 DOCS/Polish/documentation.sgml svn_keywords=Author+Date+Id+Revision
-DOCS/Requirements svn_keywords=Author+Date+Id+Revision
 DOCS/bugreports.html svn_keywords=Author+Date+Id+Revision
 DOCS/cd-dvd.html svn_keywords=Author+Date+Id+Revision
 DOCS/codecs-in.html svn_keywords=Author+Date+Id+Revision
