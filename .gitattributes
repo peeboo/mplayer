@@ -456,6 +456,7 @@ libdha/test.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpcodecs/Makefile svn_keywords=Author+Date+Id+Revision
 libmpcodecs/TODO svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ad.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_a52.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_acm.c svn_keywords=Author+Date+Id+Revision
