@@ -712,6 +712,7 @@ libmpcodecs/ad_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_dvdpcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_faad.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_ffmpeg.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ad_flac.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_hwac3.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_imaadpcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_internal.h svn_keywords=Author+Date+Id+Revision
