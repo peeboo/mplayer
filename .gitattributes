@@ -544,6 +544,7 @@ libmpcodecs/vd_raw.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_real.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_rle.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_roqvideo.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_svq1.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_vfw.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_xanim.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_zlib.c svn_keywords=Author+Date+Id+Revision
