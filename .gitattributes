@@ -384,6 +384,7 @@ TOOLS/sws-test svn_keywords=Author+Date+Id+Revision
 TOOLS/usleep-test.c svn_keywords=Author+Date+Id+Revision
 TOOLS/vivodump.c svn_keywords=Author+Date+Id+Revision
 TOOLS/w32codec_dl.pl svn_keywords=Author+Date+Id+Revision
+TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 TVout/Mon-640x400 svn_keywords=Author+Date+Id+Revision
 TVout/Mon-640x480 svn_keywords=Author+Date+Id+Revision
