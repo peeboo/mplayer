@@ -1069,6 +1069,7 @@ libmpeg2/idct.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/idct_alpha.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/idct_altivec.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/idct_mmx.c svn_keywords=Author+Date+Id+Revision
+libmpeg2/libmpeg-0.4.0.diff svn_keywords=Author+Date+Id+Revision
 libmpeg2/mmx.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp_alpha.c svn_keywords=Author+Date+Id+Revision
