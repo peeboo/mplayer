@@ -1107,6 +1107,7 @@ libvo/vo_svga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_syncfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tdfx_vid.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tdfxfb.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_tga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_vesa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_x11.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xmga.c svn_keywords=Author+Date+Id+Revision
