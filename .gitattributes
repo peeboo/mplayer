@@ -1313,6 +1313,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mplayer_wine.spec.c svn_keywords=Author+Date+Id+Revision
 osdep/.cvsignore svn_keywords=Author+Date+Id+Revision
 osdep/Makefile svn_keywords=Author+Date+Id+Revision
+osdep/fseeko.c svn_keywords=Author+Date+Id+Revision
 osdep/getch2-win.c svn_keywords=Author+Date+Id+Revision
 osdep/getch2.c svn_keywords=Author+Date+Id+Revision
 osdep/getch2.h svn_keywords=Author+Date+Id+Revision
