@@ -554,6 +554,7 @@ libmpcodecs/vf_flip.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_lavc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_mirror.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_noise.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_palette.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_pp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rgb2bgr.c svn_keywords=Author+Date+Id+Revision
