@@ -773,6 +773,7 @@ libmpcodecs/ve_nuv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_qtvideo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_raw.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_vfw.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ve_x264.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_xvid.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_xvid4.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf.c svn_keywords=Author+Date+Id+Revision
