@@ -2,6 +2,7 @@
 /.developer
 /config.h
 /config.mak
+/configure.log
 /help_mp.h
 libao2/.depend
 libao2/config.mak
