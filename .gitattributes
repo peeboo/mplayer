@@ -1,5 +1,6 @@
 * text=auto !eol
 /.cvsignore svn_keywords=Author+Date+Id+Revision
+/AUTHORS svn_keywords=Author+Date+Id+Revision
 DOCS/French/bugreports.html svn_keywords=Author+Date+Id+Revision
 DOCS/French/cd-dvd.html svn_keywords=Author+Date+Id+Revision
 DOCS/French/codecs.html svn_keywords=Author+Date+Id+Revision
