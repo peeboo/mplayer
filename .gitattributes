@@ -93,7 +93,6 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /alaw.c svn_keywords=Author+Date+Id+Revision
 /asfheader.c svn_keywords=Author+Date+Id+Revision
 /aviheader.c svn_keywords=Author+Date+Id+Revision
-/aviparse.c svn_keywords=Author+Date+Id+Revision
 /aviprint.c svn_keywords=Author+Date+Id+Revision
 /aviwrite.c svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer-def.h svn_keywords=Author+Date+Id+Revision
