@@ -392,6 +392,9 @@ libdha/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.vxd -text
+libdha/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
+libdha/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
+libdha/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
 libdha/libdha.c svn_keywords=Author+Date+Id+Revision
 libdha/libdha.h svn_keywords=Author+Date+Id+Revision
 libdha/oth/pci.db.gz svneol=native#unset svn_keywords=Author+Date+Id+Revision
