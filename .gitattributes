@@ -163,6 +163,7 @@ DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/features.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/patches.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/hu/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
