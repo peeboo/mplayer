@@ -957,6 +957,7 @@ libvo/vo_tdfxfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_vesa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_x11.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xmga.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_xover.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xv.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xvidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_yuv4mpeg.c svn_keywords=Author+Date+Id+Revision
