@@ -32,6 +32,8 @@ loader/dshow/.depend
 /mencoder
 mp3lib/.depend
 mp3lib/config.mak
+mp3lib/test1
+mp3lib/test2
 /mplayer
 postproc/.depend
 /version.h
