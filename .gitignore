@@ -1,6 +1,7 @@
 /.depend
 /config.h
 /config.mak
+/help_mp.h
 libao2/config.mak
 libvo/config.mak
 mp3lib/config.mak
