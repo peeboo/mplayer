@@ -547,6 +547,7 @@ libmpcodecs/vf_pp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rgb2bgr.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rotate.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_scale.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_test.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_vo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yuy2.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vfcap.h svn_keywords=Author+Date+Id+Revision
