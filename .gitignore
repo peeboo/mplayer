@@ -3,8 +3,16 @@
 /config.h
 /config.mak
 /help_mp.h
+libao2/.depend
 libao2/config.mak
+libmpdemux/.depend
+libmpeg2/.depend
+libvo/.depend
 libvo/config.mak
+linux/.depend
+loader/dshow/.depend
+mp3lib/.depend
 mp3lib/config.mak
 /mplayer
+postproc/.depend
 /version.h
