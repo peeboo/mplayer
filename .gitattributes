@@ -104,6 +104,7 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /codecctrl.c svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
 debian/README.debian svn_keywords=Author+Date+Id+Revision
+debian/TODO.Debian svn_keywords=Author+Date+Id+Revision
 debian/changelog svn_keywords=Author+Date+Id+Revision
 debian/control svn_keywords=Author+Date+Id+Revision
 debian/copyright svn_keywords=Author+Date+Id+Revision
