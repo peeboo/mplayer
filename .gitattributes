@@ -633,6 +633,7 @@ libmpdemux/cache2.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cdd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/cdda.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cddb.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/cdinfo.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/config.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_audio.c svn_keywords=Author+Date+Id+Revision
