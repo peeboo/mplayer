@@ -21,6 +21,7 @@ TOOLS/png2raw
 /config.mak
 /configure.log
 /help_mp.h
+liba52/.depend
 libao2/.depend
 libao2/config.mak
 libmpdemux/.depend

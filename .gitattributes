@@ -304,6 +304,7 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 /help_mp-ru.h svn_keywords=Author+Date+Id+Revision
 /ima4.c svn_keywords=Author+Date+Id+Revision
 /ima4.h svn_keywords=Author+Date+Id+Revision
+liba52/.cvsignore svn_keywords=Author+Date+Id+Revision
 liba52/Makefile svn_keywords=Author+Date+Id+Revision
 liba52/a52.h svn_keywords=Author+Date+Id+Revision
 liba52/a52_internal.h svn_keywords=Author+Date+Id+Revision
