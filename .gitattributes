@@ -357,7 +357,6 @@ libvo/mmx.h svn_keywords=Author+Date+Id+Revision
 libvo/osd.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.h svn_keywords=Author+Date+Id+Revision
 libvo/osd_template.c svn_keywords=Author+Date+Id+Revision
-libvo/rgb15to16mmx.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
