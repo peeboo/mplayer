@@ -801,6 +801,7 @@ libvo/vo_bl.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directfb2.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_directx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dxr2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dxr3.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_fbdev.c svn_keywords=Author+Date+Id+Revision
