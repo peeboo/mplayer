@@ -522,7 +522,6 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mplayer.c svn_keywords=Author+Date+Id+Revision
 /mplayer.h svn_keywords=Author+Date+Id+Revision
 postproc/Makefile svn_keywords=Author+Date+Id+Revision
-postproc/mmx.h svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.h svn_keywords=Author+Date+Id+Revision
 postproc/postprocess_template.c svn_keywords=Author+Date+Id+Revision
