@@ -60,6 +60,7 @@ TOOLS/audio-block.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-select.c svn_keywords=Author+Date+Id+Revision
 TOOLS/blocking.c svn_keywords=Author+Date+Id+Revision
+TOOLS/buffer.c svn_keywords=Author+Date+Id+Revision
 TOOLS/c svn_keywords=Author+Date+Id+Revision
 TOOLS/cache.c svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
