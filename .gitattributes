@@ -203,6 +203,7 @@ TVout/matroxset/matroxset.c svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/normal svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/swapit svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/swapped svn_keywords=Author+Date+Id+Revision
+TVout/matroxtv svn_keywords=Author+Date+Id+Revision
 TVout/modules svn_keywords=Author+Date+Id+Revision
 /ac3-iec958.c svn_keywords=Author+Date+Id+Revision
 /ac3-iec958.h svn_keywords=Author+Date+Id+Revision
