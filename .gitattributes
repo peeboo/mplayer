@@ -146,6 +146,7 @@ DOCS/xml/es/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/es/codecs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/edl.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/features.xml svn_keywords=Author+Date+Id+Revision
