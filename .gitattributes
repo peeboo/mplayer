@@ -107,7 +107,7 @@ TOOLS/subfont-c/encodings/runme-kr svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/font.desc.tail svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/osd/README svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/osd/gen.py svn_keywords=Author+Date+Id+Revision
-TOOLS/subfont-c/osd/osd.t1a svn_keywords=Author+Date+Id+Revision
+TOOLS/subfont-c/osd/osd.pfb -text
 TOOLS/subfont-c/osd/runme svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/runme svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/subfont.c svn_keywords=Author+Date+Id+Revision
