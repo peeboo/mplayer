@@ -176,7 +176,6 @@ Gui/skin/font.c svn_keywords=Author+Date+Id+Revision
 Gui/skin/font.h svn_keywords=Author+Date+Id+Revision
 Gui/skin/skin.c svn_keywords=Author+Date+Id+Revision
 Gui/skin/skin.h svn_keywords=Author+Date+Id+Revision
-Gui/wm/widget.h svn_keywords=Author+Date+Id+Revision
 Gui/wm/ws.c svn_keywords=Author+Date+Id+Revision
 Gui/wm/ws.h svn_keywords=Author+Date+Id+Revision
 Gui/wm/wskeys.h svn_keywords=Author+Date+Id+Revision
