@@ -32,6 +32,7 @@ libdha/pci_ids.h
 libdha/pci_names.c
 libdha/pci_names.h
 libdha/pci_vendors.h
+libmpcodecs/.depend
 libmpdemux/.depend
 libmpeg2/.depend
 libvo/.depend
