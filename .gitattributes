@@ -628,6 +628,7 @@ libaf/dsp.h svn_keywords=Author+Date+Id+Revision
 libaf/equalizer.h svn_keywords=Author+Date+Id+Revision
 libaf/filter.c svn_keywords=Author+Date+Id+Revision
 libaf/filter.h svn_keywords=Author+Date+Id+Revision
+libaf/format.c svn_keywords=Author+Date+Id+Revision
 libaf/window.c svn_keywords=Author+Date+Id+Revision
 libaf/window.h svn_keywords=Author+Date+Id+Revision
 libao2/.cvsignore svn_keywords=Author+Date+Id+Revision
