@@ -1355,6 +1355,7 @@ vidix/drivers/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/mach64.h svn_keywords=Author+Date+Id+Revision
 vidix/drivers/mach64_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/mga_vid.c svn_keywords=Author+Date+Id+Revision
+vidix/drivers/nvidia_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/pm3_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/drivers/pm3_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/radeon.h svn_keywords=Author+Date+Id+Revision
