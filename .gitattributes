@@ -355,6 +355,7 @@ TOOLS/.cvsignore svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/compile.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/GL-test/gltest.c svn_keywords=Author+Date+Id+Revision
 TOOLS/Makefile svn_keywords=Author+Date+Id+Revision
+TOOLS/README svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/Mon-640x400 svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/Mon-640x480 svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/TV-640x512 svn_keywords=Author+Date+Id+Revision
