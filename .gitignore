@@ -2,6 +2,9 @@
 /.developer
 /.libdeps
 DOCS/HTML
+DOCS/xml/html.xsl
+DOCS/xml/xmllint.sh
+DOCS/xml/xsltproc.sh
 Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
