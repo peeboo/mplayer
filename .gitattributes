@@ -545,6 +545,7 @@ libvo/vesa_lvo.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
 libvo/video_out.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out_internal.h svn_keywords=Author+Date+Id+Revision
+libvo/videodev_mjpeg.h svn_keywords=Author+Date+Id+Revision
 libvo/vo_3dfx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_aa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dga.c svn_keywords=Author+Date+Id+Revision
