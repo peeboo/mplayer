@@ -565,7 +565,6 @@ libmpcodecs/ad_qtaudio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_realaud.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_roqaudio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_sample.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/components.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_audio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_audio.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
