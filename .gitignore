@@ -40,11 +40,13 @@ libvo/config.mak
 linux/.depend
 loader/dshow/.depend
 /mencoder
+/mencoderxp
 mp3lib/.depend
 mp3lib/config.mak
 mp3lib/test1
 mp3lib/test2
 /mplayer
+/mplayerxp
 postproc/.depend
 /version.h
 vidix/.depend
