@@ -672,6 +672,7 @@ libmenu/menu.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu.h svn_keywords=Author+Date+Id+Revision
 libmenu/menu_cmdlist.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_console.c svn_keywords=Author+Date+Id+Revision
+libmenu/menu_dvbin.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_filesel.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_list.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_list.h svn_keywords=Author+Date+Id+Revision
