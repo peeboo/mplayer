@@ -622,6 +622,7 @@ libvo/osd.h svn_keywords=Author+Date+Id+Revision
 libvo/osd_template.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.c svn_keywords=Author+Date+Id+Revision
 libvo/sub.h svn_keywords=Author+Date+Id+Revision
+libvo/ttf_load.c svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.c svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
