@@ -97,6 +97,7 @@ mp3lib/test2
 /mplayer.exe.spec.c
 osdep/.depend
 postproc/.depend
+tremor/.depend
 /version.h
 vidix/.depend
 vidix/drivers/.depend
