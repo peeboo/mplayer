@@ -824,6 +824,7 @@ libmpcodecs/vf_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_framestep.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_halfpack.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_hqdn3d.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_hue.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_il.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_ilpack.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_ivtc.c svn_keywords=Author+Date+Id+Revision
