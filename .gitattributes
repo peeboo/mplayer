@@ -248,6 +248,7 @@ TOOLS/mwallp/compile.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/mwallp/jpeg.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mwallp/mwallp.c svn_keywords=Author+Date+Id+Revision
 TOOLS/perlbench.pl svn_keywords=Author+Date+Id+Revision
+TOOLS/plotpsnr.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/png2raw.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/HOWTO svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/cook.c svn_keywords=Author+Date+Id+Revision
