@@ -339,6 +339,7 @@ drivers/radeon/radeon_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/radeon/radeonfb.c svn_keywords=Author+Date+Id+Revision
 drivers/sis_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/sis_vid.h svn_keywords=Author+Date+Id+Revision
+etc/.libdeps svn_keywords=Author+Date+Id+Revision
 etc/codecs.conf svn_keywords=Author+Date+Id+Revision
 etc/cygwin_inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/example.conf svn_keywords=Author+Date+Id+Revision
