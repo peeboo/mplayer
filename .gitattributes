@@ -400,6 +400,7 @@ libao2/pl_extrastereo.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_format.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_resample.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_surround.c svn_keywords=Author+Date+Id+Revision
+libao2/pl_volnorm.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_volume.c svn_keywords=Author+Date+Id+Revision
 libao2/remez.c svn_keywords=Author+Date+Id+Revision
 libao2/remez.h svn_keywords=Author+Date+Id+Revision
