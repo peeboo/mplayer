@@ -513,6 +513,7 @@ libvo/vo_vesa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_x11.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xmga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xv.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_xvidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vosub_vidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vosub_vidix.h svn_keywords=Author+Date+Id+Revision
 libvo/wskeys.h svn_keywords=Author+Date+Id+Revision
