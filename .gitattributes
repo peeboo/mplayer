@@ -990,6 +990,7 @@ libmpdemux/ms_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_avi.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/muxer_lavf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_mpeg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_rawvideo.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/netstream.h svn_keywords=Author+Date+Id+Revision
