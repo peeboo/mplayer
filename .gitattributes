@@ -136,6 +136,7 @@ TOOLS/audio-select.c svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark/test-all.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark/test.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark/test1.sh svn_keywords=Author+Date+Id+Revision
+TOOLS/bios2dump.c svn_keywords=Author+Date+Id+Revision
 TOOLS/blocking.c svn_keywords=Author+Date+Id+Revision
 TOOLS/buffer.c svn_keywords=Author+Date+Id+Revision
 TOOLS/c svn_keywords=Author+Date+Id+Revision
