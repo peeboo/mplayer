@@ -463,6 +463,7 @@ libmpcodecs/vd_divx4.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_fli.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_ijpg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_libmpeg2.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_mpng.c svn_keywords=Author+Date+Id+Revision
