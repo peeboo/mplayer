@@ -454,6 +454,7 @@ libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_cinepak.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_null.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_qtrpza.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
 libmpdemux/README svn_keywords=Author+Date+Id+Revision
