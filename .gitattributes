@@ -144,6 +144,7 @@ Gui/mplayer/menu.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/mplayer.c svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/mplayer.h svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/mw.h svn_keywords=Author+Date+Id+Revision
+Gui/mplayer/pixmaps/MPlayer_mini.xpm svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/pixmaps/about.xpm svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/pixmaps/cancel.xpm svn_keywords=Author+Date+Id+Revision
 Gui/mplayer/pixmaps/dir.xpm svn_keywords=Author+Date+Id+Revision
