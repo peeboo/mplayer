@@ -9,7 +9,6 @@ Gui/mplayer/.depend
 /help_mp.h
 libao2/.depend
 libao2/config.mak
-libao2/config2.mak
 libmpdemux/.depend
 libmpeg2/.depend
 libvo/.depend
