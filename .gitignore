@@ -1,5 +1,8 @@
 /.depend
 /.developer
+Gui/.depend
+Gui/config.mak
+Gui/mplayer/.depend
 /config.h
 /config.mak
 /configure.log
