@@ -133,6 +133,7 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /asf_streaming.c svn_keywords=Author+Date+Id+Revision
 /asfheader.c svn_keywords=Author+Date+Id+Revision
 /aviheader.c svn_keywords=Author+Date+Id+Revision
+/aviheader.h svn_keywords=Author+Date+Id+Revision
 /aviprint.c svn_keywords=Author+Date+Id+Revision
 /aviwrite.c svn_keywords=Author+Date+Id+Revision
 /bswap.h svn_keywords=Author+Date+Id+Revision
