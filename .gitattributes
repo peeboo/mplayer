@@ -1341,6 +1341,7 @@ osdep/mplayer.rc svn_keywords=Author+Date+Id+Revision
 osdep/scandir.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.h svn_keywords=Author+Date+Id+Revision
+osdep/strl.c svn_keywords=Author+Date+Id+Revision
 osdep/strsep.c svn_keywords=Author+Date+Id+Revision
 osdep/timer-darwin.c svn_keywords=Author+Date+Id+Revision
 osdep/timer-lx.c svn_keywords=Author+Date+Id+Revision
