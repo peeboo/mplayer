@@ -328,6 +328,7 @@ libao2/audio_plugin.h svn_keywords=Author+Date+Id+Revision
 libao2/audio_plugin_internal.h svn_keywords=Author+Date+Id+Revision
 libao2/pl_delay.c svn_keywords=Author+Date+Id+Revision
 libao2/pl_format.c svn_keywords=Author+Date+Id+Revision
+libao2/pl_surround.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
 libmpdemux/README svn_keywords=Author+Date+Id+Revision
