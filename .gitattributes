@@ -355,6 +355,7 @@ TOOLS/subfont-c/encodings/osd-mplayer svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/encodings/runme-kr svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/font.desc.tail svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/fontgen svn_keywords=Author+Date+Id+Revision
+TOOLS/subfont-c/osd/.cvsignore svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/osd/README svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/osd/gen.py svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/osd/gen_osd_h.c svn_keywords=Author+Date+Id+Revision
