@@ -16,6 +16,7 @@ DOCS/xml/xsltproc.sh
 Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
+TOOLS/TVout/matroxset/matroxset
 TOOLS/bios2dump
 TOOLS/cpuinfo
 TOOLS/fastmem-k6
@@ -33,7 +34,6 @@ TOOLS/subfont-c/*.raw
 TOOLS/subfont-c/font.desc
 TOOLS/subfont-c/osd/osd.t1a
 TOOLS/subfont-c/subfont
-TVout/matroxset/matroxset
 /build-stamp
 /codec-cfg
 /codecs.conf.h
