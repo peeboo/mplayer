@@ -996,6 +996,7 @@ libmpdemux/tvi_v4l2.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/url.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/url.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/vcd_read_darwin.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read_nbsd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/video.c svn_keywords=Author+Date+Id+Revision
