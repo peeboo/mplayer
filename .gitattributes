@@ -382,6 +382,7 @@ libdha/bin/mapdev.vxd -text
 libdha/libdha.c svn_keywords=Author+Date+Id+Revision
 libdha/libdha.h svn_keywords=Author+Date+Id+Revision
 libdha/pci.c svn_keywords=Author+Date+Id+Revision
+libdha/pci_db2c.awk svn_keywords=Author+Date+Id+Revision
 libdha/pci_ids.h svn_keywords=Author+Date+Id+Revision
 libdha/test.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
