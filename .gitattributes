@@ -128,7 +128,6 @@ TVout/modules svn_keywords=Author+Date+Id+Revision
 /cfgparser.h svn_keywords=Author+Date+Id+Revision
 /codec-cfg.c svn_keywords=Author+Date+Id+Revision
 /codec-cfg.h svn_keywords=Author+Date+Id+Revision
-/codecctrl.c svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
 debian/README.debian svn_keywords=Author+Date+Id+Revision
 debian/TODO.Debian svn_keywords=Author+Date+Id+Revision
