@@ -295,6 +295,7 @@ TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-block2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/audio-select.c svn_keywords=Author+Date+Id+Revision
+TOOLS/avi-fix.c svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark-gab/README svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark-gab/benchmark svn_keywords=Author+Date+Id+Revision
 TOOLS/benchmark-gab/compile svn_keywords=Author+Date+Id+Revision
