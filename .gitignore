@@ -21,6 +21,7 @@ TOOLS/TVout/matroxset/matroxset
 TOOLS/asfinfo
 TOOLS/avi-fix
 TOOLS/bios2dump
+TOOLS/bmovl-test/bmovl-test
 TOOLS/cpuinfo
 TOOLS/dump_mp4
 TOOLS/fastmem-k6
@@ -33,6 +34,7 @@ TOOLS/fastmem2-mmx
 TOOLS/fastmem2-sse
 TOOLS/mem2dump
 TOOLS/movinfo
+TOOLS/netstream/netstream
 TOOLS/png2raw
 TOOLS/subfont-c/*.raw
 TOOLS/subfont-c/font.desc
