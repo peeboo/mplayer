@@ -455,6 +455,7 @@ libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_cinepak.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_null.c svn_keywords=Author+Date+Id+Revision
