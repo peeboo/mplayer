@@ -597,6 +597,7 @@ libao2/.cvsignore svn_keywords=Author+Date+Id+Revision
 libao2/Makefile svn_keywords=Author+Date+Id+Revision
 libao2/afmt.c svn_keywords=Author+Date+Id+Revision
 libao2/afmt.h svn_keywords=Author+Date+Id+Revision
+libao2/ao_alsa.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa1x.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa5.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa9.c svn_keywords=Author+Date+Id+Revision
