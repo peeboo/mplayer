@@ -641,6 +641,7 @@ libdha/bin/README svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 libdha/bin/mapdev.vxd -text
 libdha/config.h svn_keywords=Author+Date+Id+Revision
+libdha/dhahelperwin/.cvsignore svn_keywords=Author+Date+Id+Revision
 libdha/dhahelperwin/MAKEFILE svn_keywords=Author+Date+Id+Revision
 libdha/dhahelperwin/SOURCES svn_keywords=Author+Date+Id+Revision
 libdha/dhahelperwin/dhahelper.c svn_keywords=Author+Date+Id+Revision

@@ -65,6 +65,7 @@ libao2/config.mak
 /libavformat
 libdha/*.o
 libdha/.depend
+libdha/dhahelperwin/dhahelper.sys
 libdha/libdha.so*
 libdha/pci.db
 libdha/pci_dev_ids.c
