@@ -550,6 +550,7 @@ liba52/mangle.h svn_keywords=Author+Date+Id+Revision
 liba52/mm_accel.h svn_keywords=Author+Date+Id+Revision
 liba52/parse.c svn_keywords=Author+Date+Id+Revision
 liba52/resample.c svn_keywords=Author+Date+Id+Revision
+liba52/resample_altivec.c svn_keywords=Author+Date+Id+Revision
 liba52/resample_c.c svn_keywords=Author+Date+Id+Revision
 liba52/resample_mmx.c svn_keywords=Author+Date+Id+Revision
 liba52/srfftp.h svn_keywords=Author+Date+Id+Revision
