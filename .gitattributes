@@ -376,6 +376,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /network.c svn_keywords=Author+Date+Id+Revision
 /network.h svn_keywords=Author+Date+Id+Revision
 /parse_es.c svn_keywords=Author+Date+Id+Revision
+/parse_es.h svn_keywords=Author+Date+Id+Revision
 /spudec.c svn_keywords=Author+Date+Id+Revision
 /spudec.h svn_keywords=Author+Date+Id+Revision
 /stheader.h svn_keywords=Author+Date+Id+Revision
