@@ -1,5 +1,6 @@
 /.depend
 /.developer
+/.libdeps
 Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
