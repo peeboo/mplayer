@@ -62,6 +62,7 @@ libaf/.depend
 libao2/.depend
 libao2/config.mak
 /libavcodec
+/libavformat
 libdha/*.o
 libdha/.depend
 libdha/libdha.so*
