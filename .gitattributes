@@ -865,6 +865,7 @@ libmpcodecs/vf_vo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yuvcsp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yuy2.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yvu9.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_zrmjpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vfcap.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
