@@ -1062,6 +1062,7 @@ mp3lib/dct36_k7.s svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_3dnow.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_MMX.c svn_keywords=Author+Date+Id+Revision
+mp3lib/dct64_altivec.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_i386.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_k7.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_sse.s svn_keywords=Author+Date+Id+Revision
