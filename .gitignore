@@ -46,6 +46,7 @@ libdha/pci_names.h
 libdha/pci_vendors.h
 libmpcodecs/.depend
 libmpdemux/.depend
+libmpdvdkit2/.depend
 libmpeg2/.depend
 libvo/.depend
 libvo/config.mak
