@@ -397,6 +397,7 @@ TVout/fbset/modes.l svn_keywords=Author+Date+Id+Revision
 TVout/fbset/modes.y svn_keywords=Author+Date+Id+Revision
 TVout/independ svn_keywords=Author+Date+Id+Revision
 TVout/matroxfbtune svn_keywords=Author+Date+Id+Revision
+TVout/matroxset/.cvsignore svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/Makefile svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/fb.h svn_keywords=Author+Date+Id+Revision
 TVout/matroxset/matroxfb.h svn_keywords=Author+Date+Id+Revision

@@ -29,6 +29,7 @@ TOOLS/subfont-c/*.raw
 TOOLS/subfont-c/font.desc
 TOOLS/subfont-c/osd/osd.t1a
 TOOLS/subfont-c/subfont
+TVout/matroxset/matroxset
 /build-stamp
 /codec-cfg
 /codecs.conf.h
