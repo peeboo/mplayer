@@ -824,6 +824,7 @@ libmpdemux/demux_rawaudio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rawdv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rawvideo.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_real.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_realaud.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_roq.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rtp.cpp svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_rtp.h svn_keywords=Author+Date+Id+Revision
