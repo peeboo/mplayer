@@ -615,6 +615,7 @@ libmpcodecs/ve_vfw.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_xvid.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_1bpp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_cropdetect.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_dint.c svn_keywords=Author+Date+Id+Revision
