@@ -335,6 +335,7 @@ libmpdemux/cache2.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/config.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_avi.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_fli.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_viv.c svn_keywords=Author+Date+Id+Revision
