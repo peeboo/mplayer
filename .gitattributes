@@ -1151,7 +1151,6 @@ libvo/vo_caca.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_cvidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dfbmga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dga.c svn_keywords=Author+Date+Id+Revision
-libvo/vo_directfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directfb2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_directx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dxr2.c svn_keywords=Author+Date+Id+Revision
