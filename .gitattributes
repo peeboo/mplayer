@@ -680,6 +680,7 @@ libvo/vo_dxr3.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_fbdev.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_fsdga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_ggi.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_gif89a.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gl.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gl2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_jpeg.c svn_keywords=Author+Date+Id+Revision
