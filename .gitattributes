@@ -926,7 +926,6 @@ libmpdemux/cue_read.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_audio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_avi.c svn_keywords=Author+Date+Id+Revision
-libmpdemux/demux_bmp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_demuxers.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_film.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_fli.c svn_keywords=Author+Date+Id+Revision
