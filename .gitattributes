@@ -569,6 +569,7 @@ libao2/ao_alsa9.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_arts.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_dxr2.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_esd.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_macosx.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_nas.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_null.c svn_keywords=Author+Date+Id+Revision
