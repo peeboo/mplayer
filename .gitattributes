@@ -818,6 +818,7 @@ libmpcodecs/vf_eq2.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_expand.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_fame.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_field.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_fil.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_flip.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_framestep.c svn_keywords=Author+Date+Id+Revision
