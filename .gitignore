@@ -17,8 +17,11 @@ Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
 TOOLS/TVout/matroxset/matroxset
+TOOLS/asfinfo
+TOOLS/avi-fix
 TOOLS/bios2dump
 TOOLS/cpuinfo
+TOOLS/dump_mp4
 TOOLS/fastmem-k6
 TOOLS/fastmem-k7
 TOOLS/fastmem-mmx
@@ -34,6 +37,8 @@ TOOLS/subfont-c/*.raw
 TOOLS/subfont-c/font.desc
 TOOLS/subfont-c/osd/osd.t1a
 TOOLS/subfont-c/subfont
+TOOLS/subrip
+TOOLS/vivodump
 /build-stamp
 /codec-cfg
 /codecs.conf.h
