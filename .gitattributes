@@ -155,6 +155,7 @@ DOCS/xml/html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/features.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/install.xml svn_keywords=Author+Date+Id+Revision
