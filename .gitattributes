@@ -1019,6 +1019,7 @@ postproc/Makefile svn_keywords=Author+Date+Id+Revision
 postproc/cs_test.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.c svn_keywords=Author+Date+Id+Revision
 postproc/postprocess.h svn_keywords=Author+Date+Id+Revision
+postproc/postprocess_internal.h svn_keywords=Author+Date+Id+Revision
 postproc/postprocess_template.c svn_keywords=Author+Date+Id+Revision
 postproc/rgb2rgb.c svn_keywords=Author+Date+Id+Revision
 postproc/rgb2rgb.h svn_keywords=Author+Date+Id+Revision
