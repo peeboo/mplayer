@@ -28,11 +28,13 @@ debian/mplayer.postinst.debhelper
 debian/mplayer.postrm.debhelper
 debian/mplayer.prerm.debhelper
 debian/mplayer.substvars
+drivers/mga_vid_test
 /help_mp.h
 input/.depend
 liba52/.depend
 libao2/.depend
 libao2/config.mak
+/libavcodec
 libdha/.depend
 libdha/pci.db
 libdha/pci_dev_ids.c
