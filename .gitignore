@@ -41,12 +41,6 @@ TVout/matroxset/matroxset
 /config.mak
 /configure-stamp
 /configure.log
-debian-build/files
-debian-build/mplayer
-debian-build/mplayer.postinst.debhelper
-debian-build/mplayer.postrm.debhelper
-debian-build/mplayer.prerm.debhelper
-debian-build/mplayer.substvars
 debian/files
 debian/mplayer
 debian/mplayer.postinst.debhelper
