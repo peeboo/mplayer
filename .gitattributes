@@ -901,6 +901,7 @@ linux/getch2.h svn_keywords=Author+Date+Id+Revision
 linux/keycodes.h svn_keywords=Author+Date+Id+Revision
 linux/lrmi.c svn_keywords=Author+Date+Id+Revision
 linux/lrmi.h svn_keywords=Author+Date+Id+Revision
+linux/scandir.c svn_keywords=Author+Date+Id+Revision
 linux/shmem.c svn_keywords=Author+Date+Id+Revision
 linux/shmem.h svn_keywords=Author+Date+Id+Revision
 linux/strsep.c svn_keywords=Author+Date+Id+Revision
