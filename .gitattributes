@@ -1394,7 +1394,6 @@ osdep/getch2.h svn_keywords=Author+Date+Id+Revision
 osdep/gettimeofday.c svn_keywords=Author+Date+Id+Revision
 osdep/glob-win.c svn_keywords=Author+Date+Id+Revision
 osdep/glob.h svn_keywords=Author+Date+Id+Revision
-osdep/kerneltwosix.h svn_keywords=Author+Date+Id+Revision
 osdep/keycodes.h svn_keywords=Author+Date+Id+Revision
 osdep/lrmi.c svn_keywords=Author+Date+Id+Revision
 osdep/lrmi.h svn_keywords=Author+Date+Id+Revision
