@@ -894,6 +894,7 @@ libmpcodecs/vf_filmdint.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_flip.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_framestep.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_fspp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_halfpack.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_harddup.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_hqdn3d.c svn_keywords=Author+Date+Id+Revision
