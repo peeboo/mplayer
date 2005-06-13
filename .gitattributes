@@ -966,6 +966,7 @@ libmpdemux/cookies.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cookies.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/cue_read.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cue_read.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_aac.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_audio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_avi.c svn_keywords=Author+Date+Id+Revision
