@@ -1037,6 +1037,7 @@ libmpdemux/muxer.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_avi.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_lavf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_mpeg.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/muxer_rawaudio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_rawvideo.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/netstream.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/network.c svn_keywords=Author+Date+Id+Revision
