@@ -49,6 +49,7 @@ DOCS/tech/codecs.conf.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/colorspaces.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/cvs-howto.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/dr-methods.txt svn_keywords=Author+Date+Id+Revision
+DOCS/tech/encoding-guide.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/encoding-tips.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/formats.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/general.txt svn_keywords=Author+Date+Id+Revision
