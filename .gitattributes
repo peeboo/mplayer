@@ -918,6 +918,7 @@ libmpcodecs/vf_palette.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_perspective.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_phase.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_pp.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_pp7.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_pullup.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_qp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_rectangle.c svn_keywords=Author+Date+Id+Revision
