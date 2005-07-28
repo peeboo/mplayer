@@ -953,7 +953,6 @@ libmpcodecs/vfcap.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vqf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdemux/Makefile svn_keywords=Author+Date+Id+Revision
-libmpdemux/README svn_keywords=Author+Date+Id+Revision
 libmpdemux/ai_alsa.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/ai_alsa1x.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/ai_oss.c svn_keywords=Author+Date+Id+Revision
