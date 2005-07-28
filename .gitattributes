@@ -1371,7 +1371,6 @@ loader/wrapper.h svn_keywords=Author+Date+Id+Revision
 /mixer.c svn_keywords=Author+Date+Id+Revision
 /mixer.h svn_keywords=Author+Date+Id+Revision
 /mmx.h svn_keywords=Author+Date+Id+Revision
-/mmx_defs.h svn_keywords=Author+Date+Id+Revision
 mp3lib/.cvsignore svn_keywords=Author+Date+Id+Revision
 mp3lib/Makefile svn_keywords=Author+Date+Id+Revision
 mp3lib/bswap.h svn_keywords=Author+Date+Id+Revision
