@@ -70,6 +70,7 @@ libao2/.depend
 libao2/config.mak
 /libavcodec
 /libavformat
+/libavutil
 libdha/*.o
 libdha/.depend
 libdha/dhahelperwin/dhahelper.sys
