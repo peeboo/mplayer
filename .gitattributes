@@ -401,6 +401,7 @@ TOOLS/TVout/matroxset/swapit svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/matroxset/swapped svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/matroxtv svn_keywords=Author+Date+Id+Revision
 TOOLS/TVout/modules svn_keywords=Author+Date+Id+Revision
+TOOLS/aconvert svn_keywords=Author+Date+Id+Revision
 TOOLS/alaw-gen.c svn_keywords=Author+Date+Id+Revision
 TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/avi-fix.c svn_keywords=Author+Date+Id+Revision
