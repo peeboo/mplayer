@@ -1109,7 +1109,6 @@ libmpdemux/vcd_read_darwin.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/vcd_read_nbsd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/video.c svn_keywords=Author+Date+Id+Revision
-libmpdemux/videodev2.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/yuv4mpeg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/yuv4mpeg.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/yuv4mpeg_intern.h svn_keywords=Author+Date+Id+Revision
