@@ -938,6 +938,7 @@ libmpcodecs/vf_rotate.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_sab.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_scale.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_scale.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_screenshot.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_smartblur.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_softpulldown.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_softskip.c svn_keywords=Author+Date+Id+Revision
