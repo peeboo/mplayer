@@ -1120,7 +1120,6 @@ libmpdemux/yuv4mpeg_ratio.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/.cvsignore svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/FILES svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/Makefile svn_keywords=Author+Date+Id+Revision
-libmpdvdkit2/README svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/bsdi_dvd.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/bsdi_ioctl.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/bswap.h svn_keywords=Author+Date+Id+Revision
