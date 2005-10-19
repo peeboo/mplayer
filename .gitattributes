@@ -595,6 +595,7 @@ help/help_mp-uk.h.charset svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_CN.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_CN.h.charset svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_TW.h svn_keywords=Author+Date+Id+Revision
+help/help_mp-zh_TW.h.charset svn_keywords=Author+Date+Id+Revision
 input/.cvsignore svn_keywords=Author+Date+Id+Revision
 input/Makefile svn_keywords=Author+Date+Id+Revision
 input/input.c svn_keywords=Author+Date+Id+Revision
