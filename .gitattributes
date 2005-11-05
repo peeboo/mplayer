@@ -796,6 +796,7 @@ libmpcodecs/ad_qtaudio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_ra1428.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_realaud.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_sample.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ad_speex.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_twin.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ae.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ae.h svn_keywords=Author+Date+Id+Revision
