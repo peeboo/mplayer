@@ -948,6 +948,7 @@ libmpcodecs/vf_tfields.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_tile.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_tinterlace.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_unsharp.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_uspp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_vo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yuvcsp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_yuy2.c svn_keywords=Author+Date+Id+Revision
