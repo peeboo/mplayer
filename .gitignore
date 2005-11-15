@@ -25,6 +25,7 @@ TOOLS/alaw.dat
 TOOLS/alaw.out
 TOOLS/asfinfo
 TOOLS/avi-fix
+TOOLS/avisubdump
 TOOLS/bios2dump
 TOOLS/bmovl-test/bmovl-test
 TOOLS/cpuinfo
