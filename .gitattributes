@@ -448,6 +448,7 @@ TOOLS/perlbench.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/plotpsnr.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/png2raw.c svn_keywords=Author+Date+Id+Revision
 TOOLS/psnr-video.sh svn_keywords=Author+Date+Id+Revision
+TOOLS/qepdvcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/14_4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/14_4.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/28_8.c svn_keywords=Author+Date+Id+Revision
