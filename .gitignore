@@ -19,6 +19,8 @@ DOCS/xml/xsltproc.sh
 Gui/.depend
 Gui/config.mak
 Gui/mplayer/.depend
+TOOLS/302m_convert
+TOOLS/360m_convert
 TOOLS/TVout/matroxset/matroxset
 TOOLS/alaw-gen
 TOOLS/alaw.dat
