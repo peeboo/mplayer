@@ -521,6 +521,7 @@ debian/postinst.templates svn_keywords=Author+Date+Id+Revision
 debian/postrm svn_keywords=Author+Date+Id+Revision
 debian/rules svn_keywords=Author+Date+Id+Revision
 debian/templates svn_keywords=Author+Date+Id+Revision
+debian/watch svn_keywords=Author+Date+Id+Revision
 /divx4_vbr.c svn_keywords=Author+Date+Id+Revision
 /divx4_vbr.h svn_keywords=Author+Date+Id+Revision
 drivers/.cvsignore svn_keywords=Author+Date+Id+Revision
