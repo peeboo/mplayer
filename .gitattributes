@@ -502,6 +502,7 @@ TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer.h svn_keywords=Author+Date+Id+Revision
 /codec-cfg.c svn_keywords=Author+Date+Id+Revision
 /codec-cfg.h svn_keywords=Author+Date+Id+Revision
+/common.mak svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
 /cpudetect.c svn_keywords=Author+Date+Id+Revision
 /cpudetect.h svn_keywords=Author+Date+Id+Revision
