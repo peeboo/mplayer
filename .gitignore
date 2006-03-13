@@ -53,6 +53,7 @@ TOOLS/vivodump
 /build-stamp
 /codec-cfg
 /codecs.conf.h
+/codecs2html
 /config.h
 /config.mak
 /configure-stamp
