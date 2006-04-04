@@ -552,6 +552,7 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/menu.conf svn_keywords=Author+Date+Id+Revision
 etc/mplayer.desktop svn_keywords=Author+Date+Id+Revision
 etc/mplayer.ico -text
+etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /get_path.c svn_keywords=Author+Date+Id+Revision
