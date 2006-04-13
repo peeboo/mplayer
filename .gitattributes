@@ -659,6 +659,7 @@ libaf/af_mp.h svn_keywords=Author+Date+Id+Revision
 libaf/af_pan.c svn_keywords=Author+Date+Id+Revision
 libaf/af_resample.c svn_keywords=Author+Date+Id+Revision
 libaf/af_resample.h svn_keywords=Author+Date+Id+Revision
+libaf/af_sinesupress.c svn_keywords=Author+Date+Id+Revision
 libaf/af_sub.c svn_keywords=Author+Date+Id+Revision
 libaf/af_surround.c svn_keywords=Author+Date+Id+Revision
 libaf/af_sweep.c svn_keywords=Author+Date+Id+Revision
