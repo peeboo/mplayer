@@ -492,6 +492,7 @@ TOOLS/vobshift.py svn_keywords=Author+Date+Id+Revision
 TOOLS/w32codec_dl.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
+/asmalign.h svn_keywords=Author+Date+Id+Revision
 /asxparser.c svn_keywords=Author+Date+Id+Revision
 /asxparser.h svn_keywords=Author+Date+Id+Revision
 /bswap.h svn_keywords=Author+Date+Id+Revision
