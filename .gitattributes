@@ -104,6 +104,7 @@ DOCS/xml/de/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/main.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/de/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/default.css svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/.cvsignore svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/Makefile svn_keywords=Author+Date+Id+Revision
