@@ -434,6 +434,7 @@ TOOLS/mpconsole svn_keywords=Author+Date+Id+Revision
 TOOLS/mpfc/Makefile svn_keywords=Author+Date+Id+Revision
 TOOLS/mpfc/mpfc-ce.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mpfc/mpfc-kr.c svn_keywords=Author+Date+Id+Revision
+TOOLS/mphelp_check.py svn_keywords=Author+Date+Id+Revision
 TOOLS/mplmult.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/mwallp/README svn_keywords=Author+Date+Id+Revision
 TOOLS/mwallp/compile.sh svn_keywords=Author+Date+Id+Revision
