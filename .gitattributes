@@ -1254,6 +1254,7 @@ libvo/vo_png.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_pnm.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_quartz.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_quartz.h svn_keywords=Author+Date+Id+Revision
+libvo/vo_s3fb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_sdl.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_svga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_syncfb.c svn_keywords=Author+Date+Id+Revision
