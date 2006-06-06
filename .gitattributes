@@ -906,6 +906,7 @@ libmpcodecs/vf_ivtc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_kerndeint.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_lavc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_lavcdeint.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_mcdeint.c -text
 libmpcodecs/vf_mirror.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_noformat.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_noise.c svn_keywords=Author+Date+Id+Revision
