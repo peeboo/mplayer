@@ -1077,6 +1077,7 @@ libmpdemux/stheader.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_dvd.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/stream_dvd.h -text
 libmpdemux/stream_file.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_ftp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
