@@ -106,7 +106,10 @@ libvo/.depend
 libvo/config.mak
 libvo/libvo.a
 loader/dmo/.depend
+loader/dmo/libDMO_Filter.a
 loader/dshow/.depend
+loader/dshow/libDS_Filter.a
+loader/libloader.a
 /mencoder
 mp3lib/.depend
 mp3lib/config.mak
