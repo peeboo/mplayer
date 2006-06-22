@@ -96,6 +96,7 @@ libmenu/.depend
 libmenu/libmenu.a
 libmpcodecs/.depend
 libmpcodecs/libmpcodecs.a
+libmpcodecs/libmpencoders.a
 libmpdemux/.depend
 libmpdemux/libmpdemux.a
 libmpdvdkit2/.depend
