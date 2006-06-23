@@ -1069,6 +1069,7 @@ libmpdemux/realrtsp/xbuffer.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/realrtsp/xbuffer.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/rtp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/rtp.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/rtsp.c -text
 libmpdemux/stheader.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream.h svn_keywords=Author+Date+Id+Revision
