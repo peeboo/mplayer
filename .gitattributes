@@ -1034,6 +1034,8 @@ libmpdemux/http.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/http.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/librtsp/rtsp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/librtsp/rtsp.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/librtsp/rtsp_rtp.c -text
+libmpdemux/librtsp/rtsp_rtp.h -text
 libmpdemux/librtsp/rtsp_session.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/librtsp/rtsp_session.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/matroska.h svn_keywords=Author+Date+Id+Revision
