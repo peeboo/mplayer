@@ -1019,6 +1019,13 @@ libmpdemux/dvdnav_stream.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/ebml.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/ebml.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/extension.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/freesdp/common.c -text
+libmpdemux/freesdp/common.h -text
+libmpdemux/freesdp/errorlist.c -text
+libmpdemux/freesdp/parser.c -text
+libmpdemux/freesdp/parser.h -text
+libmpdemux/freesdp/parserpriv.h -text
+libmpdemux/freesdp/priv.h -text
 libmpdemux/frequencies.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/frequencies.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/genres.h svn_keywords=Author+Date+Id+Revision
