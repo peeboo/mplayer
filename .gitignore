@@ -103,6 +103,8 @@ libmpdvdkit2/.depend
 libmpdvdkit2/libmpdvdkit.a
 libmpeg2/.depend
 libmpeg2/libmpeg2.a
+libswscale/.depend
+libswscale/libswscale.a
 libvo/.depend
 libvo/config.mak
 libvo/libvo.a
@@ -121,8 +123,6 @@ mp3lib/test2
 /mplayer.exe.spec.c
 osdep/.depend
 osdep/libosdep.a
-postproc/.depend
-postproc/libswscale.a
 tremor/.depend
 tremor/libvorbisidec.a
 /version.h
