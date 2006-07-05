@@ -517,6 +517,7 @@ debian/watch svn_keywords=Author+Date+Id+Revision
 drivers/3dfx.h svn_keywords=Author+Date+Id+Revision
 drivers/Makefile svn_keywords=Author+Date+Id+Revision
 drivers/README svn_keywords=Author+Date+Id+Revision
+drivers/README.linux.2.6 -text
 drivers/mga_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/mga_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/mga_vid_test.c svn_keywords=Author+Date+Id+Revision
