@@ -708,6 +708,19 @@ libao2/ao_win32.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.h svn_keywords=Author+Date+Id+Revision
 libao2/audio_out_internal.h svn_keywords=Author+Date+Id+Revision
+libass/Makefile -text
+libass/ass.c -text
+libass/ass.h -text
+libass/ass_cache.c -text
+libass/ass_cache.h -text
+libass/ass_fontconfig.c -text
+libass/ass_fontconfig.h -text
+libass/ass_mp.c -text
+libass/ass_mp.h -text
+libass/ass_render.c -text
+libass/ass_types.h -text
+libass/ass_utils.c -text
+libass/ass_utils.h -text
 libdha/AsmMacros.h svn_keywords=Author+Date+Id+Revision
 libdha/Makefile svn_keywords=Author+Date+Id+Revision
 libdha/README svn_keywords=Author+Date+Id+Revision
@@ -886,6 +899,7 @@ libmpcodecs/vf.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_1bpp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_2xsai.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_ass.c -text
 libmpcodecs/vf_bmovl.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_boxblur.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
