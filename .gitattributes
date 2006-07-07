@@ -1411,6 +1411,7 @@ mp3lib/dct64_MMX.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_altivec.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_i386.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct64_k7.c svn_keywords=Author+Date+Id+Revision
+mp3lib/dct64_sse.c -text
 mp3lib/decod386.c svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_MMX.c svn_keywords=Author+Date+Id+Revision
 mp3lib/decode_i586.c svn_keywords=Author+Date+Id+Revision
