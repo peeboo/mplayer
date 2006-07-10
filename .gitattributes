@@ -1119,6 +1119,7 @@ libmpdemux/stream_ftp.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_netstream.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_null.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/stream_pvr.c -text
 libmpdemux/stream_smb.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_vcd.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/stream_vstream.c svn_keywords=Author+Date+Id+Revision
