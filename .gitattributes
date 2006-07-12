@@ -200,6 +200,7 @@ DOCS/xml/pl/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/codecs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/documentation.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/pl/encoding-guide.xml -text
 DOCS/xml/pl/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/features.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/formats.xml svn_keywords=Author+Date+Id+Revision
