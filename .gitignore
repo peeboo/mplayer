@@ -16,7 +16,6 @@ DOCS/xml/ru/main.xml
 DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
 Gui/.depend
-Gui/config.mak
 Gui/libgui.a
 Gui/mplayer/.depend
 TOOLS/302m_convert
@@ -71,10 +70,8 @@ input/libinput.a
 liba52/.depend
 liba52/liba52.a
 libaf/.depend
-libaf/config.mak
 libaf/libaf.a
 libao2/.depend
-libao2/config.mak
 libao2/libao2.a
 libass/.depend
 libass/libass.a
@@ -108,7 +105,6 @@ libmpeg2/libmpeg2.a
 libswscale/.depend
 libswscale/libswscale.a
 libvo/.depend
-libvo/config.mak
 libvo/libvo.a
 loader/dmo/.depend
 loader/dmo/libDMO_Filter.a
