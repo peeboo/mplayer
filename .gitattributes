@@ -1036,7 +1036,6 @@ libmpdemux/demux_xmms_plugin.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_y4m.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demuxer.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demuxer.h svn_keywords=Author+Date+Id+Revision
-libmpdemux/dvb_defaults.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvb_tune.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvbin.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/dvbin.h svn_keywords=Author+Date+Id+Revision
