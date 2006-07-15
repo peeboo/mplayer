@@ -896,6 +896,7 @@ libmpcodecs/vf.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_1bpp.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_2xsai.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_ass.c -text
+libmpcodecs/vf_blackframe.c -text
 libmpcodecs/vf_bmovl.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_boxblur.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_crop.c svn_keywords=Author+Date+Id+Revision
