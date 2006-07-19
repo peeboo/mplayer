@@ -841,6 +841,8 @@ libmpcodecs/img_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/img_format.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mp_image.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mpc_info.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/mpeg_packetizer.c -text
+libmpcodecs/mpeg_packetizer.h -text
 libmpcodecs/native/RTjpegN.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/RTjpegN.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/alaw.h svn_keywords=Author+Date+Id+Revision
