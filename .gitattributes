@@ -991,7 +991,6 @@ libmpdemux/cdd.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/cdda.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cddb.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cdinfo.c svn_keywords=Author+Date+Id+Revision
-libmpdemux/config.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/cookies.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/cookies.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/cue_read.c svn_keywords=Author+Date+Id+Revision
@@ -1056,7 +1055,6 @@ libmpdemux/freesdp/priv.h -text
 libmpdemux/frequencies.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/frequencies.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/genres.h svn_keywords=Author+Date+Id+Revision
-libmpdemux/help_mp.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/http.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/http.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/librtsp/rtsp.c svn_keywords=Author+Date+Id+Revision
@@ -1070,7 +1068,6 @@ libmpdemux/mf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.h svn_keywords=Author+Date+Id+Revision
-libmpdemux/mp_msg.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_packetizer.c -text
