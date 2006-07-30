@@ -49,6 +49,7 @@ DOCS/tech/mirrors/update_mplayer_rsync -text svn_keywords=Id
 DOCS/tech/mpdsf.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/mpsub.sub svn_keywords=Author+Date+Id+Revision
 DOCS/tech/nut.txt svn_keywords=Author+Date+Id+Revision
+DOCS/tech/oggless-xiph-codecs.txt -text
 DOCS/tech/osd.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/patches.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/playtree svn_keywords=Author+Date+Id+Revision
