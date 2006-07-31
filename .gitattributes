@@ -1048,7 +1048,6 @@ libmpdemux/parse_mp4.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/pnm.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/qtpalette.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/stheader.h svn_keywords=Author+Date+Id+Revision
-libmpdemux/test.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/video.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/yuv4mpeg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/yuv4mpeg.h svn_keywords=Author+Date+Id+Revision
