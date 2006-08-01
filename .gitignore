@@ -121,6 +121,8 @@ mp3lib/test2
 /mplayer.exe.spec.c
 osdep/.depend
 osdep/libosdep.a
+stream/.depend
+stream/stream.a
 tremor/.depend
 tremor/libvorbisidec.a
 /version.h
