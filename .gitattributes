@@ -1408,7 +1408,6 @@ stream/cdinfo.c svn_keywords=Author+Date+Id+Revision
 stream/cookies.c svn_keywords=Author+Date+Id+Revision
 stream/cookies.h svn_keywords=Author+Date+Id+Revision
 stream/cue_read.c svn_keywords=Author+Date+Id+Revision
-stream/cue_read.h svn_keywords=Author+Date+Id+Revision
 stream/dvb_tune.c svn_keywords=Author+Date+Id+Revision
 stream/dvbin.h svn_keywords=Author+Date+Id+Revision
 stream/dvdnav_stream.c svn_keywords=Author+Date+Id+Revision
