@@ -1026,6 +1026,8 @@ libmpdemux/ebml.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/extension.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/genres.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/matroska.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/mf.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/mf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.c svn_keywords=Author+Date+Id+Revision
@@ -1428,8 +1430,6 @@ stream/librtsp/rtsp_rtp.c -text
 stream/librtsp/rtsp_rtp.h -text
 stream/librtsp/rtsp_session.c svn_keywords=Author+Date+Id+Revision
 stream/librtsp/rtsp_session.h svn_keywords=Author+Date+Id+Revision
-stream/mf.c svn_keywords=Author+Date+Id+Revision
-stream/mf.h svn_keywords=Author+Date+Id+Revision
 stream/netstream.h svn_keywords=Author+Date+Id+Revision
 stream/network.c svn_keywords=Author+Date+Id+Revision
 stream/network.h svn_keywords=Author+Date+Id+Revision
