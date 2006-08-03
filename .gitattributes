@@ -1411,8 +1411,6 @@ stream/cookies.c svn_keywords=Author+Date+Id+Revision
 stream/cookies.h svn_keywords=Author+Date+Id+Revision
 stream/dvb_tune.c svn_keywords=Author+Date+Id+Revision
 stream/dvbin.h svn_keywords=Author+Date+Id+Revision
-stream/dvdnav_stream.c svn_keywords=Author+Date+Id+Revision
-stream/dvdnav_stream.h svn_keywords=Author+Date+Id+Revision
 stream/freesdp/common.c -text
 stream/freesdp/common.h -text
 stream/freesdp/errorlist.c -text
@@ -1455,6 +1453,8 @@ stream/stream_cue.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvb.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvd.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvd.h -text
+stream/stream_dvdnav.c svn_keywords=Author+Date+Id+Revision
+stream/stream_dvdnav.h svn_keywords=Author+Date+Id+Revision
 stream/stream_file.c svn_keywords=Author+Date+Id+Revision
 stream/stream_ftp.c svn_keywords=Author+Date+Id+Revision
 stream/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
