@@ -1458,6 +1458,7 @@ stream/stream_dvd.h -text
 stream/stream_file.c svn_keywords=Author+Date+Id+Revision
 stream/stream_ftp.c svn_keywords=Author+Date+Id+Revision
 stream/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
+stream/stream_mf.c -text
 stream/stream_netstream.c svn_keywords=Author+Date+Id+Revision
 stream/stream_null.c svn_keywords=Author+Date+Id+Revision
 stream/stream_pvr.c -text
