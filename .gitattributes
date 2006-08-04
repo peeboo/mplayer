@@ -1462,9 +1462,11 @@ stream/stream_mf.c -text
 stream/stream_netstream.c svn_keywords=Author+Date+Id+Revision
 stream/stream_null.c svn_keywords=Author+Date+Id+Revision
 stream/stream_pvr.c -text
+stream/stream_rtp.c -text
 stream/stream_rtsp.c -text
 stream/stream_smb.c svn_keywords=Author+Date+Id+Revision
 stream/stream_tv.c -text
+stream/stream_udp.c -text
 stream/stream_vcd.c svn_keywords=Author+Date+Id+Revision
 stream/stream_vstream.c svn_keywords=Author+Date+Id+Revision
 stream/tv.c svn_keywords=Author+Date+Id+Revision
