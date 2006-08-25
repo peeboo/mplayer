@@ -1322,6 +1322,7 @@ loader/wrapper.h svn_keywords=Author+Date+Id+Revision
 /m_struct.h svn_keywords=Author+Date+Id+Revision
 /mangle.h svn_keywords=Author+Date+Id+Revision
 /mencoder.c svn_keywords=Author+Date+Id+Revision
+/metadata.h -text
 /mixer.c svn_keywords=Author+Date+Id+Revision
 /mixer.h svn_keywords=Author+Date+Id+Revision
 /mmx.h svn_keywords=Author+Date+Id+Revision
