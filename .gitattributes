@@ -1467,6 +1467,7 @@ stream/stream_tv.c -text
 stream/stream_udp.c -text
 stream/stream_vcd.c svn_keywords=Author+Date+Id+Revision
 stream/stream_vstream.c svn_keywords=Author+Date+Id+Revision
+stream/tcp.c svn_keywords=Author+Date+Id+Revision
 stream/tcp.h -text
 stream/tv.c svn_keywords=Author+Date+Id+Revision
 stream/tv.h svn_keywords=Author+Date+Id+Revision
