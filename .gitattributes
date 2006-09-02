@@ -219,6 +219,7 @@ DOCS/xml/pl/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/users-vs-dev.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/Makefile svn_keywords=Author+Date+Id+Revision
+DOCS/xml/ru/audio.xml -text
 DOCS/xml/ru/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
