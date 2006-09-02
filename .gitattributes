@@ -189,6 +189,7 @@ DOCS/xml/hu/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/ports.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/hu/radio.xml -text
 DOCS/xml/hu/skin.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
