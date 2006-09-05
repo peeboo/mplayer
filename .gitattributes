@@ -106,6 +106,7 @@ DOCS/xml/de/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mencoder.xml -text
 DOCS/xml/de/ports.xml -text
+DOCS/xml/de/radio.xml -text
 DOCS/xml/de/skin.xml -text
 DOCS/xml/de/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/usage.xml svn_keywords=Author+Date+Id+Revision
