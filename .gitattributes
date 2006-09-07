@@ -103,7 +103,6 @@ DOCS/xml/de/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/formats.xml -text
 DOCS/xml/de/history.xml -text
 DOCS/xml/de/install.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mencoder.xml -text
 DOCS/xml/de/ports.xml -text
 DOCS/xml/de/radio.xml svn_keywords=Author+Date+Id+Revision
