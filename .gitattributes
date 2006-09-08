@@ -179,6 +179,7 @@ DOCS/xml/hu/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/codecs.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/hu/containers.xml -text
 DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
