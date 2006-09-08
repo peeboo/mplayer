@@ -97,10 +97,10 @@ DOCS/xml/de/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugs.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/de/containers.xml -text
 DOCS/xml/de/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/encoding-guide.xml -text
 DOCS/xml/de/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/formats.xml -text
 DOCS/xml/de/history.xml -text
 DOCS/xml/de/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mencoder.xml -text
