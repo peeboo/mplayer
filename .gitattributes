@@ -1388,9 +1388,11 @@ osdep/timer-win2.c svn_keywords=Author+Date+Id+Revision
 osdep/timer.h svn_keywords=Author+Date+Id+Revision
 osdep/vsscanf.c svn_keywords=Author+Date+Id+Revision
 /parser-cfg.c svn_keywords=Author+Date+Id+Revision
+/parser-cfg.h -text
 /parser-mecmd.c svn_keywords=Author+Date+Id+Revision
 /parser-mecmd.h svn_keywords=Author+Date+Id+Revision
 /parser-mpcmd.c svn_keywords=Author+Date+Id+Revision
+/parser-mpcmd.h -text
 /playtree.c svn_keywords=Author+Date+Id+Revision
 /playtree.h svn_keywords=Author+Date+Id+Revision
 /playtreeparser.c svn_keywords=Author+Date+Id+Revision
@@ -1406,6 +1408,7 @@ stream/asf_streaming.c svn_keywords=Author+Date+Id+Revision
 stream/audio_in.c svn_keywords=Author+Date+Id+Revision
 stream/audio_in.h svn_keywords=Author+Date+Id+Revision
 stream/cache2.c svn_keywords=Author+Date+Id+Revision
+stream/cache2.h -text
 stream/cdd.h svn_keywords=Author+Date+Id+Revision
 stream/cdinfo.c svn_keywords=Author+Date+Id+Revision
 stream/cookies.c svn_keywords=Author+Date+Id+Revision
