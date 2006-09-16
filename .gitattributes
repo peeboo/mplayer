@@ -494,8 +494,6 @@ TOOLS/subfont-c/osd/osd.pfb -text
 TOOLS/subfont-c/osd/runme svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/runme svn_keywords=Author+Date+Id+Revision
 TOOLS/subfont-c/subfont.c svn_keywords=Author+Date+Id+Revision
-TOOLS/subfont-gimp/Makefile svn_keywords=Author+Date+Id+Revision
-TOOLS/subfont-gimp/mplayer_subfont svn_keywords=Author+Date+Id+Revision
 TOOLS/subrip.c svn_keywords=Author+Date+Id+Revision
 TOOLS/subsearch.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/sws-test svn_keywords=Author+Date+Id+Revision
