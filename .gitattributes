@@ -715,6 +715,8 @@ libao2/audio_out_internal.h svn_keywords=Author+Date+Id+Revision
 libass/Makefile -text
 libass/ass.c -text
 libass/ass.h -text
+libass/ass_bitmap.c -text
+libass/ass_bitmap.h -text
 libass/ass_cache.c -text
 libass/ass_cache.h -text
 libass/ass_fontconfig.c -text
