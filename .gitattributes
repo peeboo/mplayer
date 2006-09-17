@@ -563,6 +563,7 @@ etc/mplayer.ico -text
 etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
 /fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
+/fmt-conversion.h -text
 /get_path.c svn_keywords=Author+Date+Id+Revision
 help/help_diff.sh svn_keywords=Author+Date+Id+Revision
 help/help_mp-bg.h svn_keywords=Author+Date+Id+Revision
