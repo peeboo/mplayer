@@ -1001,6 +1001,7 @@ libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpc.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_nsv.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_nut.c -text
 libmpdemux/demux_nuv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_ogg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_pva.c svn_keywords=Author+Date+Id+Revision
