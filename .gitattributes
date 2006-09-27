@@ -111,7 +111,6 @@ DOCS/xml/de/radio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/skin.xml -text
 DOCS/xml/de/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/usage.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/users-vs-dev.xml -text
 DOCS/xml/de/video.xml -text
 DOCS/xml/default.css svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/Makefile svn_keywords=Author+Date+Id+Revision
