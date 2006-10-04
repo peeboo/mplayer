@@ -86,7 +86,6 @@ DOCS/xml/cs/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/formats.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/install.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/radio.xml -text
@@ -183,7 +182,6 @@ DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/formats.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/install.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/radio.xml -text
