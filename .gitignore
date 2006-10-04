@@ -105,7 +105,7 @@ libmpeg2/.depend
 libmpeg2/libmpeg2.a
 libswscale/.depend
 libswscale/cs_test
-libswscale/libswscale.a
+libswscale/libswscale*
 libswscale/swscale-example
 libvo/.depend
 libvo/libvo.a
