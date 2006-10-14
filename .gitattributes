@@ -165,6 +165,7 @@ DOCS/xml/fr/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/mail-lists.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/ports.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/fr/radio.xml -text
 DOCS/xml/fr/skin.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/usage.xml svn_keywords=Author+Date+Id+Revision
