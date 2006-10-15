@@ -180,7 +180,6 @@ DOCS/xml/hu/containers.xml -text
 DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/formats.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/mencoder.xml svn_keywords=Author+Date+Id+Revision
@@ -189,7 +188,6 @@ DOCS/xml/hu/radio.xml -text
 DOCS/xml/hu/skin.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/users-vs-dev.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
