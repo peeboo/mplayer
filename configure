@@ -1635,6 +1635,10 @@ _ladspa=auto
 _xmms=no
 _have_dvd=no
 _dvdnav=auto
+# theres's some known linking issues with darwin and dvdnav, so disable autodetection
+if darwin; then
+  _dvdnav=no
+fi
 _dvdnavconfig=dvdnav-config
 _dvdread=auto
 _mpdvdkit=auto
