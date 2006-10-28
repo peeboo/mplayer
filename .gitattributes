@@ -704,6 +704,8 @@ libass/ass_cache.c -text
 libass/ass_cache.h -text
 libass/ass_fontconfig.c -text
 libass/ass_fontconfig.h -text
+libass/ass_library.c -text
+libass/ass_library.h -text
 libass/ass_mp.c -text
 libass/ass_mp.h -text
 libass/ass_render.c -text
