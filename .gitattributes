@@ -1053,7 +1053,6 @@ libmpdvdkit2/bsdi_dvd.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/bsdi_ioctl.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/bswap.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/common.h svn_keywords=Author+Date+Id+Revision
-libmpdvdkit2/config.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/css.c svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/css.h svn_keywords=Author+Date+Id+Revision
 libmpdvdkit2/csstables.h svn_keywords=Author+Date+Id+Revision
