@@ -93,6 +93,8 @@ libdha/pci_vendors.h
 libdha/test
 libdvdcss/.depend
 libdvdcss/libdvdcss.a
+libdvdread/.depend
+libdvdread/libdvdread.a
 libfaad2/.depend
 libfaad2/libfaad2.a
 libmenu/.depend
@@ -102,8 +104,6 @@ libmpcodecs/libmpcodecs.a
 libmpcodecs/libmpencoders.a
 libmpdemux/.depend
 libmpdemux/libmpdemux.a
-libmpdvdkit2/.depend
-libmpdvdkit2/libmpdvdkit.a
 libmpeg2/.depend
 libmpeg2/libmpeg2.a
 libswscale/.depend
