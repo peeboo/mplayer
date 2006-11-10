@@ -112,6 +112,7 @@ libswscale/libswscale*
 libswscale/swscale-example
 libvo/.depend
 libvo/libvo.a
+loader/.depend
 loader/dmo/.depend
 loader/dmo/libDMO_Filter.a
 loader/dshow/.depend
