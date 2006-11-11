@@ -24,7 +24,6 @@ DOCS/man/hu/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/man/it/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/man/pl/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/man/ru/mplayer.1 svn_keywords=Author+Date+Id+Revision
-DOCS/man/sv/mplayer.1 svn_keywords=Author+Date+Id+Revision
 DOCS/man/zh/mplayer.1 svneol=native#text/plain%3B+charset%3DUTF-8 svn_keywords=Author+Date+Id+Revision
 DOCS/tech/Doxyfile svn_keywords=Author+Date+Id+Revision
 DOCS/tech/MAINTAINERS svn_keywords=Author+Date+Id+Revision
