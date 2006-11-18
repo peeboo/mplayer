@@ -65,6 +65,8 @@ debian/mplayer.postrm.debhelper
 debian/mplayer.prerm.debhelper
 debian/mplayer.substvars
 drivers/mga_vid_test
+dvdread/.depend
+dvdread/libdvdread.a
 /gmplayer
 /help_mp.h
 input/.depend
@@ -93,8 +95,6 @@ libdha/pci_vendors.h
 libdha/test
 libdvdcss/.depend
 libdvdcss/libdvdcss.a
-libdvdread/.depend
-libdvdread/libdvdread.a
 libfaad2/.depend
 libfaad2/libfaad2.a
 libmenu/.depend
