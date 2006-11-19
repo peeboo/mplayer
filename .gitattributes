@@ -704,6 +704,7 @@ libass/ass_render.c -text
 libass/ass_types.h -text
 libass/ass_utils.c -text
 libass/ass_utils.h -text
+libass/mputils.h -text
 libdha/AsmMacros.h svn_keywords=Author+Date+Id+Revision
 libdha/Makefile svn_keywords=Author+Date+Id+Revision
 libdha/README svn_keywords=Author+Date+Id+Revision
