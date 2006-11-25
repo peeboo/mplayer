@@ -1181,7 +1181,6 @@ libvo/x11_common.h svn_keywords=Author+Date+Id+Revision
 loader/Makefile svn_keywords=Author+Date+Id+Revision
 loader/afl.c svn_keywords=Author+Date+Id+Revision
 loader/com.h svn_keywords=Author+Date+Id+Revision
-loader/config.h svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_AudioDecoder.c svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_AudioDecoder.h svn_keywords=Author+Date+Id+Revision
 loader/dmo/DMO_Filter.h svn_keywords=Author+Date+Id+Revision
