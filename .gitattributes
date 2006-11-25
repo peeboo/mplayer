@@ -654,7 +654,6 @@ libaf/af_sweep.c svn_keywords=Author+Date+Id+Revision
 libaf/af_tools.c svn_keywords=Author+Date+Id+Revision
 libaf/af_volnorm.c svn_keywords=Author+Date+Id+Revision
 libaf/af_volume.c svn_keywords=Author+Date+Id+Revision
-libaf/config.h svn_keywords=Author+Date+Id+Revision
 libaf/control.h svn_keywords=Author+Date+Id+Revision
 libaf/dsp.h svn_keywords=Author+Date+Id+Revision
 libaf/equalizer.h svn_keywords=Author+Date+Id+Revision
