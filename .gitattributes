@@ -693,6 +693,8 @@ libass/ass_bitmap.c -text
 libass/ass_bitmap.h -text
 libass/ass_cache.c -text
 libass/ass_cache.h -text
+libass/ass_font.c -text
+libass/ass_font.h -text
 libass/ass_fontconfig.c -text
 libass/ass_fontconfig.h -text
 libass/ass_library.c -text
