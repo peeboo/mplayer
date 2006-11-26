@@ -1313,6 +1313,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mp_msg-mencoder.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.h svn_keywords=Author+Date+Id+Revision
+/mpcommon.mak -text
 /mplayer.c svn_keywords=Author+Date+Id+Revision
 /mplayer.h svn_keywords=Author+Date+Id+Revision
 osdep/Makefile svn_keywords=Author+Date+Id+Revision
