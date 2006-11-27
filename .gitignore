@@ -104,6 +104,7 @@ libmpcodecs/libmpcodecs.a
 libmpcodecs/libmpencoders.a
 libmpdemux/.depend
 libmpdemux/libmpdemux.a
+libmpdemux/libmpmux.a
 libmpeg2/.depend
 libmpeg2/libmpeg2.a
 libswscale/.depend
