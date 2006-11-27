@@ -119,7 +119,7 @@ loader/libloader.a
 mp3lib/.depend
 mp3lib/config.mak
 mp3lib/libMP3.a
-mp3lib/test1
+mp3lib/test
 mp3lib/test2
 /mplayer
 /mplayer.exe.spec.c
