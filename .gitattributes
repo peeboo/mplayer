@@ -1235,7 +1235,6 @@ loader/qtx/qtxsdk/select.h svn_keywords=Author+Date+Id+Revision
 loader/registry.c svn_keywords=Author+Date+Id+Revision
 loader/registry.h svn_keywords=Author+Date+Id+Revision
 loader/resource.c svn_keywords=Author+Date+Id+Revision
-loader/stubs.S svn_keywords=Author+Date+Id+Revision
 loader/vfl.c svn_keywords=Author+Date+Id+Revision
 loader/win32.c svn_keywords=Author+Date+Id+Revision
 loader/win32.h svn_keywords=Author+Date+Id+Revision
