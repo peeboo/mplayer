@@ -483,7 +483,6 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 /asxparser.c svn_keywords=Author+Date+Id+Revision
 /asxparser.h svn_keywords=Author+Date+Id+Revision
-/bswap.h svn_keywords=Author+Date+Id+Revision
 /cfg-common.h svn_keywords=Author+Date+Id+Revision
 /cfg-mencoder.h svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer-def.h svn_keywords=Author+Date+Id+Revision
