@@ -116,6 +116,8 @@ libvo/.depend
 libvo/libosd.a
 libvo/libvo.a
 loader/.depend
+loader/dmo/.depend
+loader/dshow/.depend
 loader/libloader.a
 /mencoder
 mp3lib/.depend
