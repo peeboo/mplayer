@@ -16,6 +16,7 @@ DOCS/xml/pl/main.xml
 DOCS/xml/ru/main.xml
 DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
+DOCS/xml/zh/main.xml
 Gui/.depend
 Gui/libgui.a
 Gui/mplayer/.depend
