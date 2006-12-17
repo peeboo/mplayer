@@ -200,6 +200,9 @@ DOCS/xml/pl/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/encoding-guide.xml -text
 DOCS/xml/pl/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/history.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/pl/html-chunk.xsl svn_keywords=Author+Date+Id+Revision
+DOCS/xml/pl/html-common.xsl svn_keywords=Author+Date+Id+Revision
+DOCS/xml/pl/html-single.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/ports.xml svn_keywords=Author+Date+Id+Revision
