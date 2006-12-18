@@ -239,17 +239,6 @@ DOCS/xml/zh_CN/audio.xml -text
 DOCS/xml/zh_CN/bugreports.xml -text
 DOCS/xml/zh_CN/bugs.xml -text
 DOCS/xml/zh_CN/documentation.xml -text
-DOCS/zh/bugreports.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/cd-dvd.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/codecs.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/documentation.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/encoding.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/faq.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/formats.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/skin.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/sound.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/users_against_developers.html svn_keywords=Author+Date+Id+Revision
-DOCS/zh/video.html svn_keywords=Author+Date+Id+Revision
 Gui/Makefile svn_keywords=Author+Date+Id+Revision
 Gui/app.c svn_keywords=Author+Date+Id+Revision
 Gui/app.h svn_keywords=Author+Date+Id+Revision
