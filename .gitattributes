@@ -234,11 +234,11 @@ DOCS/xml/xsl/ldp-html-chunk.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-print.xsl svn_keywords=Author+Date+Id+Revision
-DOCS/xml/zh/Makefile -text
-DOCS/xml/zh/audio.xml -text
-DOCS/xml/zh/bugreports.xml -text
-DOCS/xml/zh/bugs.xml -text
-DOCS/xml/zh/documentation.xml -text
+DOCS/xml/zh_CN/Makefile -text
+DOCS/xml/zh_CN/audio.xml -text
+DOCS/xml/zh_CN/bugreports.xml -text
+DOCS/xml/zh_CN/bugs.xml -text
+DOCS/xml/zh_CN/documentation.xml -text
 DOCS/zh/bugreports.html svn_keywords=Author+Date+Id+Revision
 DOCS/zh/cd-dvd.html svn_keywords=Author+Date+Id+Revision
 DOCS/zh/codecs.html svn_keywords=Author+Date+Id+Revision
