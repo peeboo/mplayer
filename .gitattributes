@@ -1085,6 +1085,7 @@ libswscale/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
+libswscale/yuv2rgb_init.c -text
 libswscale/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
 libvo/Makefile svn_keywords=Author+Date+Id+Revision
