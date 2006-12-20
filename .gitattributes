@@ -239,6 +239,7 @@ DOCS/xml/zh_CN/audio.xml -text
 DOCS/xml/zh_CN/bugreports.xml -text
 DOCS/xml/zh_CN/bugs.xml -text
 DOCS/xml/zh_CN/documentation.xml -text
+DOCS/xml/zh_CN/mencoder.xml -text
 Gui/Makefile svn_keywords=Author+Date+Id+Revision
 Gui/app.c svn_keywords=Author+Date+Id+Revision
 Gui/app.h svn_keywords=Author+Date+Id+Revision
