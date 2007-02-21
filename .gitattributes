@@ -479,6 +479,8 @@ TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 /cfg-mplayer.h svn_keywords=Author+Date+Id+Revision
 /codec-cfg.c svn_keywords=Author+Date+Id+Revision
 /codec-cfg.h svn_keywords=Author+Date+Id+Revision
+/command.c -text
+/command.h -text
 /common.mak svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
 /cpudetect.c svn_keywords=Author+Date+Id+Revision
@@ -1296,6 +1298,7 @@ mp3lib/tabinit.c svn_keywords=Author+Date+Id+Revision
 mp3lib/tabinit_MMX.c svn_keywords=Author+Date+Id+Revision
 mp3lib/test.c svn_keywords=Author+Date+Id+Revision
 mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
+/mp_core.h -text
 /mp_msg-mencoder.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.h svn_keywords=Author+Date+Id+Revision
