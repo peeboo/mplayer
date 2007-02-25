@@ -1306,7 +1306,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.h svn_keywords=Author+Date+Id+Revision
 /mpbswap.h -text
-/mpcommon.c -text
+/mpcommon.c svn_keywords=Author+Date+Id+Revision
 /mpcommon.h -text
 /mpcommon.mak -text
 /mplayer.c svn_keywords=Author+Date+Id+Revision
