@@ -482,6 +482,7 @@ TOOLS/x2mpsub.sh svn_keywords=Author+Date+Id+Revision
 /codec-cfg.c svn_keywords=Author+Date+Id+Revision
 /codec-cfg.h svn_keywords=Author+Date+Id+Revision
 /command.c -text
+/command.c.tmp svn_keywords=Author+Date+Id+Revision
 /command.h -text
 /common.mak svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
