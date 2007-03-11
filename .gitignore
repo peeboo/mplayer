@@ -63,13 +63,12 @@ TOOLS/subfont-c/osd/osd.t1a
 TOOLS/subfont-c/subfont
 TOOLS/subrip
 TOOLS/vivodump
-/build-stamp
 /codec-cfg
+/codec-cfg-test
 /codecs.conf.h
 /codecs2html
 /config.h
 /config.mak
-/configure-stamp
 /configure.log
 debian/files
 debian/mplayer
@@ -92,9 +91,6 @@ libao2/.depend
 libao2/libao2.a
 libass/.depend
 libass/libass.a
-/libavcodec
-/libavformat
-/libavutil
 libdha/*.o
 libdha/.depend
 libdha/dhahelperwin/dhahelper.sys
@@ -136,7 +132,6 @@ mp3lib/libMP3.a
 mp3lib/test
 mp3lib/test2
 /mplayer
-/mplayer.exe.spec.c
 osdep/.depend
 osdep/libosdep.a
 stream/.depend
