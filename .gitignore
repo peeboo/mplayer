@@ -127,8 +127,7 @@ loader/.depend
 loader/libloader.a
 /mencoder
 mp3lib/.depend
-mp3lib/config.mak
-mp3lib/libMP3.a
+mp3lib/libmp3.a
 mp3lib/test
 mp3lib/test2
 /mplayer
