@@ -511,7 +511,6 @@ drivers/mga_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/mga_vid_test.c svn_keywords=Author+Date+Id+Revision
 drivers/radeon/Makefile svn_keywords=Author+Date+Id+Revision
 drivers/radeon/README svn_keywords=Author+Date+Id+Revision
-drivers/radeon/Rage128.readme svn_keywords=Author+Date+Id+Revision
 drivers/radeon/generic_math.h svn_keywords=Author+Date+Id+Revision
 drivers/radeon/hacking svn_keywords=Author+Date+Id+Revision
 drivers/radeon/radeon.h svn_keywords=Author+Date+Id+Revision
