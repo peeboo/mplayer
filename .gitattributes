@@ -514,7 +514,6 @@ drivers/radeon/hacking svn_keywords=Author+Date+Id+Revision
 drivers/radeon/radeon.h svn_keywords=Author+Date+Id+Revision
 drivers/radeon/radeon_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/radeon/radeon_vid.h svn_keywords=Author+Date+Id+Revision
-drivers/radeon/radeonfb.c svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid_test.c svn_keywords=Author+Date+Id+Revision
