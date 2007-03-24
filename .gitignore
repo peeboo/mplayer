@@ -31,8 +31,6 @@ DOCS/xml/zh_CN/video.xml
 Gui/.depend
 Gui/libgui.a
 Gui/mplayer/.depend
-TOOLS/302m_convert
-TOOLS/360m_convert
 TOOLS/TVout/matroxset/matroxset
 TOOLS/alaw-gen
 TOOLS/alaw.dat
@@ -52,7 +50,6 @@ TOOLS/fastmem2-k6
 TOOLS/fastmem2-k7
 TOOLS/fastmem2-mmx
 TOOLS/fastmem2-sse
-TOOLS/gltest
 TOOLS/mem2dump
 TOOLS/movinfo
 TOOLS/netstream/netstream
