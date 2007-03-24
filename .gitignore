@@ -93,6 +93,7 @@ libass/libass.a
 libdha/*.o
 libdha/.depend
 libdha/dhahelperwin/dhahelper.sys
+libdha/kernelhelper/test
 libdha/libdha.so*
 libdha/pci.db
 libdha/pci_dev_ids.c
