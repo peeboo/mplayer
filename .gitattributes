@@ -435,7 +435,6 @@ TOOLS/qepdvcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/14_4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/28_8.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/HOWTO svn_keywords=Author+Date+Id+Revision
-TOOLS/realcodecs/Makefile -text
 TOOLS/realcodecs/cook.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/drv2.c svn_keywords=Author+Date+Id+Revision
 TOOLS/realcodecs/drv3.c svn_keywords=Author+Date+Id+Revision
