@@ -543,7 +543,6 @@ etc/menu.conf svn_keywords=Author+Date+Id+Revision
 etc/mplayer.desktop svn_keywords=Author+Date+Id+Revision
 etc/mplayer.ico -text
 etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
-/fifo.c svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /fmt-conversion.h -text
 /get_path.c svn_keywords=Author+Date+Id+Revision
@@ -1292,6 +1291,7 @@ mp3lib/tabinit_MMX.c svn_keywords=Author+Date+Id+Revision
 mp3lib/test.c svn_keywords=Author+Date+Id+Revision
 mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mp_core.h -text
+/mp_fifo.c svn_keywords=Author+Date+Id+Revision
 /mp_msg-mencoder.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.h svn_keywords=Author+Date+Id+Revision
