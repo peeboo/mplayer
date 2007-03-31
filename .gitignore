@@ -90,11 +90,10 @@ libao2/.depend
 libao2/libao2.a
 libass/.depend
 libass/libass.a
-libdha/*.o
 libdha/.depend
 libdha/dhahelperwin/dhahelper.sys
 libdha/kernelhelper/test
-libdha/libdha.so*
+libdha/libdha.a
 libdha/pci.db
 libdha/pci_dev_ids.c
 libdha/pci_ids.h
