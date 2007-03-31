@@ -55,10 +55,6 @@ TOOLS/movinfo
 TOOLS/netstream/netstream
 TOOLS/png2raw
 TOOLS/realcodecs/*.so.6.0
-TOOLS/subfont-c/*.raw
-TOOLS/subfont-c/font.desc
-TOOLS/subfont-c/osd/osd.t1a
-TOOLS/subfont-c/subfont
 TOOLS/subrip
 TOOLS/vivodump
 /codec-cfg
