@@ -37,7 +37,6 @@ TOOLS/alaw.out
 TOOLS/asfinfo
 TOOLS/avi-fix
 TOOLS/avisubdump
-TOOLS/bios2dump
 TOOLS/bmovl-test
 TOOLS/cpuinfo
 TOOLS/dump_mp4
@@ -49,10 +48,8 @@ TOOLS/fastmem2-k6
 TOOLS/fastmem2-k7
 TOOLS/fastmem2-mmx
 TOOLS/fastmem2-sse
-TOOLS/mem2dump
 TOOLS/movinfo
 TOOLS/netstream/netstream
-TOOLS/png2raw
 TOOLS/realcodecs/*.so.6.0
 TOOLS/subrip
 TOOLS/vivodump
