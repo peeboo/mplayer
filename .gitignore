@@ -31,7 +31,6 @@ DOCS/xml/zh_CN/video.xml
 Gui/.depend
 Gui/libgui.a
 Gui/mplayer/.depend
-TOOLS/TVout/matroxset/matroxset
 TOOLS/alaw-gen
 TOOLS/alaw.dat
 TOOLS/alaw.out
