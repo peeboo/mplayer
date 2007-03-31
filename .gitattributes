@@ -1417,7 +1417,6 @@ tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
 /version.sh svn_keywords=Author+Date+Id+Revision
 vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
-vidix/drivers/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/drivers/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/drivers/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers/mach64.h svn_keywords=Author+Date+Id+Revision
