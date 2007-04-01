@@ -86,7 +86,6 @@ libdha/.depend
 libdha/dhahelperwin/dhahelper.sys
 libdha/kernelhelper/test
 libdha/libdha.a
-libdha/pci.db
 libdha/pci_dev_ids.c
 libdha/pci_ids.h
 libdha/pci_names.c
