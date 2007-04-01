@@ -49,6 +49,7 @@ TOOLS/fastmem2-k7
 TOOLS/fastmem2-mmx
 TOOLS/fastmem2-sse
 TOOLS/movinfo
+TOOLS/netstream
 TOOLS/realcodecs/*.so.6.0
 TOOLS/subrip
 TOOLS/vivodump
