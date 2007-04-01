@@ -1418,6 +1418,8 @@ vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
+vidix/drivers.c -text
+vidix/drivers.h -text
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64_vid.c svn_keywords=Author+Date+Id+Revision
