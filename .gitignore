@@ -130,6 +130,4 @@ tremor/.depend
 tremor/libvorbisidec.a
 /version.h
 vidix/.depend
-vidix/drivers/*.so
-vidix/drivers/.depend
 vidix/libvidix.a
