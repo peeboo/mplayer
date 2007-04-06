@@ -1376,6 +1376,8 @@ vidix/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 vidix/bin/mapdev.vxd -text
 vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
+vidix/dha.c svn_keywords=Author+Date+Id+Revision
+vidix/dha.h svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/MAKEFILE svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/SOURCES svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/dhahelper.c svn_keywords=Author+Date+Id+Revision
@@ -1388,8 +1390,6 @@ vidix/kernelhelper/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
-vidix/libdha.c svn_keywords=Author+Date+Id+Revision
-vidix/libdha.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/mga_vid.c svn_keywords=Author+Date+Id+Revision
