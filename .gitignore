@@ -83,8 +83,6 @@ libao2/libao2.a
 libass/.depend
 libass/libass.a
 libdha/.depend
-libdha/dhahelperwin/dhahelper.sys
-libdha/kernelhelper/test
 libdha/libdha.a
 libdha/pci_dev_ids.c
 libdha/pci_ids.h
@@ -129,4 +127,6 @@ tremor/.depend
 tremor/libvorbisidec.a
 /version.h
 vidix/.depend
+vidix/dhahelperwin/dhahelper.sys
+vidix/kernelhelper/test
 vidix/libvidix.a
