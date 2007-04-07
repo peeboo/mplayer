@@ -122,3 +122,5 @@ vidix/.depend
 vidix/dhahelperwin/dhahelper.sys
 vidix/kernelhelper/test
 vidix/libvidix.a
+vidix/pci_*.c
+vidix/pci_*.h
