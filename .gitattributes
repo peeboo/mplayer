@@ -624,7 +624,6 @@ libass/ass_utils.c -text
 libass/ass_utils.h -text
 libass/mputils.h -text
 libdha/Makefile svn_keywords=Author+Date+Id+Revision
-libdha/README svn_keywords=Author+Date+Id+Revision
 libdha/test.c svn_keywords=Author+Date+Id+Revision
 libdvdcss/Makefile svn_keywords=Author+Date+Id+Revision
 libdvdcss/bsdi_dvd.h svn_keywords=Author+Date+Id+Revision
@@ -1371,6 +1370,7 @@ tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
 vidix/AsmMacros.h svn_keywords=Author+Date+Id+Revision
 vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
+vidix/README.dha svn_keywords=Author+Date+Id+Revision
 vidix/bin/README svn_keywords=Author+Date+Id+Revision
 vidix/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
 vidix/bin/mapdev.vxd -text
