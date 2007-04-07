@@ -82,14 +82,6 @@ libao2/.depend
 libao2/libao2.a
 libass/.depend
 libass/libass.a
-libdha/.depend
-libdha/libdha.a
-libdha/pci_dev_ids.c
-libdha/pci_ids.h
-libdha/pci_names.c
-libdha/pci_names.h
-libdha/pci_vendors.h
-libdha/test
 libdvdcss/.depend
 libdvdcss/libdvdcss.a
 libfaad2/.depend

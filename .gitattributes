@@ -623,8 +623,6 @@ libass/ass_types.h -text
 libass/ass_utils.c -text
 libass/ass_utils.h -text
 libass/mputils.h -text
-libdha/Makefile svn_keywords=Author+Date+Id+Revision
-libdha/test.c svn_keywords=Author+Date+Id+Revision
 libdvdcss/Makefile svn_keywords=Author+Date+Id+Revision
 libdvdcss/bsdi_dvd.h svn_keywords=Author+Date+Id+Revision
 libdvdcss/bsdi_ioctl.c svn_keywords=Author+Date+Id+Revision
