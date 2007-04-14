@@ -1384,6 +1384,7 @@ vidix/dhahelperwin/dhasetup.c svn_keywords=Author+Date+Id+Revision
 vidix/drivers.c -text
 vidix/drivers.h -text
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
+vidix/glint_regs.h -text
 vidix/kernelhelper/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
@@ -1396,6 +1397,7 @@ vidix/nvidia_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/pci.c svn_keywords=Author+Date+Id+Revision
 vidix/pci.db svn_keywords=Author+Date+Id+Revision
 vidix/pci_db2c.awk svn_keywords=Author+Date+Id+Revision
+vidix/pm2_vid.c -text
 vidix/pm3_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/pm3_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/radeon.h svn_keywords=Author+Date+Id+Revision
