@@ -27,9 +27,6 @@ DOCS/xml/zh_CN/skin.xml
 DOCS/xml/zh_CN/tvinput.xml
 DOCS/xml/zh_CN/usage.xml
 DOCS/xml/zh_CN/video.xml
-Gui/.depend
-Gui/libgui.a
-Gui/mplayer/.depend
 TOOLS/alaw-gen
 TOOLS/alaw.dat
 TOOLS/alaw.out
@@ -70,6 +67,9 @@ drivers/tdfx_vid_test
 dvdread/.depend
 dvdread/libdvdread.a
 /gmplayer
+gui/.depend
+gui/libgui.a
+gui/mplayer/.depend
 /help_mp.h
 input/.depend
 input/libinput.a
