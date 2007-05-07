@@ -934,6 +934,9 @@ libmpeg2/mmx.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp_alpha.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp_altivec.c svn_keywords=Author+Date+Id+Revision
+libmpeg2/motion_comp_arm.c -text
+libmpeg2/motion_comp_arm_s.S -text
+libmpeg2/motion_comp_iwmmxt.c -text
 libmpeg2/motion_comp_mmx.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/motion_comp_vis.c svn_keywords=Author+Date+Id+Revision
 libmpeg2/mpeg2.h svn_keywords=Author+Date+Id+Revision
