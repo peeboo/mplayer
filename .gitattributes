@@ -1268,6 +1268,7 @@ stream/network.h svn_keywords=Author+Date+Id+Revision
 stream/open.c svn_keywords=Author+Date+Id+Revision
 stream/pnm.c svn_keywords=Author+Date+Id+Revision
 stream/pnm.h svn_keywords=Author+Date+Id+Revision
+stream/pvr.h -text
 stream/realrtsp/asmrp.c svn_keywords=Author+Date+Id+Revision
 stream/realrtsp/asmrp.h svn_keywords=Author+Date+Id+Revision
 stream/realrtsp/real.c svn_keywords=Author+Date+Id+Revision
