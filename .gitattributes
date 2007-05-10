@@ -1389,6 +1389,7 @@ vidix/drivers.c -text
 vidix/drivers.h -text
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
 vidix/glint_regs.h -text
+vidix/ivtv_vid.c -text
 vidix/kernelhelper/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
