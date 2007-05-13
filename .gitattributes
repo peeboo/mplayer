@@ -946,6 +946,7 @@ libmpeg2/vis.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/vlc.h svn_keywords=Author+Date+Id+Revision
 libswscale/Makefile svn_keywords=Author+Date+Id+Revision
 libswscale/cs_test.c svn_keywords=Author+Date+Id+Revision
+libswscale/internal_bfin.S -text
 libswscale/rgb2rgb.c svn_keywords=Author+Date+Id+Revision
 libswscale/rgb2rgb.h svn_keywords=Author+Date+Id+Revision
 libswscale/rgb2rgb_template.c svn_keywords=Author+Date+Id+Revision
@@ -957,6 +958,7 @@ libswscale/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
+libswscale/yuv2rgb_bfin.c -text
 libswscale/yuv2rgb_init.c -text
 libswscale/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
