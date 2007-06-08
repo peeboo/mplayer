@@ -178,6 +178,12 @@ DOCS/xml/hu/skin.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
+DOCS/xml/it/Makefile -text
+DOCS/xml/it/audio.xml -text
+DOCS/xml/it/documentation.xml -text
+DOCS/xml/it/install.xml -text
+DOCS/xml/it/radio.xml -text
+DOCS/xml/it/usage.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/audio.xml svn_keywords=Author+Date+Id+Revision
