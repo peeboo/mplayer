@@ -182,6 +182,8 @@ DOCS/xml/it/Makefile -text
 DOCS/xml/it/audio.xml -text
 DOCS/xml/it/bugs.xml -text
 DOCS/xml/it/cd-dvd.xml -text
+DOCS/xml/it/codecs.xml -text
+DOCS/xml/it/containers.xml -text
 DOCS/xml/it/documentation.xml -text
 DOCS/xml/it/install.xml -text
 DOCS/xml/it/radio.xml -text
