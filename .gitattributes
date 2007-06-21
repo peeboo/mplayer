@@ -1331,8 +1331,6 @@ stream/tvi_def.h svn_keywords=Author+Date+Id+Revision
 stream/tvi_dummy.c svn_keywords=Author+Date+Id+Revision
 stream/tvi_v4l.c svn_keywords=Author+Date+Id+Revision
 stream/tvi_v4l2.c svn_keywords=Author+Date+Id+Revision
-stream/tvi_vbi.c svn_keywords=Author+Date+Id+Revision
-stream/tvi_vbi.h svn_keywords=Author+Date+Id+Revision
 stream/udp.c -text
 stream/udp.h -text
 stream/url.c svn_keywords=Author+Date+Id+Revision
