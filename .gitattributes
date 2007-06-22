@@ -966,6 +966,7 @@ libswscale/swscale-example.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_altivec_template.c svn_keywords=Author+Date+Id+Revision
+libswscale/swscale_bfin.c -text
 libswscale/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
