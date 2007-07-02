@@ -190,6 +190,7 @@ DOCS/xml/it/install.xml -text
 DOCS/xml/it/radio.xml -text
 DOCS/xml/it/tvinput.xml -text
 DOCS/xml/it/usage.xml -text
+DOCS/xml/it/video.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/audio.xml svn_keywords=Author+Date+Id+Revision
