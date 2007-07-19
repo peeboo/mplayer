@@ -975,6 +975,7 @@ libswscale/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_bfin.c -text
 libswscale/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
+libswscale/yuv2rgb_vis.c -text
 libvo/Makefile svn_keywords=Author+Date+Id+Revision
 libvo/aclib.c svn_keywords=Author+Date+Id+Revision
 libvo/aclib_template.c svn_keywords=Author+Date+Id+Revision
