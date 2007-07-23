@@ -186,6 +186,7 @@ DOCS/xml/it/codecs.xml -text
 DOCS/xml/it/containers.xml -text
 DOCS/xml/it/documentation.xml -text
 DOCS/xml/it/faq.xml -text
+DOCS/xml/it/history.xml -text
 DOCS/xml/it/install.xml -text
 DOCS/xml/it/mencoder.xml -text
 DOCS/xml/it/radio.xml -text
