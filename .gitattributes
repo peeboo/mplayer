@@ -180,6 +180,7 @@ DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/it/Makefile -text
 DOCS/xml/it/audio.xml -text
+DOCS/xml/it/bugreports.xml -text
 DOCS/xml/it/bugs.xml -text
 DOCS/xml/it/cd-dvd.xml -text
 DOCS/xml/it/codecs.xml -text
