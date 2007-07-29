@@ -615,6 +615,7 @@ libao2/ao_polyp.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_sdl.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_sgi.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_sun.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_v4l2.c -text
 libao2/ao_win32.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.h svn_keywords=Author+Date+Id+Revision
@@ -1048,6 +1049,7 @@ libvo/vo_svga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tdfx_vid.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tdfxfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tga.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_v4l2.c -text
 libvo/vo_vesa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_winvidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_x11.c svn_keywords=Author+Date+Id+Revision
