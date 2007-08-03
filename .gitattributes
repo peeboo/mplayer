@@ -1058,6 +1058,7 @@ libvo/vo_xover.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xv.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xvidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xvmc.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_xvr100.c -text
 libvo/vo_yuv4mpeg.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_zr.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_zr2.c svn_keywords=Author+Date+Id+Revision
