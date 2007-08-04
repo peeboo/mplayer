@@ -1307,6 +1307,8 @@ stream/stream_cue.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvb.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvd.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvd.h -text
+stream/stream_dvd_common.c svn_keywords=Author+Date+Id+Revision
+stream/stream_dvd_common.h -text
 stream/stream_dvdnav.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvdnav.h svn_keywords=Author+Date+Id+Revision
 stream/stream_file.c svn_keywords=Author+Date+Id+Revision
