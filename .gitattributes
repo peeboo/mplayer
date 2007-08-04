@@ -726,6 +726,7 @@ libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_video.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/img_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/img_format.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/mp_image.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mp_image.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mpc_info.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/RTjpegN.c svn_keywords=Author+Date+Id+Revision
