@@ -272,6 +272,7 @@ TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/install-w32codecs.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/mencvcd svn_keywords=Author+Date+Id+Revision
 TOOLS/midentify svn_keywords=Author+Date+Id+Revision
+TOOLS/modify_reg.c -text
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mpconsole svn_keywords=Author+Date+Id+Revision
 TOOLS/mphelp_check.py svn_keywords=Author+Date+Id+Revision
