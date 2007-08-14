@@ -526,6 +526,8 @@ help/help_mp-uk.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_CN.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-zh_TW.h svn_keywords=Author+Date+Id+Revision
 input/Makefile svn_keywords=Author+Date+Id+Revision
+input/ar.c -text
+input/ar.h -text
 input/input.c svn_keywords=Author+Date+Id+Revision
 input/input.h svn_keywords=Author+Date+Id+Revision
 input/joystick.c svn_keywords=Author+Date+Id+Revision
