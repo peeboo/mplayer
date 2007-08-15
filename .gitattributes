@@ -346,6 +346,8 @@ drivers/tdfx_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid_test.c svn_keywords=Author+Date+Id+Revision
 dvdread/Makefile svn_keywords=Author+Date+Id+Revision
 dvdread/bswap.h svn_keywords=Author+Date+Id+Revision
+dvdread/cmd_print.c -text
+dvdread/cmd_print.h -text
 dvdread/dvd_input.c svn_keywords=Author+Date+Id+Revision
 dvdread/dvd_input.h svn_keywords=Author+Date+Id+Revision
 dvdread/dvd_reader.c svn_keywords=Author+Date+Id+Revision
