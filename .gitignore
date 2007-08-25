@@ -45,6 +45,7 @@ TOOLS/fastmem2-k6
 TOOLS/fastmem2-k7
 TOOLS/fastmem2-mmx
 TOOLS/fastmem2-sse
+TOOLS/modify_reg
 TOOLS/movinfo
 TOOLS/netstream
 TOOLS/realcodecs/*.so.6.0
