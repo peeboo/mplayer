@@ -382,6 +382,7 @@ etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /fmt-conversion.h -text
 /get_path.c svn_keywords=Author+Date+Id+Revision
+/get_path.h -text
 gui/Makefile svn_keywords=Author+Date+Id+Revision
 gui/app.c svn_keywords=Author+Date+Id+Revision
 gui/app.h svn_keywords=Author+Date+Id+Revision
