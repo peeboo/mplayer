@@ -11,7 +11,10 @@ DOCS/xml/fr/main.xml
 DOCS/xml/html-chunk.xsl
 DOCS/xml/html-single.xsl
 DOCS/xml/hu/main.xml
+DOCS/xml/it/encoding-guide.xml
 DOCS/xml/it/main.xml
+DOCS/xml/it/ports.xml
+DOCS/xml/it/skin.xml
 DOCS/xml/pl/main.xml
 DOCS/xml/ru/main.xml
 DOCS/xml/xmllint.sh
