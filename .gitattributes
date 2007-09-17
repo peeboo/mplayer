@@ -1405,11 +1405,15 @@ vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.h svn_keywords=Author+Date+Id+Revision
+vidix/dhahelperwin/Makefile -text
 vidix/dhahelperwin/NMAKEFILE svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/SOURCES svn_keywords=Author+Date+Id+Revision
+vidix/dhahelperwin/common.ver -text
 vidix/dhahelperwin/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/dhahelper.h svn_keywords=Author+Date+Id+Revision
+vidix/dhahelperwin/dhahelper.rc -text
 vidix/dhahelperwin/dhasetup.c svn_keywords=Author+Date+Id+Revision
+vidix/dhahelperwin/ntverp.h -text
 vidix/drivers.c -text
 vidix/drivers.h -text
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
