@@ -883,6 +883,8 @@ libmpdemux/demux_mkv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpc.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpg.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_nemesi.c -text
+libmpdemux/demux_nemesi.h -text
 libmpdemux/demux_nsv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_nut.c -text
 libmpdemux/demux_nuv.c svn_keywords=Author+Date+Id+Revision
@@ -1322,6 +1324,7 @@ stream/stream_file.c svn_keywords=Author+Date+Id+Revision
 stream/stream_ftp.c svn_keywords=Author+Date+Id+Revision
 stream/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
 stream/stream_mf.c -text
+stream/stream_nemesi.c -text
 stream/stream_netstream.c svn_keywords=Author+Date+Id+Revision
 stream/stream_null.c svn_keywords=Author+Date+Id+Revision
 stream/stream_pvr.c -text
