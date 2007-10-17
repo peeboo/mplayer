@@ -1153,6 +1153,7 @@ loader/wine/module.h svn_keywords=Author+Date+Id+Revision
 loader/wine/msacm.h svn_keywords=Author+Date+Id+Revision
 loader/wine/msacmdrv.h svn_keywords=Author+Date+Id+Revision
 loader/wine/ntdef.h svn_keywords=Author+Date+Id+Revision
+loader/wine/objbase.h -text
 loader/wine/pe_image.h svn_keywords=Author+Date+Id+Revision
 loader/wine/poppack.h svn_keywords=Author+Date+Id+Revision
 loader/wine/pshpack1.h svn_keywords=Author+Date+Id+Revision
