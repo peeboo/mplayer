@@ -617,6 +617,7 @@ libao2/ao_null.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_openal.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_oss.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_pcm.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_pulse.c -text
 libao2/ao_sdl.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_sgi.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_sun.c svn_keywords=Author+Date+Id+Revision
