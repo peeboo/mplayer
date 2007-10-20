@@ -1374,6 +1374,7 @@ tremor/asm_arm.h svn_keywords=Author+Date+Id+Revision
 tremor/backends.h svn_keywords=Author+Date+Id+Revision
 tremor/bitwise.c svn_keywords=Author+Date+Id+Revision
 tremor/block.c svn_keywords=Author+Date+Id+Revision
+tremor/block.h -text
 tremor/codebook.c svn_keywords=Author+Date+Id+Revision
 tremor/codebook.h svn_keywords=Author+Date+Id+Revision
 tremor/codec_internal.h svn_keywords=Author+Date+Id+Revision
