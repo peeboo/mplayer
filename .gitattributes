@@ -1408,9 +1408,6 @@ vidix/AsmMacros.h svn_keywords=Author+Date+Id+Revision
 vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
 vidix/README.dha svn_keywords=Author+Date+Id+Revision
-vidix/bin/README svn_keywords=Author+Date+Id+Revision
-vidix/bin/mapdev.copyright svn_keywords=Author+Date+Id+Revision
-vidix/bin/mapdev.vxd -text
 vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.c svn_keywords=Author+Date+Id+Revision
