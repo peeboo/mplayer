@@ -600,6 +600,8 @@ libaf/equalizer.h svn_keywords=Author+Date+Id+Revision
 libaf/filter.c svn_keywords=Author+Date+Id+Revision
 libaf/filter.h svn_keywords=Author+Date+Id+Revision
 libaf/format.c svn_keywords=Author+Date+Id+Revision
+libaf/reorder_ch.c -text
+libaf/reorder_ch.h -text
 libaf/window.c svn_keywords=Author+Date+Id+Revision
 libaf/window.h svn_keywords=Author+Date+Id+Revision
 libao2/Makefile svn_keywords=Author+Date+Id+Revision
