@@ -581,6 +581,7 @@ libaf/af_hrtf.c svn_keywords=Author+Date+Id+Revision
 libaf/af_hrtf.h svn_keywords=Author+Date+Id+Revision
 libaf/af_karaoke.c svn_keywords=Author+Date+Id+Revision
 libaf/af_ladspa.c svn_keywords=Author+Date+Id+Revision
+libaf/af_lavcac3enc.c -text
 libaf/af_lavcresample.c svn_keywords=Author+Date+Id+Revision
 libaf/af_mp.h svn_keywords=Author+Date+Id+Revision
 libaf/af_pan.c svn_keywords=Author+Date+Id+Revision
