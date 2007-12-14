@@ -675,6 +675,7 @@ libfaad2/output.c svn_keywords=Author+Date+Id+Revision
 libmenu/Makefile svn_keywords=Author+Date+Id+Revision
 libmenu/menu.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu.h svn_keywords=Author+Date+Id+Revision
+libmenu/menu_chapsel.c -text
 libmenu/menu_cmdlist.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_console.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu_dvbin.c svn_keywords=Author+Date+Id+Revision
