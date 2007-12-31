@@ -666,7 +666,6 @@ libdvdcss/ioctl.h svn_keywords=Author+Date+Id+Revision
 libdvdcss/libdvdcss.c svn_keywords=Author+Date+Id+Revision
 libdvdcss/libdvdcss.h svn_keywords=Author+Date+Id+Revision
 libfaad2/Makefile svn_keywords=Author+Date+Id+Revision
-libfaad2/README svn_keywords=Author+Date+Id+Revision
 libfaad2/bits.h svn_keywords=Author+Date+Id+Revision
 libfaad2/common.h svn_keywords=Author+Date+Id+Revision
 libfaad2/drm_dec.c svn_keywords=Author+Date+Id+Revision
