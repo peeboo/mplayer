@@ -1435,6 +1435,7 @@ vidix/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 vidix/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
 vidix/mach64.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64_vid.c svn_keywords=Author+Date+Id+Revision
+vidix/mga_crtc2_vid.c -text
 vidix/mga_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/mtrr.c svn_keywords=Author+Date+Id+Revision
 vidix/nvidia_vid.c svn_keywords=Author+Date+Id+Revision
@@ -1446,6 +1447,7 @@ vidix/pm3_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/pm3_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/radeon.h svn_keywords=Author+Date+Id+Revision
 vidix/radeon_vid.c svn_keywords=Author+Date+Id+Revision
+vidix/rage128_vid.c -text
 vidix/savage_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/savage_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/sis_bridge.c svn_keywords=Author+Date+Id+Revision
