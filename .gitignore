@@ -110,6 +110,8 @@ libvo/libosd.a
 libvo/libvo.a
 loader/.depend
 loader/libloader.a
+loader/qtx/list
+loader/qtx/qtxload
 /mencoder
 mp3lib/.depend
 mp3lib/libmp3.a
