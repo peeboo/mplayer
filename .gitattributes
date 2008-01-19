@@ -266,6 +266,7 @@ TOOLS/divx2svcd svn_keywords=Author+Date+Id+Revision
 TOOLS/dump_mp4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/edgedetect.fp svn_keywords=Author+Date+Id+Revision
+TOOLS/edgeenh.fp -text
 TOOLS/emboss.fp svn_keywords=Author+Date+Id+Revision
 TOOLS/encode2mpeglight svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
