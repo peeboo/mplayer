@@ -497,7 +497,6 @@ gui/win32/skinload.c -text
 gui/win32/skinload.h -text
 gui/win32/widgetrender.c -text
 gui/win32/wincfg.c -text
-gui/win32/wincfg.h -text
 gui/wm/ws.c svn_keywords=Author+Date+Id+Revision
 gui/wm/ws.h svn_keywords=Author+Date+Id+Revision
 gui/wm/wskeys.h svn_keywords=Author+Date+Id+Revision
