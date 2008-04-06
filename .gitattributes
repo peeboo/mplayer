@@ -739,11 +739,11 @@ libmpcodecs/img_format.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mp_image.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mp_image.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/mpc_info.h svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/RTjpegN.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/RTjpegN.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/alaw.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/mmx.h -text
 libmpcodecs/native/nuppelvideo.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/native/rtjpegn.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/native/rtjpegn.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/xa_gsm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/xa_gsm.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/xa_gsm_int.h svn_keywords=Author+Date+Id+Revision
