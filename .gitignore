@@ -77,8 +77,6 @@ gui/.depend
 gui/libgui.a
 gui/mplayer/.depend
 /help_mp.h
-input/.depend
-input/libinput.a
 liba52/.depend
 liba52/liba52.a
 libaf/.depend
