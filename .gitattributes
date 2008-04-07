@@ -670,7 +670,6 @@ libfaad2/common.h svn_keywords=Author+Date+Id+Revision
 libfaad2/drm_dec.c svn_keywords=Author+Date+Id+Revision
 libfaad2/drm_dec.h svn_keywords=Author+Date+Id+Revision
 libfaad2/output.c svn_keywords=Author+Date+Id+Revision
-libmenu/Makefile svn_keywords=Author+Date+Id+Revision
 libmenu/menu.c svn_keywords=Author+Date+Id+Revision
 libmenu/menu.h svn_keywords=Author+Date+Id+Revision
 libmenu/menu_chapsel.c -text
