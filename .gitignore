@@ -83,8 +83,6 @@ libaf/.depend
 libaf/libaf.a
 libao2/.depend
 libao2/libao2.a
-libass/.depend
-libass/libass.a
 libdvdcss/.depend
 libdvdcss/libdvdcss.a
 libfaad2/.depend

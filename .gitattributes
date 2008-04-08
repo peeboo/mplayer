@@ -629,7 +629,6 @@ libao2/ao_win32.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.c svn_keywords=Author+Date+Id+Revision
 libao2/audio_out.h svn_keywords=Author+Date+Id+Revision
 libao2/audio_out_internal.h svn_keywords=Author+Date+Id+Revision
-libass/Makefile -text
 libass/ass.c -text
 libass/ass.h -text
 libass/ass_bitmap.c -text
