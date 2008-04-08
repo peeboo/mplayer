@@ -115,8 +115,6 @@ mp3lib/libmp3.a
 mp3lib/test
 mp3lib/test2
 /mplayer
-osdep/.depend
-osdep/libosdep.a
 stream/.depend
 stream/stream.a
 tremor/.depend
