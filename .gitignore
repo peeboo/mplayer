@@ -79,8 +79,6 @@ gui/mplayer/.depend
 /help_mp.h
 liba52/.depend
 liba52/liba52.a
-libaf/.depend
-libaf/libaf.a
 libao2/.depend
 libao2/libao2.a
 libdvdcss/.depend
