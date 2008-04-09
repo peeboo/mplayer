@@ -923,6 +923,8 @@ libmpdemux/mf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mp3_hdr.h svn_keywords=Author+Date+Id+Revision
+libmpdemux/mp_taglists.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/mp_taglists.h -text
 libmpdemux/mpeg_hdr.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_hdr.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/mpeg_packetizer.c -text
