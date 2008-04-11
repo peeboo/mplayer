@@ -73,8 +73,6 @@ drivers/tdfx_vid_test
 dvdread/.depend
 dvdread/libdvdread.a
 /gmplayer
-gui/.depend
-gui/libgui.a
 gui/mplayer/.depend
 /help_mp.h
 liba52/.depend
