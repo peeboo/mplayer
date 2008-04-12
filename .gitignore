@@ -91,6 +91,7 @@ libmpdemux/libmpdemux.a
 libmpdemux/libmpmux.a
 libmpeg2/.depend
 libmpeg2/libmpeg2.a
+libswscale/*.d
 libswscale/*.ho
 libswscale/.depend
 libswscale/cs_test
