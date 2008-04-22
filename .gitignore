@@ -71,7 +71,7 @@ debian/mplayer.substvars
 drivers/mga_vid_test
 drivers/tdfx_vid_test
 dvdread/.depend
-dvdread/libdvdread.a
+dvdread/dvdread.a
 /gmplayer
 gui/*.d
 gui/mplayer/*.d
@@ -110,12 +110,12 @@ libvo/.depend
 libvo/libosd.a
 libvo/libvo.a
 loader/.depend
-loader/libloader.a
+loader/loader.a
 loader/qtx/list
 loader/qtx/qtxload
 /mencoder
 mp3lib/.depend
-mp3lib/libmp3.a
+mp3lib/mp3lib.a
 mp3lib/test
 mp3lib/test2
 /mplayer
@@ -123,11 +123,11 @@ osdep/*.d
 stream/.depend
 stream/stream.a
 tremor/.depend
-tremor/libvorbisidec.a
+tremor/tremor.a
 /version.h
 vidix/.depend
 vidix/dhahelperwin/dhahelper.sys
 vidix/kernelhelper/test
-vidix/libvidix.a
 vidix/pci_*.c
 vidix/pci_*.h
+vidix/vidix.a
