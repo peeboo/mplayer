@@ -122,8 +122,7 @@ mp3lib/test2
 osdep/*.d
 stream/.depend
 stream/stream.a
-tremor/.depend
-tremor/tremor.a
+tremor/*.d
 /version.h
 vidix/.depend
 vidix/dhahelperwin/dhahelper.sys

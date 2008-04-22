@@ -1374,7 +1374,6 @@ stream/vcd_read_win32.h -text
 /subreader.h svn_keywords=Author+Date+Id+Revision
 tremor/COPYING svn_keywords=Author+Date+Id+Revision
 tremor/FILES svn_keywords=Author+Date+Id+Revision
-tremor/Makefile svn_keywords=Author+Date+Id+Revision
 tremor/asm_arm.h svn_keywords=Author+Date+Id+Revision
 tremor/backends.h svn_keywords=Author+Date+Id+Revision
 tremor/bitwise.c svn_keywords=Author+Date+Id+Revision
