@@ -251,7 +251,6 @@ DOCS/xml/zh_CN/radio.xml -text
 /LICENSE svn_keywords=Author+Date+Id+Revision
 /Makefile svn_keywords=Author+Date+Id+Revision
 /README svn_keywords=Author+Date+Id+Revision
-TOOLS/Makefile svn_keywords=Author+Date+Id+Revision
 TOOLS/README svn_keywords=Author+Date+Id+Revision
 TOOLS/aconvert svn_keywords=Author+Date+Id+Revision
 TOOLS/alaw-gen.c svn_keywords=Author+Date+Id+Revision
