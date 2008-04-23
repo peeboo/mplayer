@@ -105,9 +105,7 @@ libswscale/.depend
 libswscale/cs_test
 libswscale/libswscale*
 libswscale/swscale-example
-libvo/.depend
-libvo/libosd.a
-libvo/libvo.a
+libvo/*.d
 loader/.depend
 loader/loader.a
 loader/qtx/list
