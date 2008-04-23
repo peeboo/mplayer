@@ -84,8 +84,7 @@ input/*.d
 liba52/.depend
 liba52/liba52.a
 libaf/*.d
-libao2/.depend
-libao2/libao2.a
+libao2/*.d
 libass/*.d
 libdvdcss/.depend
 libdvdcss/libdvdcss.a
