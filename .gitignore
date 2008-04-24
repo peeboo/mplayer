@@ -91,9 +91,8 @@ libdvdcss/libdvdcss.a
 libfaad2/.depend
 libfaad2/libfaad2.a
 libmenu/*.d
-libmpcodecs/.depend
-libmpcodecs/libmpcodecs.a
-libmpcodecs/libmpencoders.a
+libmpcodecs/*.d
+libmpcodecs/native/*.d
 libmpdemux/.depend
 libmpdemux/libmpdemux.a
 libmpdemux/libmpmux.a
