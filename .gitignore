@@ -86,8 +86,7 @@ liba52/liba52.a
 libaf/*.d
 libao2/*.d
 libass/*.d
-libdvdcss/.depend
-libdvdcss/libdvdcss.a
+libdvdcss/*.d
 libfaad2/.depend
 libfaad2/libfaad2.a
 libmenu/*.d
