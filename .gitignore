@@ -93,9 +93,7 @@ libfaad2/libfaad2.a
 libmenu/*.d
 libmpcodecs/*.d
 libmpcodecs/native/*.d
-libmpdemux/.depend
-libmpdemux/libmpdemux.a
-libmpdemux/libmpmux.a
+libmpdemux/*.d
 libmpeg2/.depend
 libmpeg2/libmpeg2.a
 libswscale/*.d
