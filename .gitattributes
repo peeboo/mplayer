@@ -1261,7 +1261,6 @@ rpm/mplayer-codecs.spec -text
 rpm/mplayer.spec -text
 /spudec.c svn_keywords=Author+Date+Id+Revision
 /spudec.h svn_keywords=Author+Date+Id+Revision
-stream/Makefile -text
 stream/ai_alsa.c svn_keywords=Author+Date+Id+Revision
 stream/ai_alsa1x.c svn_keywords=Author+Date+Id+Revision
 stream/ai_oss.c svn_keywords=Author+Date+Id+Revision

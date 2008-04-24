@@ -116,8 +116,10 @@ mp3lib/test
 mp3lib/test2
 /mplayer
 osdep/*.d
-stream/.depend
-stream/stream.a
+stream/*.d
+stream/freesdp/*.d
+stream/librtsp/*.d
+stream/realrtsp/*.d
 tremor/*.d
 /version.h
 vidix/.depend
