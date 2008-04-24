@@ -87,8 +87,7 @@ libaf/*.d
 libao2/*.d
 libass/*.d
 libdvdcss/*.d
-libfaad2/.depend
-libfaad2/libfaad2.a
+libfaad2/*.d
 libmenu/*.d
 libmpcodecs/*.d
 libmpcodecs/native/*.d
