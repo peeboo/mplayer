@@ -82,6 +82,7 @@ gui/wm/*.d
 input/*.d
 liba52/.depend
 liba52/liba52.a
+liba52/test
 libaf/*.d
 libao2/*.d
 libass/*.d
