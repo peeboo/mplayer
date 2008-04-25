@@ -70,8 +70,7 @@ debian/mplayer.prerm.debhelper
 debian/mplayer.substvars
 drivers/mga_vid_test
 drivers/tdfx_vid_test
-dvdread/.depend
-dvdread/dvdread.a
+dvdread/*.d
 /gmplayer
 gui/*.d
 gui/mplayer/*.d
