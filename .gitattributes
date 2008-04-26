@@ -1401,7 +1401,6 @@ tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
 /unrar_exec.h -text
 /version.sh svn_keywords=Author+Date+Id+Revision
 vidix/AsmMacros.h svn_keywords=Author+Date+Id+Revision
-vidix/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
 vidix/README.dha svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision

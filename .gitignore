@@ -118,9 +118,8 @@ stream/librtsp/*.d
 stream/realrtsp/*.d
 tremor/*.d
 /version.h
-vidix/.depend
+vidix/*.d
 vidix/dhahelperwin/dhahelper.sys
 vidix/kernelhelper/test
 vidix/pci_*.c
 vidix/pci_*.h
-vidix/vidix.a
