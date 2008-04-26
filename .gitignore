@@ -92,8 +92,7 @@ libmenu/*.d
 libmpcodecs/*.d
 libmpcodecs/native/*.d
 libmpdemux/*.d
-libmpeg2/.depend
-libmpeg2/libmpeg2.a
+libmpeg2/*.d
 libswscale/*.d
 libswscale/*.ho
 libswscale/.depend
