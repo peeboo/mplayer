@@ -536,7 +536,6 @@ input/joystick.h svn_keywords=Author+Date+Id+Revision
 input/lirc.c svn_keywords=Author+Date+Id+Revision
 input/lirc.h svn_keywords=Author+Date+Id+Revision
 input/mouse.h svn_keywords=Author+Date+Id+Revision
-liba52/Makefile svn_keywords=Author+Date+Id+Revision
 liba52/a52.h svn_keywords=Author+Date+Id+Revision
 liba52/a52_internal.h svn_keywords=Author+Date+Id+Revision
 liba52/bit_allocate.c svn_keywords=Author+Date+Id+Revision

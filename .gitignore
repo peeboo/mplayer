@@ -80,8 +80,7 @@ gui/win32/*.d
 gui/wm/*.d
 /help_mp.h
 input/*.d
-liba52/.depend
-liba52/liba52.a
+liba52/*.d
 liba52/test
 libaf/*.d
 libao2/*.d
