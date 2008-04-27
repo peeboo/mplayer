@@ -1177,7 +1177,6 @@ loader/wrapper.h svn_keywords=Author+Date+Id+Revision
 /metadata.h -text
 /mixer.c svn_keywords=Author+Date+Id+Revision
 /mixer.h svn_keywords=Author+Date+Id+Revision
-mp3lib/Makefile svn_keywords=Author+Date+Id+Revision
 mp3lib/dct12.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct36.c svn_keywords=Author+Date+Id+Revision
 mp3lib/dct36_3dnow.c svn_keywords=Author+Date+Id+Revision

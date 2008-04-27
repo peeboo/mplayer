@@ -104,8 +104,7 @@ loader/loader.a
 loader/qtx/list
 loader/qtx/qtxload
 /mencoder
-mp3lib/.depend
-mp3lib/mp3lib.a
+mp3lib/*.d
 mp3lib/test
 mp3lib/test2
 /mplayer
