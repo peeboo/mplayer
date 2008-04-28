@@ -99,8 +99,9 @@ libswscale/cs_test
 libswscale/libswscale*
 libswscale/swscale-example
 libvo/*.d
-loader/.depend
-loader/loader.a
+loader/*.d
+loader/dmo/*.d
+loader/dshow/*.d
 loader/qtx/list
 loader/qtx/qtxload
 /mencoder
