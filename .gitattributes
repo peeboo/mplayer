@@ -1110,8 +1110,6 @@ loader/dshow/mediatype.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/mediatype.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/outputpin.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/outputpin.h svn_keywords=Author+Date+Id+Revision
-loader/dshow/test.c svn_keywords=Author+Date+Id+Revision
-loader/dshow/test.divx svneol=native#unset svn_keywords=Author+Date+Id+Revision
 loader/elfdll.c svn_keywords=Author+Date+Id+Revision
 loader/ext.c svn_keywords=Author+Date+Id+Revision
 loader/ext.h svn_keywords=Author+Date+Id+Revision
