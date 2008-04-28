@@ -94,7 +94,6 @@ libmpdemux/*.d
 libmpeg2/*.d
 libswscale/*.d
 libswscale/*.ho
-libswscale/.depend
 libswscale/cs_test
 libswscale/libswscale*
 libswscale/swscale-example
