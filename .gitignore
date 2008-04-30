@@ -98,6 +98,7 @@ libswscale/cs_test
 libswscale/libswscale*
 libswscale/swscale-example
 libvo/*.d
+libvo/aspecttest
 loader/*.d
 loader/dmo/*.d
 loader/dshow/*.d
