@@ -32,6 +32,7 @@ DOCS/xml/zh_CN/skin.xml
 DOCS/xml/zh_CN/tvinput.xml
 DOCS/xml/zh_CN/usage.xml
 DOCS/xml/zh_CN/video.xml
+/TAGS
 TOOLS/alaw-gen
 TOOLS/alaw.dat
 TOOLS/alaw.out
