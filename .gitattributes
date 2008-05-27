@@ -503,7 +503,7 @@ gui/wm/wskeys.h svn_keywords=Author+Date+Id+Revision
 gui/wm/wsmkeys.h svn_keywords=Author+Date+Id+Revision
 gui/wm/wsxdnd.c svn_keywords=Author+Date+Id+Revision
 gui/wm/wsxdnd.h svn_keywords=Author+Date+Id+Revision
-help/help_diff.sh svn_keywords=Author+Date+Id+Revision
+help/help_create.sh svn_keywords=Author+Date+Id+Revision
 help/help_mp-bg.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-cs.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-de.h svneol=native#text/plain%3B+charset%3DUTF-8 svn_keywords=Author+Date+Id+Revision
