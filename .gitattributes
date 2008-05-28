@@ -334,7 +334,6 @@ debian/rules svn_keywords=Author+Date+Id+Revision
 debian/templates svn_keywords=Author+Date+Id+Revision
 debian/watch svn_keywords=Author+Date+Id+Revision
 drivers/3dfx.h svn_keywords=Author+Date+Id+Revision
-drivers/Makefile svn_keywords=Author+Date+Id+Revision
 drivers/README.Ati svn_keywords=Author+Date+Id+Revision
 drivers/README.Matrox svn_keywords=Author+Date+Id+Revision
 drivers/generic_math.h svn_keywords=Author+Date+Id+Revision
