@@ -1404,7 +1404,6 @@ vidix/dha.h svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/test.c svn_keywords=Author+Date+Id+Revision
-vidix/dhahelperwin/Makefile -text
 vidix/dhahelperwin/NMAKEFILE svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/SOURCES svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/common.ver -text
