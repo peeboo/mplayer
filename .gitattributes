@@ -1401,7 +1401,6 @@ vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.h svn_keywords=Author+Date+Id+Revision
-vidix/dhahelper/Makefile svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
 vidix/dhahelper/test.c svn_keywords=Author+Date+Id+Revision
