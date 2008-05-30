@@ -1401,6 +1401,10 @@ vidix/cyberblade_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/cyberblade_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.c svn_keywords=Author+Date+Id+Revision
 vidix/dha.h svn_keywords=Author+Date+Id+Revision
+vidix/dhahelper/Makefile svn_keywords=Author+Date+Id+Revision
+vidix/dhahelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
+vidix/dhahelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
+vidix/dhahelper/test.c svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/Makefile -text
 vidix/dhahelperwin/NMAKEFILE svn_keywords=Author+Date+Id+Revision
 vidix/dhahelperwin/SOURCES svn_keywords=Author+Date+Id+Revision
@@ -1415,10 +1419,6 @@ vidix/drivers.h -text
 vidix/fourcc.h svn_keywords=Author+Date+Id+Revision
 vidix/glint_regs.h -text
 vidix/ivtv_vid.c -text
-vidix/kernelhelper/Makefile svn_keywords=Author+Date+Id+Revision
-vidix/kernelhelper/dhahelper.c svn_keywords=Author+Date+Id+Revision
-vidix/kernelhelper/dhahelper.h svn_keywords=Author+Date+Id+Revision
-vidix/kernelhelper/test.c svn_keywords=Author+Date+Id+Revision
 vidix/mach64.h svn_keywords=Author+Date+Id+Revision
 vidix/mach64_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/mga_crtc2_vid.c -text

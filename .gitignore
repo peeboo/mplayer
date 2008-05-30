@@ -150,7 +150,7 @@ tremor/*.ho
 /version.h
 vidix/*.d
 vidix/*.ho
+vidix/dhahelper/test
 vidix/dhahelperwin/dhahelper.sys
-vidix/kernelhelper/test
 vidix/pci_*.c
 vidix/pci_*.h
