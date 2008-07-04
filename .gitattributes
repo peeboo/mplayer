@@ -1316,7 +1316,7 @@ stream/stream_dvdnav.c svn_keywords=Author+Date+Id+Revision
 stream/stream_dvdnav.h svn_keywords=Author+Date+Id+Revision
 stream/stream_file.c svn_keywords=Author+Date+Id+Revision
 stream/stream_ftp.c svn_keywords=Author+Date+Id+Revision
-stream/stream_livedotcom.c svn_keywords=Author+Date+Id+Revision
+stream/stream_live555.c svn_keywords=Author+Date+Id+Revision
 stream/stream_mf.c -text
 stream/stream_nemesi.c -text
 stream/stream_netstream.c svn_keywords=Author+Date+Id+Revision
