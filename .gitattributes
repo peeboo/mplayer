@@ -252,7 +252,7 @@ DOCS/xml/zh_CN/radio.xml -text
 /Makefile svn_keywords=Author+Date+Id+Revision
 /README svn_keywords=Author+Date+Id+Revision
 TOOLS/README svn_keywords=Author+Date+Id+Revision
-TOOLS/aconvert svn_keywords=Author+Date+Id+Revision
+TOOLS/aconvert.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/alaw-gen.c svn_keywords=Author+Date+Id+Revision
 TOOLS/asfinfo.c svn_keywords=Author+Date+Id+Revision
 TOOLS/avi-fix.c svn_keywords=Author+Date+Id+Revision
@@ -262,20 +262,20 @@ TOOLS/calcbpp.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/checktree.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/compare.c svn_keywords=Author+Date+Id+Revision
 TOOLS/countquant.pl svn_keywords=Author+Date+Id+Revision
-TOOLS/divx2svcd svn_keywords=Author+Date+Id+Revision
+TOOLS/divx2svcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/dump_mp4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/edgedetect.fp svn_keywords=Author+Date+Id+Revision eol=lf
 TOOLS/edgeenh.fp eol=lf
 TOOLS/emboss.fp svn_keywords=Author+Date+Id+Revision eol=lf
-TOOLS/encode2mpeglight svn_keywords=Author+Date+Id+Revision
+TOOLS/encode2mpeglight.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/install-w32codecs.sh svn_keywords=Author+Date+Id+Revision
-TOOLS/mencvcd svn_keywords=Author+Date+Id+Revision
-TOOLS/midentify svn_keywords=Author+Date+Id+Revision
+TOOLS/mencvcd.sh svn_keywords=Author+Date+Id+Revision
+TOOLS/midentify.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/modify_reg.c -text
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
-TOOLS/mpconsole svn_keywords=Author+Date+Id+Revision
+TOOLS/mpconsole.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/mphelp_check.py svn_keywords=Author+Date+Id+Revision
 TOOLS/mplmult.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/netstream.c svn_keywords=Author+Date+Id+Revision
