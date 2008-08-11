@@ -1436,6 +1436,7 @@ vidix/radeon_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/rage128_vid.c -text
 vidix/s3_regs.h -text
 vidix/s3_vid.c -text
+vidix/sh_veu_vid.c -text
 vidix/sis_bridge.c svn_keywords=Author+Date+Id+Revision
 vidix/sis_defs.h svn_keywords=Author+Date+Id+Revision
 vidix/sis_regs.h svn_keywords=Author+Date+Id+Revision
