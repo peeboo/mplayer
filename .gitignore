@@ -72,8 +72,6 @@ debian/mplayer.prerm.debhelper
 debian/mplayer.substvars
 drivers/mga_vid_test
 drivers/tdfx_vid_test
-dvdread/*.d
-dvdread/*.ho
 /gmplayer
 gui/*.d
 gui/*.ho
@@ -101,6 +99,8 @@ libass/*.d
 libass/*.ho
 libdvdcss/*.d
 libdvdcss/*.ho
+libdvdread/*.d
+libdvdread/*.ho
 libfaad2/*.d
 libfaad2/*.ho
 libmenu/*.d
