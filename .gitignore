@@ -1,4 +1,5 @@
 /*.d
+/*.exe
 /*.ho
 DOCS/HTML
 DOCS/HTML-single
@@ -33,6 +34,7 @@ DOCS/xml/zh_CN/tvinput.xml
 DOCS/xml/zh_CN/usage.xml
 DOCS/xml/zh_CN/video.xml
 /TAGS
+TOOLS/*.exe
 TOOLS/alaw-gen
 TOOLS/alaw.dat
 TOOLS/alaw.out
