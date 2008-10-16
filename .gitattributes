@@ -1282,7 +1282,6 @@ stream/librtsp/rtsp_rtp.c -text
 stream/librtsp/rtsp_rtp.h -text
 stream/librtsp/rtsp_session.c svn_keywords=Author+Date+Id+Revision
 stream/librtsp/rtsp_session.h svn_keywords=Author+Date+Id+Revision
-stream/netstream.h svn_keywords=Author+Date+Id+Revision
 stream/network.c svn_keywords=Author+Date+Id+Revision
 stream/network.h svn_keywords=Author+Date+Id+Revision
 stream/open.c svn_keywords=Author+Date+Id+Revision
@@ -1319,6 +1318,7 @@ stream/stream_live555.c svn_keywords=Author+Date+Id+Revision
 stream/stream_mf.c -text
 stream/stream_nemesi.c -text
 stream/stream_netstream.c svn_keywords=Author+Date+Id+Revision
+stream/stream_netstream.h svn_keywords=Author+Date+Id+Revision
 stream/stream_null.c svn_keywords=Author+Date+Id+Revision
 stream/stream_pvr.c -text
 stream/stream_radio.c -text
