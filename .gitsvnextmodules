@@ -1,7 +1,7 @@
 [submodule "libavcodec"]
 	path = libavcodec
 	owner = /
-	url = svn://svn.mplayerhq.hu/ffmpeg/trunk/libavcodec
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavcodec
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -9,7 +9,7 @@
 [submodule "libavformat"]
 	path = libavformat
 	owner = /
-	url = svn://svn.mplayerhq.hu/ffmpeg/trunk/libavformat
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavformat
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -17,7 +17,7 @@
 [submodule "libavutil"]
 	path = libavutil
 	owner = /
-	url = svn://svn.mplayerhq.hu/ffmpeg/trunk/libavutil
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavutil
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -25,7 +25,7 @@
 [submodule "libpostproc"]
 	path = libpostproc
 	owner = /
-	url = svn://svn.mplayerhq.hu/ffmpeg/trunk/libpostproc
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libpostproc
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
