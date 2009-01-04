@@ -73,7 +73,6 @@ DOCS/xml/cs/containers.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/ports.xml svn_keywords=Author+Date+Id+Revision
@@ -92,7 +91,6 @@ DOCS/xml/de/containers.xml -text
 DOCS/xml/de/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/encoding-guide.xml -text
 DOCS/xml/de/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/history.xml -text
 DOCS/xml/de/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/mencoder.xml -text
 DOCS/xml/de/ports.xml -text
@@ -126,7 +124,6 @@ DOCS/xml/es/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/faq.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/features.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/formats.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/es/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/ports.xml svn_keywords=Author+Date+Id+Revision
@@ -144,7 +141,6 @@ DOCS/xml/fr/containers.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/fr/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/ports.xml svn_keywords=Author+Date+Id+Revision
@@ -160,7 +156,6 @@ DOCS/xml/hu/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/ports.xml svn_keywords=Author+Date+Id+Revision
@@ -178,7 +173,6 @@ DOCS/xml/it/codecs.xml -text
 DOCS/xml/it/documentation.xml -text
 DOCS/xml/it/encoding-guide.xml -text
 DOCS/xml/it/faq.xml -text
-DOCS/xml/it/history.xml -text
 DOCS/xml/it/install.xml -text
 DOCS/xml/it/mencoder.xml -text
 DOCS/xml/it/radio.xml -text
@@ -196,7 +190,6 @@ DOCS/xml/pl/containers.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/encoding-guide.xml -text
 DOCS/xml/pl/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/html-chunk.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/html-single.xsl svn_keywords=Author+Date+Id+Revision
@@ -218,7 +211,6 @@ DOCS/xml/ru/containers.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/faq.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/ru/history.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/install.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/ports.xml svn_keywords=Author+Date+Id+Revision
