@@ -64,7 +64,6 @@ DOCS/xml/README svn_keywords=Author+Date+Id+Revision
 DOCS/xml/README.maintainers svn_keywords=Author+Date+Id+Revision
 DOCS/xml/configure svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -82,7 +81,6 @@ DOCS/xml/cs/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -115,7 +113,6 @@ DOCS/xml/en/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/es/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -132,7 +129,6 @@ DOCS/xml/es/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/fr/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -165,7 +161,6 @@ DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/it/Makefile -text
-DOCS/xml/it/audio.xml -text
 DOCS/xml/it/bugreports.xml -text
 DOCS/xml/it/bugs.xml -text
 DOCS/xml/it/cd-dvd.xml -text
@@ -181,7 +176,6 @@ DOCS/xml/it/usage.xml -text
 DOCS/xml/it/video.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/audio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -202,7 +196,6 @@ DOCS/xml/pl/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/Makefile svn_keywords=Author+Date+Id+Revision
-DOCS/xml/ru/audio.xml -text
 DOCS/xml/ru/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
@@ -224,7 +217,6 @@ DOCS/xml/xsl/ldp-html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-print.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/zh_CN/Makefile -text
-DOCS/xml/zh_CN/audio.xml -text
 DOCS/xml/zh_CN/bugreports.xml -text
 DOCS/xml/zh_CN/bugs.xml -text
 DOCS/xml/zh_CN/cd-dvd.xml -text
