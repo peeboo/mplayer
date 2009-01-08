@@ -101,8 +101,6 @@ libass/*.d
 libass/*.ho
 libdvdcss/*.d
 libdvdcss/*.ho
-libdvdread/*.d
-libdvdread/*.ho
 libfaad2/*.d
 libfaad2/*.ho
 libmenu/*.d

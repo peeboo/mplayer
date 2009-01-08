@@ -22,6 +22,14 @@
 	fetch = :refs/remotes/git-svn
 	remote = svn
 	type = dir
+[submodule "libdvdread4"]
+	path = libdvdread4
+	owner = /
+	url = svn://svn.mplayerhq.hu/dvdnav/trunk/libdvdread/src
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
 [submodule "libpostproc"]
 	path = libpostproc
 	owner = /
