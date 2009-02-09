@@ -83,8 +83,6 @@ DOCS/xml/cs/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/codecs.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/containers.xml -text
 DOCS/xml/de/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/encoding-guide.xml -text
 DOCS/xml/de/faq.xml svn_keywords=Author+Date+Id+Revision
