@@ -167,10 +167,8 @@ DOCS/xml/it/video.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/bugs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/codecs.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/containers.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/encoding-guide.xml -text
 DOCS/xml/pl/faq.xml svn_keywords=Author+Date+Id+Revision
