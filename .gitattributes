@@ -202,7 +202,6 @@ DOCS/xml/xsl/ldp-html.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-print.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/zh_CN/Makefile -text
 DOCS/xml/zh_CN/bugreports.xml -text
-DOCS/xml/zh_CN/bugs.xml -text
 DOCS/xml/zh_CN/cd-dvd.xml -text
 DOCS/xml/zh_CN/documentation.xml -text
 DOCS/xml/zh_CN/mencoder.xml -text
