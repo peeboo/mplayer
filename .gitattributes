@@ -66,7 +66,6 @@ DOCS/xml/configure svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/codecs.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/faq.xml svn_keywords=Author+Date+Id+Revision
