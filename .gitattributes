@@ -986,6 +986,7 @@ libvo/vo_tdfx_vid.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tdfxfb.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_tga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_v4l2.c -text
+libvo/vo_vdpau.c -text
 libvo/vo_vesa.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_wii.c -text
 libvo/vo_winvidix.c svn_keywords=Author+Date+Id+Revision
