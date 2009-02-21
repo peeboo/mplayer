@@ -516,6 +516,7 @@ libaf/af_resample.c svn_keywords=Author+Date+Id+Revision
 libaf/af_resample_template.c svn_keywords=Author+Date+Id+Revision
 libaf/af_scaletempo.c -text
 libaf/af_sinesuppress.c svn_keywords=Author+Date+Id+Revision
+libaf/af_stats.c -text
 libaf/af_sub.c svn_keywords=Author+Date+Id+Revision
 libaf/af_surround.c svn_keywords=Author+Date+Id+Revision
 libaf/af_sweep.c svn_keywords=Author+Date+Id+Revision
