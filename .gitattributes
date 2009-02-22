@@ -913,6 +913,7 @@ libswscale/swscale_bfin.c -text
 libswscale/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb.c svn_keywords=Author+Date+Id+Revision
+libswscale/yuv2rgb2.c -text
 libswscale/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
 libswscale/yuv2rgb_bfin.c -text
 libswscale/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
