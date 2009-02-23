@@ -270,7 +270,6 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /cpudetect.c svn_keywords=Author+Date+Id+Revision
 /cpudetect.h svn_keywords=Author+Date+Id+Revision
 /cpuinfo.c svn_keywords=Author+Date+Id+Revision
-/cputable.h svn_keywords=Author+Date+Id+Revision
 debian/README.debian svn_keywords=Author+Date+Id+Revision
 debian/TODO.Debian svn_keywords=Author+Date+Id+Revision
 debian/changelog svn_keywords=Author+Date+Id+Revision
