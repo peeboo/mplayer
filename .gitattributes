@@ -535,6 +535,7 @@ libaf/window.h svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa5.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_arts.c svn_keywords=Author+Date+Id+Revision
+libao2/ao_dart.c -text
 libao2/ao_dsound.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_dxr2.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_esd.c svn_keywords=Author+Date+Id+Revision
