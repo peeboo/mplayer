@@ -860,7 +860,6 @@ libmpdemux/muxer_lavf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_mpeg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_rawaudio.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/muxer_rawvideo.c svn_keywords=Author+Date+Id+Revision
-libmpdemux/nuppelvideo.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_es.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/parse_mp4.c svn_keywords=Author+Date+Id+Revision
