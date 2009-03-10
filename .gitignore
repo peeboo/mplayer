@@ -45,7 +45,7 @@ TOOLS/bmovl-test
 TOOLS/compare
 TOOLS/cpuinfo
 TOOLS/dump_mp4
-TOOLS/fastmem-*
+TOOLS/fastmemcpybench
 TOOLS/modify_reg
 TOOLS/movinfo
 TOOLS/netstream

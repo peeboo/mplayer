@@ -223,7 +223,6 @@ TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/edgedetect.fp svn_keywords=Author+Date+Id+Revision eol=lf
 TOOLS/edgeenh.fp eol=lf
 TOOLS/emboss.fp svn_keywords=Author+Date+Id+Revision eol=lf
-TOOLS/fastmem.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/fastmemcpybench.c svn_keywords=Author+Date+Id+Revision
 TOOLS/mencvcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/midentify.sh svn_keywords=Author+Date+Id+Revision
