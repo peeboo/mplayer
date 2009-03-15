@@ -59,6 +59,7 @@ TOOLS/vivodump
 /config.h
 /config.mak
 /configure.log
+/cpuinfo
 debian/files
 debian/mplayer
 debian/mplayer.postinst.debhelper
@@ -138,6 +139,7 @@ stream/librtsp/*.d
 stream/librtsp/*.ho
 stream/realrtsp/*.d
 stream/realrtsp/*.ho
+/tags
 tremor/*.d
 tremor/*.ho
 /version.h
