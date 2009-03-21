@@ -280,7 +280,6 @@ debian/copyright svn_keywords=Author+Date+Id+Revision
 debian/dirs svn_keywords=Author+Date+Id+Revision
 debian/menu svn_keywords=Author+Date+Id+Revision
 debian/mime svn_keywords=Author+Date+Id+Revision
-debian/postinst svn_keywords=Author+Date+Id+Revision
 debian/postrm svn_keywords=Author+Date+Id+Revision
 debian/rules svn_keywords=Author+Date+Id+Revision
 debian/templates svn_keywords=Author+Date+Id+Revision
