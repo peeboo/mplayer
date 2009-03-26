@@ -896,7 +896,7 @@ libmpeg2/vis.h svn_keywords=Author+Date+Id+Revision
 libmpeg2/vlc.h svn_keywords=Author+Date+Id+Revision
 libswscale/Makefile svn_keywords=Author+Date+Id+Revision
 libswscale/bfin/yuv2rgb_bfin.c -text
-libswscale/cs_test.c svn_keywords=Author+Date+Id+Revision
+libswscale/colorspace-test.c svn_keywords=Author+Date+Id+Revision
 libswscale/internal_bfin.S -text
 libswscale/mlib/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
 libswscale/ppc/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
