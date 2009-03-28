@@ -8,7 +8,7 @@ notices can be found in the file headers. Furthermore, MPlayer includes code
 from several external sources:
 
 Name:       FFmpeg
-Version:    Subversion HEAD
+Version:    0.5
 URL:        http://www.ffmpeg.org
 Directory:  libavcodec, libavformat, libavutil, libpostproc
 Copyright:  Many, see individual files for copyright notices.
