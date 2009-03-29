@@ -107,6 +107,7 @@ libmpdemux/*.d
 libmpdemux/*.ho
 libmpeg2/*.d
 libmpeg2/*.ho
+libswscale/*-example
 libswscale/*-test
 libswscale/*.d
 libswscale/*.exe
@@ -120,7 +121,6 @@ libswscale/ppc/*.d
 libswscale/ppc/*.ho
 libswscale/sparc/*.d
 libswscale/sparc/*.ho
-libswscale/swscale-example
 libswscale/x86/*.d
 libswscale/x86/*.ho
 libvo/*.d
