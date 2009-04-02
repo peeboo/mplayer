@@ -490,6 +490,7 @@ liba52/tables.h svn_keywords=Author+Date+Id+Revision
 liba52/test.c svn_keywords=Author+Date+Id+Revision
 libaf/af.c svn_keywords=Author+Date+Id+Revision
 libaf/af.h svn_keywords=Author+Date+Id+Revision
+libaf/af_bs2b.c -text
 libaf/af_center.c svn_keywords=Author+Date+Id+Revision
 libaf/af_channels.c svn_keywords=Author+Date+Id+Revision
 libaf/af_comp.c svn_keywords=Author+Date+Id+Revision
