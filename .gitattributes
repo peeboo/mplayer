@@ -900,6 +900,7 @@ libswscale/bfin/swscale_bfin.c -text
 libswscale/bfin/yuv2rgb_bfin.c -text
 libswscale/colorspace-test.c svn_keywords=Author+Date+Id+Revision
 libswscale/mlib/yuv2rgb_mlib.c svn_keywords=Author+Date+Id+Revision
+libswscale/options.c -text
 libswscale/ppc/swscale_altivec_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/ppc/yuv2rgb_altivec.c svn_keywords=Author+Date+Id+Revision
 libswscale/rgb2rgb.c svn_keywords=Author+Date+Id+Revision
@@ -909,7 +910,6 @@ libswscale/sparc/yuv2rgb_vis.c -text
 libswscale/swscale-example.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.h svn_keywords=Author+Date+Id+Revision
-libswscale/swscale_avoption.c -text
 libswscale/swscale_internal.h svn_keywords=Author+Date+Id+Revision
 libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/x86/yuv2rgb_mmx.c -text
