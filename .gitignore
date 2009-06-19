@@ -8,12 +8,13 @@ DOCS/tech/doxygen
 DOCS/xml/cs/main.xml
 DOCS/xml/de/main.xml
 DOCS/xml/en/main.xml
+DOCS/xml/es/encoding-guide.xml
 DOCS/xml/es/main.xml
+DOCS/xml/es/radio.xml
 DOCS/xml/fr/main.xml
 DOCS/xml/html-chunk.xsl
 DOCS/xml/html-single.xsl
 DOCS/xml/hu/main.xml
-DOCS/xml/it/encoding-guide.xml
 DOCS/xml/it/main.xml
 DOCS/xml/it/ports.xml
 DOCS/xml/it/skin.xml
@@ -21,11 +22,8 @@ DOCS/xml/pl/main.xml
 DOCS/xml/ru/main.xml
 DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
-DOCS/xml/zh_CN/codecs.xml
-DOCS/xml/zh_CN/containers.xml
 DOCS/xml/zh_CN/encoding-guide.xml
 DOCS/xml/zh_CN/faq.xml
-DOCS/xml/zh_CN/history.xml
 DOCS/xml/zh_CN/install.xml
 DOCS/xml/zh_CN/main.xml
 DOCS/xml/zh_CN/ports.xml
