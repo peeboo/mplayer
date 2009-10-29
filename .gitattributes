@@ -653,6 +653,8 @@ libmpcodecs/ae_twolame.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/cmmx.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_audio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_audio.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/dec_teletext.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/dec_teletext.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_video.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/dec_video.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/img_format.c svn_keywords=Author+Date+Id+Revision
@@ -1279,7 +1281,6 @@ stream/tvi_dshow.h svn_keywords=Author+Date+Id+Revision
 stream/tvi_dummy.c svn_keywords=Author+Date+Id+Revision
 stream/tvi_v4l.c svn_keywords=Author+Date+Id+Revision
 stream/tvi_v4l2.c svn_keywords=Author+Date+Id+Revision
-stream/tvi_vbi.c svn_keywords=Author+Date+Id+Revision
 stream/udp.c -text
 stream/udp.h -text
 stream/url.c svn_keywords=Author+Date+Id+Revision
