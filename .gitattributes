@@ -1363,7 +1363,7 @@ vidix/mga_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/mtrr.c svn_keywords=Author+Date+Id+Revision
 vidix/nvidia_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/pci.c svn_keywords=Author+Date+Id+Revision
-vidix/pci.db svn_keywords=Author+Date+Id+Revision
+vidix/pci.db svn_keywords=Author+Date+Id+Revision eol=lf
 vidix/pci_db2c.awk svn_keywords=Author+Date+Id+Revision
 vidix/pm2_vid.c -text
 vidix/pm3_regs.h svn_keywords=Author+Date+Id+Revision
