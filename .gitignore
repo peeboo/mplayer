@@ -156,5 +156,7 @@ vidix/*.d
 vidix/*.ho
 vidix/dhahelper/test
 vidix/dhahelperwin/dhahelper.sys
-vidix/pci_*.c
-vidix/pci_*.h
+vidix/pci_dev_ids.c
+vidix/pci_ids.h
+vidix/pci_names.c
+vidix/pci_vendors.h
