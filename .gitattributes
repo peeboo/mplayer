@@ -920,6 +920,8 @@ libvo/aclib_template.c svn_keywords=Author+Date+Id+Revision
 libvo/aspect.c svn_keywords=Author+Date+Id+Revision
 libvo/aspect.h svn_keywords=Author+Date+Id+Revision
 libvo/aspecttest.c svn_keywords=Author+Date+Id+Revision
+libvo/csputils.c -text
+libvo/csputils.h -text
 libvo/fastmemcpy.h svn_keywords=Author+Date+Id+Revision
 libvo/font_load.c svn_keywords=Author+Date+Id+Revision
 libvo/font_load.h svn_keywords=Author+Date+Id+Revision
