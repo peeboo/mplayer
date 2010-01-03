@@ -934,6 +934,9 @@ libvo/gtf.c svn_keywords=Author+Date+Id+Revision
 libvo/gtf.h svn_keywords=Author+Date+Id+Revision
 libvo/jpeg_enc.c svn_keywords=Author+Date+Id+Revision
 libvo/jpeg_enc.h svn_keywords=Author+Date+Id+Revision
+libvo/matrixview.c -text
+libvo/matrixview.h -text
+libvo/matrixview_font.h -text
 libvo/mga_common.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.h svn_keywords=Author+Date+Id+Revision
@@ -974,6 +977,7 @@ libvo/vo_gl2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_ivtv.c -text
 libvo/vo_jpeg.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_kva.c -text
+libvo/vo_matrixview.c -text
 libvo/vo_md5sum.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mga.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mpegpes.c svn_keywords=Author+Date+Id+Revision
