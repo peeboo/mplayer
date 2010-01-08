@@ -560,6 +560,9 @@ libass/ass_bitmap.c -text
 libass/ass_bitmap.h -text
 libass/ass_cache.c -text
 libass/ass_cache.h -text
+libass/ass_cache_template.h -text
+libass/ass_drawing.c -text
+libass/ass_drawing.h -text
 libass/ass_font.c -text
 libass/ass_font.h -text
 libass/ass_fontconfig.c -text
@@ -568,7 +571,11 @@ libass/ass_library.c -text
 libass/ass_library.h -text
 libass/ass_mp.c -text
 libass/ass_mp.h -text
+libass/ass_parse.c -text
+libass/ass_parse.h -text
 libass/ass_render.c -text
+libass/ass_render.h -text
+libass/ass_strtod.c -text
 libass/ass_types.h -text
 libass/ass_utils.c -text
 libass/ass_utils.h -text
