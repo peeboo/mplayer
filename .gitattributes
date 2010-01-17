@@ -1181,6 +1181,7 @@ osdep/setenv.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.h svn_keywords=Author+Date+Id+Revision
 osdep/strsep.c svn_keywords=Author+Date+Id+Revision
+osdep/strsep.h -text
 osdep/swab.c svn_keywords=Author+Date+Id+Revision
 osdep/timer-darwin.c svn_keywords=Author+Date+Id+Revision
 osdep/timer-linux.c svn_keywords=Author+Date+Id+Revision
