@@ -132,6 +132,7 @@ loader/dshow/*.d
 loader/dshow/*.ho
 loader/qtx/list
 loader/qtx/qtxload
+loader/wine/*.ho
 /mencoder
 mp3lib/*.d
 mp3lib/*.ho
