@@ -818,6 +818,7 @@ libmpdemux/demux_mf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mkv.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mng.c -text
 libmpdemux/demux_mov.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_mov.h -text
 libmpdemux/demux_mpc.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_mpg.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_nemesi.c -text
