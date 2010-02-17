@@ -795,6 +795,7 @@ libmpcodecs/vf_zrmjpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vfcap.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vqf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/aac_hdr.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/aac_hdr.h -text
 libmpdemux/asf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/asfguid.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/asfheader.c svn_keywords=Author+Date+Id+Revision
