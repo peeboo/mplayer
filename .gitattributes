@@ -799,6 +799,7 @@ libmpdemux/aac_hdr.h -text
 libmpdemux/asf.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/asfguid.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/asfheader.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/asfheader.h -text
 libmpdemux/aviheader.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/aviheader.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/aviprint.c svn_keywords=Author+Date+Id+Revision
