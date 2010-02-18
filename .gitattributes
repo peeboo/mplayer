@@ -803,6 +803,7 @@ libmpdemux/asfheader.h -text
 libmpdemux/aviheader.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/aviheader.h svn_keywords=Author+Date+Id+Revision
 libmpdemux/aviprint.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/aviprint.h -text
 libmpdemux/demux_aac.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_audio.c svn_keywords=Author+Date+Id+Revision
