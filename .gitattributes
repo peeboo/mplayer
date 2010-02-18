@@ -1025,6 +1025,7 @@ libvo/vo_xvmc.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_xvr100.c -text
 libvo/vo_yuv4mpeg.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_zr.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_zr.h -text
 libvo/vo_zr2.c svn_keywords=Author+Date+Id+Revision
 libvo/vosub_vidix.c svn_keywords=Author+Date+Id+Revision
 libvo/vosub_vidix.h svn_keywords=Author+Date+Id+Revision
