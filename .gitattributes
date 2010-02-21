@@ -1219,6 +1219,7 @@ stream/ai_alsa.c svn_keywords=Author+Date+Id+Revision
 stream/ai_alsa1x.c svn_keywords=Author+Date+Id+Revision
 stream/ai_oss.c svn_keywords=Author+Date+Id+Revision
 stream/asf_mmst_streaming.c svn_keywords=Author+Date+Id+Revision
+stream/asf_mmst_streaming.h -text
 stream/asf_streaming.c svn_keywords=Author+Date+Id+Revision
 stream/audio_in.c svn_keywords=Author+Date+Id+Revision
 stream/audio_in.h svn_keywords=Author+Date+Id+Revision
