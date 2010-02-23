@@ -1184,6 +1184,7 @@ osdep/glob-win.c svn_keywords=Author+Date+Id+Revision
 osdep/glob.h svn_keywords=Author+Date+Id+Revision
 osdep/keycodes.h svn_keywords=Author+Date+Id+Revision
 osdep/macosx_finder_args.c svn_keywords=Author+Date+Id+Revision
+osdep/macosx_finder_args.h -text
 osdep/mmap-os2.c -text
 osdep/mmap.h -text
 osdep/mmap_anon.c -text
