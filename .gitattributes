@@ -926,6 +926,7 @@ libswscale/rgb2rgb.c svn_keywords=Author+Date+Id+Revision
 libswscale/rgb2rgb.h svn_keywords=Author+Date+Id+Revision
 libswscale/rgb2rgb_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/sparc/yuv2rgb_vis.c -text
+libswscale/swscale-test-all.sh -text
 libswscale/swscale-test.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.c svn_keywords=Author+Date+Id+Revision
 libswscale/swscale.h svn_keywords=Author+Date+Id+Revision
