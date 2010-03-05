@@ -735,6 +735,7 @@ libmpcodecs/vf_expand.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_field.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_fil.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_filmdint.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vf_fixpts.c -text
 libmpcodecs/vf_flip.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_format.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vf_framestep.c svn_keywords=Author+Date+Id+Revision
