@@ -1060,6 +1060,8 @@ loader/dshow/allocator.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/allocator.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/cmediasample.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/cmediasample.h svn_keywords=Author+Date+Id+Revision
+loader/dshow/graph.c -text
+loader/dshow/graph.h -text
 loader/dshow/guids.c svn_keywords=Author+Date+Id+Revision
 loader/dshow/guids.h svn_keywords=Author+Date+Id+Revision
 loader/dshow/inputpin.c svn_keywords=Author+Date+Id+Revision
