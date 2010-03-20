@@ -307,8 +307,6 @@ etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
 /find_sub.c svn_keywords=Author+Date+Id+Revision
 /fmt-conversion.c -text
 /fmt-conversion.h -text
-/get_path.c svn_keywords=Author+Date+Id+Revision
-/get_path.h -text
 gui/app.c svn_keywords=Author+Date+Id+Revision
 gui/app.h svn_keywords=Author+Date+Id+Revision
 gui/bitmap.c svn_keywords=Author+Date+Id+Revision
@@ -1211,6 +1209,8 @@ osdep/vsscanf.c svn_keywords=Author+Date+Id+Revision
 /parser-mecmd.h svn_keywords=Author+Date+Id+Revision
 /parser-mpcmd.c svn_keywords=Author+Date+Id+Revision
 /parser-mpcmd.h -text
+/path.c svn_keywords=Author+Date+Id+Revision
+/path.h -text
 /playtree.c svn_keywords=Author+Date+Id+Revision
 /playtree.h svn_keywords=Author+Date+Id+Revision
 /playtreeparser.c svn_keywords=Author+Date+Id+Revision
