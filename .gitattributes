@@ -962,6 +962,8 @@ libvo/osd_font.h svn_keywords=Author+Date+Id+Revision
 libvo/osd_template.c svn_keywords=Author+Date+Id+Revision
 libvo/osx_common.c -text
 libvo/osx_common.h -text
+libvo/sdl_common.c -text
+libvo/sdl_common.h -text
 libvo/spuenc.c svn_keywords=Author+Date+Id+Revision
 libvo/spuenc.h svn_keywords=Author+Date+Id+Revision
 libvo/sub.c svn_keywords=Author+Date+Id+Revision
