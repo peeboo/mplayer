@@ -335,8 +335,8 @@ Codecs:
   --enable-xmms             enable XMMS input plugin support [disabled]
   --enable-libdca           enable libdca support [autodetect]
   --disable-mp3lib          disable builtin mp3lib [autodetect]
-  --disable-liba52          disable liba52 [autodetect] 
-  --disable-liba52-internal disable builtin liba52 [autodetect] 
+  --disable-liba52          disable liba52 [autodetect]
+  --disable-liba52-internal disable builtin liba52 [autodetect]
   --disable-libmpeg2        disable builtin libmpeg2 [autodetect]
   --disable-musepack        disable musepack support [autodetect]
   --disable-libamr_nb       disable libamr narrowband [autodetect]
@@ -2513,7 +2513,7 @@ if test -z "$YASMFLAGS" ; then
     x86_64 && objformat="macho64" || objformat="macho"
   elif win32 ; then
     objformat="win32"
-  else 
+  else
     objformat="elf"
   fi
   # currently tested for Linux x86, x86_64
