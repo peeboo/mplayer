@@ -944,6 +944,7 @@ libswscale/swscale_template.c svn_keywords=Author+Date+Id+Revision
 libswscale/utils.c svn_keywords=Author+Date+Id+Revision
 libswscale/x86/yuv2rgb_mmx.c -text
 libswscale/x86/yuv2rgb_template.c svn_keywords=Author+Date+Id+Revision
+libswscale/x86/yuv2rgb_template2.c -text
 libswscale/yuv2rgb.c -text
 libvo/aclib.c svn_keywords=Author+Date+Id+Revision
 libvo/aclib_template.c svn_keywords=Author+Date+Id+Revision
