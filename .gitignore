@@ -70,9 +70,6 @@ gui/wm/*.ho
 /help_mp.h
 input/*.d
 input/*.ho
-liba52/*.d
-liba52/*.ho
-liba52/test
 libaf/*.d
 libaf/*.ho
 libao2/*.d
