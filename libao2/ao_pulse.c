@@ -49,9 +49,6 @@ static struct pa_context *context;
 /** Main event loop object */
 static struct pa_threaded_mainloop *mainloop;
 
-/** A temporary variable to store the current volume */
-static pa_cvolume volume;
-
 static int broken_pause;
 
 LIBAO_EXTERN(pulse)
@@ -102,7 +99,10 @@ static void success_cb(pa_stream *s, int success, void *userdata) {
  */
 static int waitop(pa_operation *op) {
     pa_operation_state_t state;
-    if (!op) return 0;
+    if (!op) {
+        pa_threaded_mainloop_unlock(mainloop);
+        return 0;
+    }
     state = pa_operation_get_state(op);
     while (state == PA_OPERATION_RUNNING) {
         pa_threaded_mainloop_wait(mainloop);
@@ -140,7 +140,8 @@ static int init(int rate_hz, int channels, int format, int flags) {
     char *devarg = NULL;
     char *host = NULL;
     char *sink = NULL;
-    char *version = pa_get_library_version();
+    const char *version = pa_get_library_version();
+    struct pa_cvolume volume;
 
     if (ao_subdevice) {
         devarg = strdup(ao_subdevice);
@@ -150,11 +151,11 @@ static int init(int rate_hz, int channels, int format, int flags) {
     }
 
     broken_pause = 0;
-    // not sure which versions are affected, assume 0.9.1*
+    // not sure which versions are affected, assume 0.9.11* to 0.9.14*
     // known bad: 0.9.14, 0.9.13
-    // known good: 0.9.9, 0.9.10
+    // known good: 0.9.9, 0.9.10, 0.9.15
     // to test: pause, wait ca. 5 seconds framestep and see if MPlayer hangs somewhen
-    if (strncmp(version, "0.9.1", 5) == 0 && strncmp(version, "0.9.10", 6) != 0) {
+    if (strncmp(version, "0.9.1", 5) == 0 && version[5] >= '1' && version[5] <= '4') {
         mp_msg(MSGT_AO, MSGL_WARN, "[pulse] working around probably broken pause functionality,\n"
                                    "        see http://www.pulseaudio.org/ticket/440\n");
         broken_pause = 1;
@@ -345,13 +346,14 @@ static float get_delay(void) {
  * pa_context_get_sink_input_info() operation completes. Saves the
  * volume field of the specified structure to the global variable volume. */
 static void info_func(struct pa_context *c, const struct pa_sink_input_info *i, int is_last, void *userdata) {
+    struct pa_cvolume *volume = userdata;
     if (is_last < 0) {
         GENERIC_ERR_MSG(context, "Failed to get sink input info");
         return;
     }
     if (!i)
         return;
-    volume = i->volume;
+    *volume = i->volume;
     pa_threaded_mainloop_signal(mainloop, 0);
 }
 
@@ -360,8 +362,9 @@ static int control(int cmd, void *arg) {
         case AOCONTROL_GET_VOLUME: {
             ao_control_vol_t *vol = arg;
             uint32_t devidx = pa_stream_get_index(stream);
+            struct pa_cvolume volume;
             pa_threaded_mainloop_lock(mainloop);
-            if (!waitop(pa_context_get_sink_input_info(context, devidx, info_func, NULL))) {
+            if (!waitop(pa_context_get_sink_input_info(context, devidx, info_func, &volume))) {
                 GENERIC_ERR_MSG(context, "pa_stream_get_sink_input_info() failed");
                 return CONTROL_ERROR;
             }
@@ -379,7 +382,9 @@ static int control(int cmd, void *arg) {
         case AOCONTROL_SET_VOLUME: {
             const ao_control_vol_t *vol = arg;
             pa_operation *o;
+            struct pa_cvolume volume;
 
+            pa_cvolume_reset(&volume, ao_data.channels);
             if (volume.channels != 2)
                 pa_cvolume_set(&volume, volume.channels, (pa_volume_t)vol->left*PA_VOLUME_NORM/100);
             else {
@@ -387,12 +392,16 @@ static int control(int cmd, void *arg) {
                 volume.values[1] = (pa_volume_t)vol->right*PA_VOLUME_NORM/100;
             }
 
-            if (!(o = pa_context_set_sink_input_volume(context, pa_stream_get_index(stream), &volume, NULL, NULL))) {
+            pa_threaded_mainloop_lock(mainloop);
+            o = pa_context_set_sink_input_volume(context, pa_stream_get_index(stream), &volume, NULL, NULL);
+            if (!o) {
+                pa_threaded_mainloop_unlock(mainloop);
                 GENERIC_ERR_MSG(context, "pa_context_set_sink_input_volume() failed");
                 return CONTROL_ERROR;
             }
             /* We don't wait for completion here */
             pa_operation_unref(o);
+            pa_threaded_mainloop_unlock(mainloop);
             return CONTROL_OK;
         }
 
