@@ -44,8 +44,8 @@ TOOLS/vivodump
 /codecs.conf.h
 /codecs2html
 /config.h
+/config.log
 /config.mak
-/configure.log
 /cpuinfo
 debian/files
 debian/mplayer
