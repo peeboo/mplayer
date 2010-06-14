@@ -20,6 +20,7 @@ DOCS/xml/xmllint.sh
 DOCS/xml/xsltproc.sh
 DOCS/xml/zh_CN/main.xml
 /TAGS
+TOOLS/*.d
 TOOLS/*.exe
 TOOLS/alaw-gen
 TOOLS/alaw.dat
