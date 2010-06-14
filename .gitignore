@@ -116,6 +116,7 @@ loader/dmo/*.d
 loader/dmo/*.ho
 loader/dshow/*.d
 loader/dshow/*.ho
+loader/qtx/*.d
 loader/qtx/list
 loader/qtx/qtxload
 loader/wine/*.ho
