@@ -971,6 +971,7 @@ libvo/vo_gif89a.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gl.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gl2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_ivtv.c -text
+libvo/vo_ivtv.h -text
 libvo/vo_jpeg.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_kva.c -text
 libvo/vo_matrixview.c -text
