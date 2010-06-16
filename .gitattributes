@@ -931,7 +931,7 @@ libvo/jpeg_enc.h svn_keywords=Author+Date+Id+Revision
 libvo/matrixview.c -text
 libvo/matrixview.h -text
 libvo/matrixview_font.h -text
-libvo/mga_common.c svn_keywords=Author+Date+Id+Revision
+libvo/mga_template.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.c svn_keywords=Author+Date+Id+Revision
 libvo/osd.h svn_keywords=Author+Date+Id+Revision
 libvo/osd_font.h svn_keywords=Author+Date+Id+Revision
