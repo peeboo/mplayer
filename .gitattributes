@@ -965,6 +965,7 @@ libvo/vo_directx.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dxr2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_dxr3.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_fbdev.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_fbdev.h -text
 libvo/vo_fbdev2.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_ggi.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_gif89a.c svn_keywords=Author+Date+Id+Revision
