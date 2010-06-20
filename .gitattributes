@@ -780,6 +780,7 @@ libmpdemux/aviprint.h -text
 libmpdemux/demux_aac.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_asf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_audio.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_audio.h -text
 libmpdemux/demux_avi.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_avs.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_avs.h svn_keywords=Author+Date+Id+Revision
