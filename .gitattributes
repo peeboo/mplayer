@@ -820,6 +820,7 @@ libmpdemux/demux_ty.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_ty_osd.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_ty_osd.h -text
 libmpdemux/demux_viv.c svn_keywords=Author+Date+Id+Revision
+libmpdemux/demux_viv.h -text
 libmpdemux/demux_vqf.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_xmms.c svn_keywords=Author+Date+Id+Revision
 libmpdemux/demux_xmms_plugin.h svn_keywords=Author+Date+Id+Revision
