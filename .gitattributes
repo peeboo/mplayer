@@ -677,6 +677,7 @@ libmpcodecs/vd_xanim.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_xvid4.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_zrmjpeg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ve.h -text
 libmpcodecs/ve_lavc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_libdv.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ve_nuv.c svn_keywords=Author+Date+Id+Revision
