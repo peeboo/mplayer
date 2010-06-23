@@ -16,7 +16,7 @@ DOCS/xml/hu/main.xml
 DOCS/xml/it/main.xml
 DOCS/xml/pl/main.xml
 DOCS/xml/ru/main.xml
-DOCS/xml/xmllint.sh
+DOCS/xml/xml.mak
 DOCS/xml/xsltproc.sh
 DOCS/xml/zh_CN/main.xml
 /TAGS
