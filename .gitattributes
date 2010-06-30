@@ -607,6 +607,7 @@ libmpcodecs/ad_libvorbis.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_mp3lib.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_mp3lib.h -text
 libmpcodecs/ad_mpc.c svn_keywords=Author+Date+Id+Revision
+libmpcodecs/ad_mpg123.c -text
 libmpcodecs/ad_msadpcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_msgsm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_pcm.c svn_keywords=Author+Date+Id+Revision
