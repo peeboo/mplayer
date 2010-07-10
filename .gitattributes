@@ -609,7 +609,6 @@ libmpcodecs/ad_mp3lib.h -text
 libmpcodecs/ad_mpc.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_mpg123.c -text
 libmpcodecs/ad_msadpcm.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/ad_msgsm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_pcm.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_qtaudio.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/ad_realaud.c svn_keywords=Author+Date+Id+Revision
@@ -646,9 +645,6 @@ libmpcodecs/native/alaw.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/mmx.h -text
 libmpcodecs/native/rtjpegn.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/native/rtjpegn.h svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/xa_gsm.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/xa_gsm.h svn_keywords=Author+Date+Id+Revision
-libmpcodecs/native/xa_gsm_int.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/pullup.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/pullup.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.c svn_keywords=Author+Date+Id+Revision
