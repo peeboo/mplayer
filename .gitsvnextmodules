@@ -6,6 +6,14 @@
 	fetch = :refs/remotes/git-svn
 	remote = svn
 	type = dir
+[submodule "libavcore"]
+	path = libavcore
+	owner = /
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavcore
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
 [submodule "libavformat"]
 	path = libavformat
 	owner = /
