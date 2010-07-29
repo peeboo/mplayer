@@ -26,6 +26,7 @@
 	path = libdvdnav
 	owner = /
 	url = svn://svn.mplayerhq.hu/dvdnav/trunk/libdvdnav/src
+	revision = 1198
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -34,6 +35,7 @@
 	path = libdvdread4
 	owner = /
 	url = svn://svn.mplayerhq.hu/dvdnav/trunk/libdvdread/src
+	revision = 1204
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
