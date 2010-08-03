@@ -46,6 +46,7 @@ TOOLS/vivodump
 /config.log
 /config.mak
 /cpuinfo
+debian/changelog
 drivers/mga_vid_test
 drivers/tdfx_vid_test
 /gmplayer
