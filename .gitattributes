@@ -568,6 +568,7 @@ libass/ass_parse.c -text
 libass/ass_parse.h -text
 libass/ass_render.c -text
 libass/ass_render.h -text
+libass/ass_render_api.c -text
 libass/ass_strtod.c -text
 libass/ass_types.h -text
 libass/ass_utils.c -text
