@@ -1277,6 +1277,7 @@ stream/rtp.h svn_keywords=Author+Date+Id+Revision
 stream/stream.c svn_keywords=Author+Date+Id+Revision
 stream/stream.h svn_keywords=Author+Date+Id+Revision
 stream/stream_bd.c -text
+stream/stream_bd.h -text
 stream/stream_bluray.c -text
 stream/stream_cdda.c svn_keywords=Author+Date+Id+Revision
 stream/stream_cddb.c svn_keywords=Author+Date+Id+Revision
