@@ -194,6 +194,7 @@ DOCS/xml/zh_CN/ports.xml -text
 DOCS/xml/zh_CN/radio.xml -text
 DOCS/xml/zh_CN/skin.xml -text
 DOCS/xml/zh_CN/tvinput.xml -text
+DOCS/xml/zh_CN/usage.xml -text
 DOCS/xml/zh_CN/video.xml -text
 /LICENSE svn_keywords=Author+Date+Id+Revision
 /Makefile svn_keywords=Author+Date+Id+Revision
