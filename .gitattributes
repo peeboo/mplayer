@@ -60,7 +60,6 @@ DOCS/xml/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/README svn_keywords=Author+Date+Id+Revision
 DOCS/xml/configure svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -73,7 +72,6 @@ DOCS/xml/cs/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/de/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/encoding-guide.xml -text
 DOCS/xml/de/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -99,7 +97,6 @@ DOCS/xml/en/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/es/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/encoding-guide.xml -text
 DOCS/xml/es/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -112,7 +109,6 @@ DOCS/xml/es/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/fr/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -126,7 +122,6 @@ DOCS/xml/fr/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -139,7 +134,6 @@ DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/it/bugreports.xml -text
-DOCS/xml/it/cd-dvd.xml -text
 DOCS/xml/it/documentation.xml -text
 DOCS/xml/it/encoding-guide.xml -text
 DOCS/xml/it/faq.xml -text
@@ -153,7 +147,6 @@ DOCS/xml/it/usage.xml -text
 DOCS/xml/it/video.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/encoding-guide.xml -text
 DOCS/xml/pl/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -166,7 +159,6 @@ DOCS/xml/pl/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/bugreports.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/ru/cd-dvd.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/faq.xml svn_keywords=Author+Date+Id+Revision
@@ -183,7 +175,6 @@ DOCS/xml/xsl/ldp-html-common.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-print.xsl svn_keywords=Author+Date+Id+Revision
 DOCS/xml/zh_CN/bugreports.xml -text
-DOCS/xml/zh_CN/cd-dvd.xml -text
 DOCS/xml/zh_CN/documentation.xml -text
 DOCS/xml/zh_CN/encoding-guide.xml -text
 DOCS/xml/zh_CN/faq.xml -text
