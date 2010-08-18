@@ -68,7 +68,6 @@ DOCS/xml/cs/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/radio.xml -text
 DOCS/xml/cs/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/cs/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/bugreports.xml svn_keywords=Author+Date+Id+Revision
@@ -80,7 +79,6 @@ DOCS/xml/de/mencoder.xml -text
 DOCS/xml/de/ports.xml -text
 DOCS/xml/de/radio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/skin.xml -text
-DOCS/xml/de/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/de/video.xml -text
 DOCS/xml/default.css svn_keywords=Author+Date+Id+Revision
@@ -93,7 +91,6 @@ DOCS/xml/en/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/radio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/en/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/en/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/bugreports.xml svn_keywords=Author+Date+Id+Revision
@@ -105,7 +102,6 @@ DOCS/xml/es/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/radio.xml -text
 DOCS/xml/es/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/es/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/es/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/bugreports.xml svn_keywords=Author+Date+Id+Revision
@@ -117,7 +113,6 @@ DOCS/xml/fr/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/radio.xml -text
 DOCS/xml/fr/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/fr/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/fr/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/html-common.xsl svn_keywords=Author+Date+Id+Revision
@@ -130,7 +125,6 @@ DOCS/xml/hu/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/radio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/hu/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/hu/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/it/bugreports.xml -text
@@ -142,7 +136,6 @@ DOCS/xml/it/mencoder.xml -text
 DOCS/xml/it/ports.xml -text
 DOCS/xml/it/radio.xml -text
 DOCS/xml/it/skin.xml -text
-DOCS/xml/it/tvinput.xml -text
 DOCS/xml/it/usage.xml -text
 DOCS/xml/it/video.xml -text
 DOCS/xml/ldp.dsl svn_keywords=Author+Date+Id+Revision
@@ -155,7 +148,6 @@ DOCS/xml/pl/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/radio.xml -text
 DOCS/xml/pl/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/pl/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/pl/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/bugreports.xml svn_keywords=Author+Date+Id+Revision
@@ -167,7 +159,6 @@ DOCS/xml/ru/mencoder.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/ports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/radio.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/skin.xml svn_keywords=Author+Date+Id+Revision
-DOCS/xml/ru/tvinput.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/usage.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/ru/video.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/xsl/ldp-html-chunk.xsl svn_keywords=Author+Date+Id+Revision
@@ -183,7 +174,6 @@ DOCS/xml/zh_CN/mencoder.xml -text
 DOCS/xml/zh_CN/ports.xml -text
 DOCS/xml/zh_CN/radio.xml -text
 DOCS/xml/zh_CN/skin.xml -text
-DOCS/xml/zh_CN/tvinput.xml -text
 DOCS/xml/zh_CN/usage.xml -text
 DOCS/xml/zh_CN/video.xml -text
 /LICENSE svn_keywords=Author+Date+Id+Revision
