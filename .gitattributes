@@ -282,6 +282,8 @@ drivers/tdfx_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid_test.c svn_keywords=Author+Date+Id+Revision
 /edl.c svn_keywords=Author+Date+Id+Revision
 /edl.h svn_keywords=Author+Date+Id+Revision
+/eosd.c -text
+/eosd.h -text
 etc/codecs.conf svn_keywords=Author+Date+Id+Revision
 etc/dvb-menu.conf svn_keywords=Author+Date+Id+Revision
 etc/example.conf svn_keywords=Author+Date+Id+Revision
