@@ -1343,6 +1343,8 @@ tremor/tremor.diff svn_keywords=Author+Date+Id+Revision
 tremor/window.c svn_keywords=Author+Date+Id+Revision
 tremor/window.h svn_keywords=Author+Date+Id+Revision
 tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
+/udp_sync.c -text
+/udp_sync.h -text
 /unrar_exec.c -text
 /unrar_exec.h -text
 /version.sh svn_keywords=Author+Date+Id+Revision
