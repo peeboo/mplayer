@@ -279,6 +279,7 @@ drivers/mga_vid_test.c svn_keywords=Author+Date+Id+Revision
 drivers/radeon.h svn_keywords=Author+Date+Id+Revision
 drivers/radeon_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/radeon_vid.h svn_keywords=Author+Date+Id+Revision
+drivers/rage128_vid.c -text
 drivers/tdfx_vid.c svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid.h svn_keywords=Author+Date+Id+Revision
 drivers/tdfx_vid_test.c svn_keywords=Author+Date+Id+Revision
