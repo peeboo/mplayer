@@ -140,6 +140,7 @@ vidix/*.d
 vidix/*.ho
 vidix/dhahelper/*.d
 vidix/dhahelper/test
+vidix/dhahelperwin/*.d
 vidix/dhahelperwin/dhahelper.sys
 vidix/pci_dev_ids.c
 vidix/pci_ids.h
