@@ -43,6 +43,7 @@ TOOLS/vivodump
 /codec-cfg-test
 /codecs.conf.h
 /codecs2html
+/config.asm
 /config.h
 /config.log
 /config.mak
