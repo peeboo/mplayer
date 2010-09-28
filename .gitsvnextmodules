@@ -1,31 +1,7 @@
-[submodule "libavcodec"]
-	path = libavcodec
+[submodule "ffmpeg"]
+	path = ffmpeg
 	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavcodec
-	branch = /
-	fetch = :refs/remotes/git-svn
-	remote = svn
-	type = dir
-[submodule "libavcore"]
-	path = libavcore
-	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavcore
-	branch = /
-	fetch = :refs/remotes/git-svn
-	remote = svn
-	type = dir
-[submodule "libavformat"]
-	path = libavformat
-	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavformat
-	branch = /
-	fetch = :refs/remotes/git-svn
-	remote = svn
-	type = dir
-[submodule "libavutil"]
-	path = libavutil
-	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libavutil
+	url = svn://svn.ffmpeg.org/ffmpeg/trunk
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn
@@ -42,14 +18,6 @@
 	path = libdvdread4
 	owner = /
 	url = svn://svn.mplayerhq.hu/dvdnav/trunk/libdvdread/src
-	branch = /
-	fetch = :refs/remotes/git-svn
-	remote = svn
-	type = dir
-[submodule "libpostproc"]
-	path = libpostproc
-	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk/libpostproc
 	branch = /
 	fetch = :refs/remotes/git-svn
 	remote = svn

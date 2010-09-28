@@ -235,7 +235,6 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /codec-cfg.h svn_keywords=Author+Date+Id+Revision
 /command.c svn_keywords=Author+Date+Id+Revision
 /command.h -text
-/common.mak svn_keywords=Author+Date+Id+Revision
 /configure svn_keywords=Author+Date+Id+Revision
 /cpudetect.c svn_keywords=Author+Date+Id+Revision
 /cpudetect.h svn_keywords=Author+Date+Id+Revision
@@ -1307,7 +1306,6 @@ stream/vcd_read_win32.h -text
 /sub_cc.h svn_keywords=Author+Date+Id+Revision
 /subassconvert.c -text
 /subassconvert.h -text
-/subdir.mak -text
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
 /subopt-helper.h svn_keywords=Author+Date+Id+Revision
 /subreader.c svn_keywords=Author+Date+Id+Revision
