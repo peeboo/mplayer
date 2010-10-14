@@ -45,6 +45,7 @@ TOOLS/vivodump
 /codecs2html
 /config.*
 /cpuinfo
+debian/*.debhelper.log
 debian/changelog
 drivers/*.d
 drivers/*.ho
