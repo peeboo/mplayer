@@ -1192,6 +1192,8 @@ osdep/vsscanf.c svn_keywords=Author+Date+Id+Revision
 /playtree.h svn_keywords=Author+Date+Id+Revision
 /playtreeparser.c svn_keywords=Author+Date+Id+Revision
 /playtreeparser.h svn_keywords=Author+Date+Id+Revision
+/pnm_loader.c svn_keywords=Author+Date+Id+Revision
+/pnm_loader.h -text
 rpm/mplayer-codecs.spec -text
 rpm/mplayer.spec -text
 /spudec.c svn_keywords=Author+Date+Id+Revision
