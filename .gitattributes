@@ -1307,14 +1307,14 @@ sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.c svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.h svn_keywords=Author+Date+Id+Revision
+sub/subassconvert.c -text
+sub/subassconvert.h -text
 sub/subreader.c svn_keywords=Author+Date+Id+Revision
 sub/subreader.h svn_keywords=Author+Date+Id+Revision
 sub/unrar_exec.c -text
 sub/unrar_exec.h -text
 sub/vobsub.c svn_keywords=Author+Date+Id+Revision
 sub/vobsub.h svn_keywords=Author+Date+Id+Revision
-/subassconvert.c -text
-/subassconvert.h -text
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
 /subopt-helper.h svn_keywords=Author+Date+Id+Revision
 tremor/COPYING svn_keywords=Author+Date+Id+Revision
