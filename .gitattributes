@@ -921,8 +921,6 @@ libvo/osx_common.c -text
 libvo/osx_common.h -text
 libvo/sdl_common.c -text
 libvo/sdl_common.h -text
-libvo/spuenc.c svn_keywords=Author+Date+Id+Revision
-libvo/spuenc.h svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.c svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
@@ -1303,6 +1301,8 @@ sub/osd_font.h svn_keywords=Author+Date+Id+Revision
 sub/osd_template.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
+sub/spuenc.c svn_keywords=Author+Date+Id+Revision
+sub/spuenc.h svn_keywords=Author+Date+Id+Revision
 sub/sub.c svn_keywords=Author+Date+Id+Revision
 sub/sub.h svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.c svn_keywords=Author+Date+Id+Revision
