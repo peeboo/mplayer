@@ -1305,10 +1305,10 @@ sub/av_sub.h -text
 sub/find_sub.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
+sub/sub_cc.c svn_keywords=Author+Date+Id+Revision
+sub/sub_cc.h svn_keywords=Author+Date+Id+Revision
 sub/subreader.c svn_keywords=Author+Date+Id+Revision
 sub/subreader.h svn_keywords=Author+Date+Id+Revision
-/sub_cc.c svn_keywords=Author+Date+Id+Revision
-/sub_cc.h svn_keywords=Author+Date+Id+Revision
 /subassconvert.c -text
 /subassconvert.h -text
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
