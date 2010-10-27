@@ -132,6 +132,8 @@ stream/librtsp/*.d
 stream/librtsp/*.ho
 stream/realrtsp/*.d
 stream/realrtsp/*.ho
+sub/*.d
+sub/*.ho
 /tags
 tremor/*.d
 tremor/*.ho
