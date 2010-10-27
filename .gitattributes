@@ -926,8 +926,6 @@ libvo/sdl_common.c -text
 libvo/sdl_common.h -text
 libvo/spuenc.c svn_keywords=Author+Date+Id+Revision
 libvo/spuenc.h svn_keywords=Author+Date+Id+Revision
-libvo/sub.c svn_keywords=Author+Date+Id+Revision
-libvo/sub.h svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.c svn_keywords=Author+Date+Id+Revision
 libvo/vesa_lvo.h svn_keywords=Author+Date+Id+Revision
 libvo/video_out.c svn_keywords=Author+Date+Id+Revision
@@ -1305,6 +1303,8 @@ sub/font_load_ft.c svn_keywords=Author+Date+Id+Revision
 sub/osd_font.h svn_keywords=Author+Date+Id+Revision
 sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
+sub/sub.c svn_keywords=Author+Date+Id+Revision
+sub/sub.h svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.c svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.h svn_keywords=Author+Date+Id+Revision
 sub/subassconvert.c -text
