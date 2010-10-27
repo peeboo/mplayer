@@ -1196,8 +1196,6 @@ osdep/vsscanf.c svn_keywords=Author+Date+Id+Revision
 /pnm_loader.h -text
 rpm/mplayer-codecs.spec -text
 rpm/mplayer.spec -text
-/spudec.c svn_keywords=Author+Date+Id+Revision
-/spudec.h svn_keywords=Author+Date+Id+Revision
 stream/ai_alsa.c svn_keywords=Author+Date+Id+Revision
 stream/ai_alsa1x.c svn_keywords=Author+Date+Id+Revision
 stream/ai_oss.c svn_keywords=Author+Date+Id+Revision
@@ -1305,6 +1303,8 @@ stream/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_os2.h -text
 stream/vcd_read_win32.h -text
 sub/find_sub.c svn_keywords=Author+Date+Id+Revision
+sub/spudec.c svn_keywords=Author+Date+Id+Revision
+sub/spudec.h svn_keywords=Author+Date+Id+Revision
 sub/subreader.c svn_keywords=Author+Date+Id+Revision
 sub/subreader.h svn_keywords=Author+Date+Id+Revision
 /sub_cc.c svn_keywords=Author+Date+Id+Revision
