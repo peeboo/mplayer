@@ -1305,14 +1305,14 @@ stream/vcd_read_darwin.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_os2.h -text
 stream/vcd_read_win32.h -text
+sub/subreader.c svn_keywords=Author+Date+Id+Revision
+sub/subreader.h svn_keywords=Author+Date+Id+Revision
 /sub_cc.c svn_keywords=Author+Date+Id+Revision
 /sub_cc.h svn_keywords=Author+Date+Id+Revision
 /subassconvert.c -text
 /subassconvert.h -text
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
 /subopt-helper.h svn_keywords=Author+Date+Id+Revision
-/subreader.c svn_keywords=Author+Date+Id+Revision
-/subreader.h svn_keywords=Author+Date+Id+Revision
 tremor/COPYING svn_keywords=Author+Date+Id+Revision
 tremor/FILES svn_keywords=Author+Date+Id+Revision
 tremor/asm_arm.h svn_keywords=Author+Date+Id+Revision
