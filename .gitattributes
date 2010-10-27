@@ -217,8 +217,6 @@ TOOLS/vobshift.py svn_keywords=Author+Date+Id+Revision
 TOOLS/w32codec_dl.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /access_mpcontext.h -text
-/ass_mp.c -text
-/ass_mp.h -text
 /asxparser.c svn_keywords=Author+Date+Id+Revision
 /asxparser.h svn_keywords=Author+Date+Id+Revision
 /av_opts.c -text
@@ -1298,6 +1296,8 @@ stream/vcd_read_darwin.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_os2.h -text
 stream/vcd_read_win32.h -text
+sub/ass_mp.c -text
+sub/ass_mp.h -text
 sub/av_sub.c -text
 sub/av_sub.h -text
 sub/eosd.c -text
