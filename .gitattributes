@@ -223,8 +223,6 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /asxparser.h svn_keywords=Author+Date+Id+Revision
 /av_opts.c -text
 /av_opts.h -text
-/av_sub.c -text
-/av_sub.h -text
 /bstr.c -text
 /bstr.h -text
 /cfg-common.h svn_keywords=Author+Date+Id+Revision
@@ -1302,6 +1300,8 @@ stream/vcd_read_darwin.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_fbsd.h svn_keywords=Author+Date+Id+Revision
 stream/vcd_read_os2.h -text
 stream/vcd_read_win32.h -text
+sub/av_sub.c -text
+sub/av_sub.h -text
 sub/find_sub.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
