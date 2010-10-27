@@ -917,9 +917,6 @@ libvo/matrixview.c -text
 libvo/matrixview.h -text
 libvo/matrixview_font.h -text
 libvo/mga_template.c svn_keywords=Author+Date+Id+Revision
-libvo/osd.c svn_keywords=Author+Date+Id+Revision
-libvo/osd.h svn_keywords=Author+Date+Id+Revision
-libvo/osd_template.c svn_keywords=Author+Date+Id+Revision
 libvo/osx_common.c -text
 libvo/osx_common.h -text
 libvo/sdl_common.c -text
@@ -1300,7 +1297,10 @@ sub/find_sub.c svn_keywords=Author+Date+Id+Revision
 sub/font_load.c svn_keywords=Author+Date+Id+Revision
 sub/font_load.h svn_keywords=Author+Date+Id+Revision
 sub/font_load_ft.c svn_keywords=Author+Date+Id+Revision
+sub/osd.c svn_keywords=Author+Date+Id+Revision
+sub/osd.h svn_keywords=Author+Date+Id+Revision
 sub/osd_font.h svn_keywords=Author+Date+Id+Revision
+sub/osd_template.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.c svn_keywords=Author+Date+Id+Revision
 sub/spudec.h svn_keywords=Author+Date+Id+Revision
 sub/sub.c svn_keywords=Author+Date+Id+Revision
