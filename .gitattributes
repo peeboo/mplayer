@@ -1309,6 +1309,10 @@ sub/sub_cc.c svn_keywords=Author+Date+Id+Revision
 sub/sub_cc.h svn_keywords=Author+Date+Id+Revision
 sub/subreader.c svn_keywords=Author+Date+Id+Revision
 sub/subreader.h svn_keywords=Author+Date+Id+Revision
+sub/unrar_exec.c -text
+sub/unrar_exec.h -text
+sub/vobsub.c svn_keywords=Author+Date+Id+Revision
+sub/vobsub.h svn_keywords=Author+Date+Id+Revision
 /subassconvert.c -text
 /subassconvert.h -text
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
@@ -1348,8 +1352,6 @@ tremor/window.h svn_keywords=Author+Date+Id+Revision
 tremor/window_lookup.h svn_keywords=Author+Date+Id+Revision
 /udp_sync.c -text
 /udp_sync.h -text
-/unrar_exec.c -text
-/unrar_exec.h -text
 /version.sh svn_keywords=Author+Date+Id+Revision
 vidix/AsmMacros.h svn_keywords=Author+Date+Id+Revision
 vidix/README svn_keywords=Author+Date+Id+Revision
@@ -1429,7 +1431,5 @@ vidix/unichrome_regs.h svn_keywords=Author+Date+Id+Revision
 vidix/unichrome_vid.c svn_keywords=Author+Date+Id+Revision
 vidix/vidix.c svn_keywords=Author+Date+Id+Revision
 vidix/vidix.h svn_keywords=Author+Date+Id+Revision
-/vobsub.c svn_keywords=Author+Date+Id+Revision
-/vobsub.h svn_keywords=Author+Date+Id+Revision
 /xvid_vbr.c svn_keywords=Author+Date+Id+Revision
 /xvid_vbr.h svn_keywords=Author+Date+Id+Revision
