@@ -75,8 +75,6 @@ libass/*.d
 libass/*.ho
 libdvdcss/*.d
 libdvdcss/*.ho
-libfaad2/*.d
-libfaad2/*.ho
 libmenu/*.d
 libmenu/*.ho
 libmpcodecs/*.d
