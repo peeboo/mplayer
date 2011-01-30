@@ -1,11 +1,3 @@
-[submodule "ffmpeg"]
-	path = ffmpeg
-	owner = /
-	url = svn://svn.ffmpeg.org/ffmpeg/trunk
-	branch = /
-	fetch = :refs/remotes/git-svn
-	remote = svn
-	type = dir
 [submodule "libdvdnav"]
 	path = libdvdnav
 	owner = /
