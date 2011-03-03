@@ -192,6 +192,7 @@ TOOLS/mencvcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/midentify.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/modify_reg.c -text
 TOOLS/movinfo.c svn_keywords=Author+Date+Id+Revision
+TOOLS/mp-uncrustify-style.cfg -text
 TOOLS/mpconsole.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/mphelp_check.py svn_keywords=Author+Date+Id+Revision
 TOOLS/mplmult.sh svn_keywords=Author+Date+Id+Revision
