@@ -389,6 +389,8 @@ gui/util/bitmap.c svn_keywords=Author+Date+Id+Revision
 gui/util/bitmap.h svn_keywords=Author+Date+Id+Revision
 gui/util/cut.c svn_keywords=Author+Date+Id+Revision
 gui/util/cut.h svn_keywords=Author+Date+Id+Revision
+gui/util/string.c -text
+gui/util/string.h -text
 gui/win32/Changelog -text
 gui/win32/README -text
 gui/win32/dialogs.c -text
