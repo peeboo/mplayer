@@ -294,8 +294,6 @@ etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
 /fmt-conversion.h -text
 gui/app.c svn_keywords=Author+Date+Id+Revision
 gui/app.h svn_keywords=Author+Date+Id+Revision
-gui/bitmap.c svn_keywords=Author+Date+Id+Revision
-gui/bitmap.h svn_keywords=Author+Date+Id+Revision
 gui/cfg.c svn_keywords=Author+Date+Id+Revision
 gui/cfg.h svn_keywords=Author+Date+Id+Revision
 gui/interface.c svn_keywords=Author+Date+Id+Revision
@@ -383,12 +381,14 @@ gui/mplayer/play.h svn_keywords=Author+Date+Id+Revision
 gui/mplayer/sw.c svn_keywords=Author+Date+Id+Revision
 gui/mplayer/widgets.c svn_keywords=Author+Date+Id+Revision
 gui/mplayer/widgets.h svn_keywords=Author+Date+Id+Revision
-gui/skin/cut.c svn_keywords=Author+Date+Id+Revision
-gui/skin/cut.h svn_keywords=Author+Date+Id+Revision
 gui/skin/font.c svn_keywords=Author+Date+Id+Revision
 gui/skin/font.h svn_keywords=Author+Date+Id+Revision
 gui/skin/skin.c svn_keywords=Author+Date+Id+Revision
 gui/skin/skin.h svn_keywords=Author+Date+Id+Revision
+gui/util/bitmap.c svn_keywords=Author+Date+Id+Revision
+gui/util/bitmap.h svn_keywords=Author+Date+Id+Revision
+gui/util/cut.c svn_keywords=Author+Date+Id+Revision
+gui/util/cut.h svn_keywords=Author+Date+Id+Revision
 gui/win32/Changelog -text
 gui/win32/README -text
 gui/win32/dialogs.c -text
