@@ -51,6 +51,7 @@ drivers/*.d
 drivers/*.ho
 drivers/mga_vid_test
 drivers/tdfx_vid_test
+/ffmpeg
 /gmplayer
 gui/*.d
 gui/*.ho
