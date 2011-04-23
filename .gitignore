@@ -61,6 +61,8 @@ gui/mplayer/gtk/*.d
 gui/mplayer/gtk/*.ho
 gui/skin/*.d
 gui/skin/*.ho
+gui/util/*.d
+gui/util/*.ho
 gui/win32/*.d
 gui/win32/*.ho
 gui/wm/*.d
