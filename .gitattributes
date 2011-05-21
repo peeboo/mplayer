@@ -931,6 +931,7 @@ libvo/vo_kva.c -text
 libvo/vo_matrixview.c -text
 libvo/vo_md5sum.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_mga.c svn_keywords=Author+Date+Id+Revision
+libvo/vo_mng.c -text
 libvo/vo_mpegpes.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_null.c svn_keywords=Author+Date+Id+Revision
 libvo/vo_png.c svn_keywords=Author+Date+Id+Revision
