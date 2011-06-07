@@ -289,7 +289,7 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/menu.conf svn_keywords=Author+Date+Id+Revision
 etc/mplayer.desktop svn_keywords=Author+Date+Id+Revision
 etc/mplayer.ico -text
-etc/mplayer.xpm svn_keywords=Author+Date+Id+Revision
+etc/mplayer.png -text
 /fmt-conversion.c -text
 /fmt-conversion.h -text
 gui/app.c svn_keywords=Author+Date+Id+Revision
@@ -324,7 +324,6 @@ gui/mplayer/gui_common.h svn_keywords=Author+Date+Id+Revision
 gui/mplayer/menu.c svn_keywords=Author+Date+Id+Revision
 gui/mplayer/mw.c svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pb.c svn_keywords=Author+Date+Id+Revision
-gui/mplayer/pixmaps/MPlayer_mini.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/a11.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/a169.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/a235.xpm svn_keywords=Author+Date+Id+Revision
@@ -348,6 +347,7 @@ gui/mplayer/pixmaps/file2.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/fs.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/half.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/loadeaf.xpm svn_keywords=Author+Date+Id+Revision
+gui/mplayer/pixmaps/mplayer.xpm -text
 gui/mplayer/pixmaps/next.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/normal.xpm svn_keywords=Author+Date+Id+Revision
 gui/mplayer/pixmaps/open.xpm svn_keywords=Author+Date+Id+Revision
