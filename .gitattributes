@@ -1094,6 +1094,7 @@ mp3lib/test2.c svn_keywords=Author+Date+Id+Revision
 /mp_core.h -text
 /mp_fifo.c svn_keywords=Author+Date+Id+Revision
 /mp_fifo.h -text
+/mp_global.h -text
 /mp_msg.c svn_keywords=Author+Date+Id+Revision
 /mp_msg.h svn_keywords=Author+Date+Id+Revision
 /mp_osd.h -text
