@@ -55,12 +55,12 @@ drivers/tdfx_vid_test
 /gmplayer
 gui/*.d
 gui/*.ho
-gui/mplayer/*.d
-gui/mplayer/*.ho
-gui/mplayer/gtk/*.d
-gui/mplayer/gtk/*.ho
 gui/skin/*.d
 gui/skin/*.ho
+gui/ui/*.d
+gui/ui/*.ho
+gui/ui/gtk/*.d
+gui/ui/gtk/*.ho
 gui/util/*.d
 gui/util/*.ho
 gui/win32/*.d
