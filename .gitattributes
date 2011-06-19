@@ -336,6 +336,7 @@ gui/ui/pixmaps/aspect43.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/audiolang.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/chapter.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/dir.xpm svn_keywords=Author+Date+Id+Revision
+gui/ui/pixmaps/dir2.xpm -text
 gui/ui/pixmaps/dolby.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/double.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/dvd.xpm svn_keywords=Author+Date+Id+Revision
@@ -355,6 +356,7 @@ gui/ui/pixmaps/next.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/normal.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/nosub.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/open.xpm svn_keywords=Author+Date+Id+Revision
+gui/ui/pixmaps/open2.xpm -text
 gui/ui/pixmaps/pause.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/play.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/playdvd.xpm svn_keywords=Author+Date+Id+Revision
