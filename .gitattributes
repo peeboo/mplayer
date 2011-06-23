@@ -1380,6 +1380,7 @@ vidix/sysdep/AsmMacros_sparc.h svn_keywords=Author+Date+Id+Revision
 vidix/sysdep/AsmMacros_x86.h svn_keywords=Author+Date+Id+Revision
 vidix/sysdep/libdha_os2.c svn_keywords=Author+Date+Id+Revision
 vidix/sysdep/libdha_win32.c svn_keywords=Author+Date+Id+Revision
+vidix/sysdep/libdha_win32.h -text
 vidix/sysdep/pci_386bsd.c svn_keywords=Author+Date+Id+Revision
 vidix/sysdep/pci_alpha.c svn_keywords=Author+Date+Id+Revision
 vidix/sysdep/pci_arm32.c svn_keywords=Author+Date+Id+Revision
