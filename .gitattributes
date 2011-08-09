@@ -220,6 +220,8 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /access_mpcontext.h -text
 /asxparser.c svn_keywords=Author+Date+Id+Revision
 /asxparser.h svn_keywords=Author+Date+Id+Revision
+/av_helpers.c -text
+/av_helpers.h -text
 /av_opts.c -text
 /av_opts.h -text
 /bstr.c -text
@@ -631,7 +633,6 @@ libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dmo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
-libmpcodecs/vd_ffmpeg.h -text
 libmpcodecs/vd_hmblck.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ijpg.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_internal.h svn_keywords=Author+Date+Id+Revision
