@@ -23,6 +23,7 @@ DOCS/tech/codec-devel.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/codecs-in.html svn_keywords=Author+Date+Id+Revision
 DOCS/tech/codecs.conf.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/colorspaces.txt svn_keywords=Author+Date+Id+Revision
+DOCS/tech/crosscompile.txt -text
 DOCS/tech/dr-methods.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/encoding-guide.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/encoding-tips.txt svn_keywords=Author+Date+Id+Revision
@@ -33,7 +34,6 @@ DOCS/tech/libao2.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libmpcodecs.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/libvo.txt svn_keywords=Author+Date+Id+Revision
 DOCS/tech/manpage.txt svn_keywords=Author+Date+Id+Revision
-DOCS/tech/mingw-crosscompile.txt -text
 DOCS/tech/mirrors/mirror_howto.txt -text
 DOCS/tech/mirrors/update_mplayer_rsync -text svn_keywords=Id
 DOCS/tech/mpdsf.txt svn_keywords=Author+Date+Id+Revision
