@@ -58,7 +58,6 @@ DOCS/tech/win32-codec-howto.txt -text
 DOCS/tech/wishlist svn_keywords=Author+Date+Id+Revision
 DOCS/xml/Makefile svn_keywords=Author+Date+Id+Revision
 DOCS/xml/README svn_keywords=Author+Date+Id+Revision
-DOCS/xml/configure svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/bugreports.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/documentation.xml svn_keywords=Author+Date+Id+Revision
 DOCS/xml/cs/encoding-guide.xml svn_keywords=Author+Date+Id+Revision
