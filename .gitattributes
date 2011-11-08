@@ -1329,6 +1329,7 @@ tests/ref/duck/tm20.avi.md5 -text
 tests/ref/duck/vf2end-partial.avi.md5 -text
 tests/ref/dxa/meetsquid.dxa.md5 -text
 tests/ref/dxa/scummvm.dxa.md5 -text
+tests/ref/ea-cmv/TITLE.CMV.md5 -text
 tests/ref/ea-dct/NFS2Esprit-partial.dct.md5 -text
 tests/ref/ea-mpc/THX_logo.mpc.md5 -text
 tests/ref/ea-tgv/INTEL_S.TGV.md5 -text
