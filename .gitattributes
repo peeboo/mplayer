@@ -488,7 +488,6 @@ libaf/reorder_ch.h -text
 libaf/window.c svn_keywords=Author+Date+Id+Revision
 libaf/window.h svn_keywords=Author+Date+Id+Revision
 libao2/ao_alsa.c svn_keywords=Author+Date+Id+Revision
-libao2/ao_alsa5.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_arts.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_coreaudio.c svn_keywords=Author+Date+Id+Revision
 libao2/ao_dart.c -text
@@ -1155,7 +1154,6 @@ osdep/vsscanf.c svn_keywords=Author+Date+Id+Revision
 rpm/mplayer-codecs.spec -text
 rpm/mplayer.spec -text
 stream/ai_alsa.c svn_keywords=Author+Date+Id+Revision
-stream/ai_alsa1x.c svn_keywords=Author+Date+Id+Revision
 stream/ai_oss.c svn_keywords=Author+Date+Id+Revision
 stream/asf_mmst_streaming.c svn_keywords=Author+Date+Id+Revision
 stream/asf_mmst_streaming.h -text
