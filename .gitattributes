@@ -1388,6 +1388,7 @@ tests/ref/iv8/zzz-partial.mpg.md5 -text
 tests/ref/kega/kgv1.avi.md5 -text
 tests/ref/lcl/mszh-1frame.avi.md5 -text
 tests/ref/lcl/zlib-1frame.avi.md5 -text
+tests/ref/lmlm4/LMLM4_CIFat30fps.divx.md5 -text
 tests/ref/loco/pig-loco-0.avi.md5 -text
 tests/ref/loco/pig-loco-rgb.avi.md5 -text
 tests/ref/mimic/mimic2-womanloveffmpeg.cam.md5 -text
