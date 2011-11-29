@@ -44,8 +44,16 @@ TOOLS/vivodump
 /codecs2html
 /config.*
 /cpuinfo
+debian/*.debhelper
 debian/*.debhelper.log
+debian/*.substvars
 debian/changelog
+debian/files
+debian/mencoder
+debian/mplayer
+debian/mplayer-dbg
+debian/mplayer-doc
+debian/mplayer-gui
 drivers/*.d
 drivers/*.ho
 drivers/mga_vid_test
