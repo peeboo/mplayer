@@ -1499,7 +1499,6 @@ tests/ref/wc3movie/SC_32-part.MVE.md5 -text
 tests/ref/wc4-xan/wc4_2.avi.md5 -text
 tests/ref/wmv8/wmv8_x8intra.wmv -text
 tests/ref/wmv8/wmv8_x8intra.wmv.md5 -text
-tests/ref/wmv8/wmv_drm.wmv.md5 -text
 tests/ref/wnv1/wnv1-codec.avi.md5 -text
 tests/ref/zmbv/wc2_001-partial.avi.md5 -text
 tests/ref/zmbv/zmbv_15bit.avi.md5 -text
