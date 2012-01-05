@@ -1292,7 +1292,6 @@ sub/vobsub.c svn_keywords=Author+Date+Id+Revision
 sub/vobsub.h svn_keywords=Author+Date+Id+Revision
 /subopt-helper.c svn_keywords=Author+Date+Id+Revision
 /subopt-helper.h svn_keywords=Author+Date+Id+Revision
-tests/Makefile -text
 tests/faterun.sh -text
 tests/ref/4xm/TimeGatep01s01n01a02_2.4xm.md5 -text
 tests/ref/4xm/version1.4xm.md5 -text
