@@ -1466,6 +1466,7 @@ tests/ref/utvideo/utvideo_yuv422_left.avi.md5 -text
 tests/ref/utvideo/utvideo_yuv422_median.avi.md5 -text
 tests/ref/v210/v210_720p-partial.avi.md5 -text
 tests/ref/v410/lenav410.mov.md5 -text
+tests/ref/vble/flowers-partial-2MB.avi.md5 -text
 tests/ref/vc1/SA00040.vc1.md5 -text
 tests/ref/vc1/SA00050.vc1.md5 -text
 tests/ref/vc1/SA10091.vc1.md5 -text
