@@ -1540,7 +1540,6 @@ tests/ref/r210/r210.avi.md5 -text
 tests/ref/real/rv30.rm.md5 -text
 tests/ref/real/spygames-2MB.rmvb.md5 -text
 tests/ref/rl2/Z4915300.RL2.md5 -text
-tests/ref/rpl/ESCAPE.RPL -text
 tests/ref/rpl/ESCAPE.RPL.md5 -text
 tests/ref/rpza/rpza2.mov.md5 -text
 tests/ref/rt21/VPAR0026.AVI.md5 -text
