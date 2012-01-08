@@ -1309,8 +1309,6 @@ tests/ref/auravision/SOUVIDEO.AVI.md5 -text
 tests/ref/bethsoft-vid/ANIM0001.VID.md5 -text
 tests/ref/bfi/2287.bfi.md5 -text
 tests/ref/bink/Snd0a7d9b58.dee.md5 -text
-tests/ref/bink/binkaudio_dct.bik.md5 -text
-tests/ref/bink/binkaudio_rdft.bik.md5 -text
 tests/ref/bink/hol2br.bik.md5 -text
 tests/ref/cdgraphics/BrotherJohn.cdg.md5 -text
 tests/ref/chronomaster-dfa/0000.dfa.md5 -text
@@ -1440,10 +1438,6 @@ tests/ref/rpl/ESCAPE.RPL -text
 tests/ref/rpl/ESCAPE.RPL.md5 -text
 tests/ref/rpza/rpza2.mov.md5 -text
 tests/ref/rt21/VPAR0026.AVI.md5 -text
-tests/ref/sipr/sipr_16k.rm.md5 -text
-tests/ref/sipr/sipr_5k0.rm.md5 -text
-tests/ref/sipr/sipr_6k5.rm.md5 -text
-tests/ref/sipr/sipr_8k5.rm.md5 -text
 tests/ref/smacker/wetlogo.smk.md5 -text
 tests/ref/smc/cass_schi.qt.md5 -text
 tests/ref/sp5x/sp5x_problem.avi.md5 -text
