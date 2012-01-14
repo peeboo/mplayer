@@ -288,7 +288,12 @@ etc/inttypes.h svn_keywords=Author+Date+Id+Revision
 etc/menu.conf svn_keywords=Author+Date+Id+Revision
 etc/mplayer.desktop svn_keywords=Author+Date+Id+Revision
 etc/mplayer.ico -text
-etc/mplayer.png -text
+etc/mplayer16x16.png -text
+etc/mplayer22x22.png -text
+etc/mplayer24x24.png -text
+etc/mplayer256x256.png -text
+etc/mplayer32x32.png -text
+etc/mplayer48x48.png -text
 /fmt-conversion.c -text
 /fmt-conversion.h -text
 gui/app.c svn_keywords=Author+Date+Id+Revision
@@ -351,7 +356,6 @@ gui/ui/pixmaps/file2.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/full.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/half.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/loadeaf.xpm svn_keywords=Author+Date+Id+Revision
-gui/ui/pixmaps/mplayer.xpm -text
 gui/ui/pixmaps/next.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/normal.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/nosub.xpm svn_keywords=Author+Date+Id+Revision
