@@ -1134,6 +1134,7 @@ osdep/osdep.h -text
 osdep/priority.c -text
 osdep/priority.h -text
 osdep/setenv.c svn_keywords=Author+Date+Id+Revision
+osdep/setenv.h -text
 osdep/shmem.c svn_keywords=Author+Date+Id+Revision
 osdep/shmem.h svn_keywords=Author+Date+Id+Revision
 osdep/strsep.c svn_keywords=Author+Date+Id+Revision
