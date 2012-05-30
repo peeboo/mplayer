@@ -413,6 +413,7 @@ gui/wm/ws.c svn_keywords=Author+Date+Id+Revision
 gui/wm/ws.h svn_keywords=Author+Date+Id+Revision
 gui/wm/wsxdnd.c svn_keywords=Author+Date+Id+Revision
 gui/wm/wsxdnd.h svn_keywords=Author+Date+Id+Revision
+help/help_check.sh -text
 help/help_create.sh svn_keywords=Author+Date+Id+Revision
 help/help_mp-bg.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-cs.h svn_keywords=Author+Date+Id+Revision
