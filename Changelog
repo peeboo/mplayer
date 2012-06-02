@@ -15,7 +15,6 @@ MPlayer
     * lavfi: libavfilter filter graphs (experimental).
 
     Other:
-    * -dr support for H.264 B-frames.
     * support adding noise at output resolution with -vo gl:noise-strength=8
     * experimental support for OpenGL ES 1.0 in -vo gl
     * support for PGS (BluRay-compatible), DVB and XSUB subtitles.
