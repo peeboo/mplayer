@@ -375,6 +375,7 @@ gui/ui/pixmaps/sound.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/stop.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/sub.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/sublang.xpm svn_keywords=Author+Date+Id+Revision
+gui/ui/pixmaps/subtitle.xpm -text
 gui/ui/pixmaps/title.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/up.xpm svn_keywords=Author+Date+Id+Revision
 gui/ui/pixmaps/url.xpm svn_keywords=Author+Date+Id+Revision
