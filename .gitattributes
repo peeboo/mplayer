@@ -899,6 +899,8 @@ libvo/matrixview_font.h -text
 libvo/mga_template.c svn_keywords=Author+Date+Id+Revision
 libvo/osx_common.c -text
 libvo/osx_common.h -text
+libvo/osx_objc_common.h svn_keywords=Author+Date+Id+Revision
+libvo/osx_objc_common.m svn_keywords=Author+Date+Id+Revision
 libvo/sdl_common.c -text
 libvo/sdl_common.h -text
 libvo/vesa_lvo.c svn_keywords=Author+Date+Id+Revision
