@@ -127,8 +127,6 @@ stream/realrtsp/*.ho
 sub/*.d
 sub/*.ho
 /tags
-tremor/*.d
-tremor/*.ho
 /version.h
 vidix/*.d
 vidix/*.ho
