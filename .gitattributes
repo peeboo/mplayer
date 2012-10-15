@@ -637,6 +637,7 @@ libmpcodecs/pullup.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/pullup.h svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd.h svn_keywords=Author+Date+Id+Revision
+libmpcodecs/vd_black.c -text
 libmpcodecs/vd_dmo.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_dshow.c svn_keywords=Author+Date+Id+Revision
 libmpcodecs/vd_ffmpeg.c svn_keywords=Author+Date+Id+Revision
