@@ -109,10 +109,6 @@ loader/qtx/list
 loader/qtx/qtxload
 loader/wine/*.ho
 /mencoder
-mp3lib/*.d
-mp3lib/*.ho
-mp3lib/test
-mp3lib/test2
 /mplayer
 osdep/*.d
 osdep/*.ho
