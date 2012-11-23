@@ -223,6 +223,7 @@ TOOLS/wma2ogg.pl svn_keywords=Author+Date+Id+Revision
 /av_helpers.h -text
 /av_opts.c -text
 /av_opts.h -text
+/binary.ver -text
 /bstr.c -text
 /bstr.h -text
 /cfg-common.h svn_keywords=Author+Date+Id+Revision
