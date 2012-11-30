@@ -302,6 +302,7 @@ gui/app.c svn_keywords=Author+Date+Id+Revision
 gui/app.h svn_keywords=Author+Date+Id+Revision
 gui/cfg.c svn_keywords=Author+Date+Id+Revision
 gui/cfg.h svn_keywords=Author+Date+Id+Revision
+gui/gui.h -text
 gui/interface.c svn_keywords=Author+Date+Id+Revision
 gui/interface.h svn_keywords=Author+Date+Id+Revision
 gui/skin/font.c svn_keywords=Author+Date+Id+Revision
