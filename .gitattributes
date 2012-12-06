@@ -298,11 +298,11 @@ etc/mplayer32x32.png -text
 etc/mplayer48x48.png -text
 /fmt-conversion.c -text
 /fmt-conversion.h -text
-gui/app.c svn_keywords=Author+Date+Id+Revision
-gui/app.h svn_keywords=Author+Date+Id+Revision
-gui/cfg.c svn_keywords=Author+Date+Id+Revision
-gui/cfg.h svn_keywords=Author+Date+Id+Revision
-gui/gui.h -text
+gui/app/app.c svn_keywords=Author+Date+Id+Revision
+gui/app/app.h svn_keywords=Author+Date+Id+Revision
+gui/app/cfg.c svn_keywords=Author+Date+Id+Revision
+gui/app/cfg.h svn_keywords=Author+Date+Id+Revision
+gui/app/gui.h -text
 gui/interface.c svn_keywords=Author+Date+Id+Revision
 gui/interface.h svn_keywords=Author+Date+Id+Revision
 gui/skin/font.c svn_keywords=Author+Date+Id+Revision
