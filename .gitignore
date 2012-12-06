@@ -66,8 +66,6 @@ gui/skin/*.d
 gui/skin/*.ho
 gui/ui/*.d
 gui/ui/*.ho
-gui/ui/gtk/*.d
-gui/ui/gtk/*.ho
 gui/util/*.d
 gui/util/*.ho
 gui/win32/*.d
