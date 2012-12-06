@@ -305,6 +305,8 @@ gui/app/cfg.h svn_keywords=Author+Date+Id+Revision
 gui/app/gui.h -text
 gui/dialog/about.c svn_keywords=Author+Date+Id+Revision
 gui/dialog/about.h svn_keywords=Author+Date+Id+Revision
+gui/dialog/dialog.c svn_keywords=Author+Date+Id+Revision
+gui/dialog/dialog.h svn_keywords=Author+Date+Id+Revision
 gui/dialog/equalizer.c svn_keywords=Author+Date+Id+Revision
 gui/dialog/equalizer.h svn_keywords=Author+Date+Id+Revision
 gui/dialog/fileselect.c svn_keywords=Author+Date+Id+Revision
@@ -387,8 +389,6 @@ gui/ui/render.c svn_keywords=Author+Date+Id+Revision
 gui/ui/render.h svn_keywords=Author+Date+Id+Revision
 gui/ui/ui.h svn_keywords=Author+Date+Id+Revision
 gui/ui/video.c svn_keywords=Author+Date+Id+Revision
-gui/ui/widgets.c svn_keywords=Author+Date+Id+Revision
-gui/ui/widgets.h svn_keywords=Author+Date+Id+Revision
 gui/util/bitmap.c svn_keywords=Author+Date+Id+Revision
 gui/util/bitmap.h svn_keywords=Author+Date+Id+Revision
 gui/util/cut.c svn_keywords=Author+Date+Id+Revision
