@@ -62,6 +62,10 @@ drivers/tdfx_vid_test
 /gmplayer
 gui/*.d
 gui/*.ho
+gui/app/*.d
+gui/app/*.ho
+gui/dialog/*.d
+gui/dialog/*.ho
 gui/skin/*.d
 gui/skin/*.ho
 gui/ui/*.d
