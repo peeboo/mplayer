@@ -300,6 +300,7 @@ etc/mplayer48x48.png -text
 /fmt-conversion.h -text
 gui/app/app.c svn_keywords=Author+Date+Id+Revision
 gui/app/app.h svn_keywords=Author+Date+Id+Revision
+gui/app/cfg-old.c -text
 gui/app/cfg.c svn_keywords=Author+Date+Id+Revision
 gui/app/cfg.h svn_keywords=Author+Date+Id+Revision
 gui/app/gui.h -text
