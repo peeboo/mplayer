@@ -891,6 +891,7 @@ libvo/geometry.c svn_keywords=Author+Date+Id+Revision
 libvo/geometry.h svn_keywords=Author+Date+Id+Revision
 libvo/gl_common.c svn_keywords=Author+Date+Id+Revision
 libvo/gl_common.h svn_keywords=Author+Date+Id+Revision
+libvo/gl_compat.h svn_keywords=Author+Date+Id+Revision
 libvo/gtf.c svn_keywords=Author+Date+Id+Revision
 libvo/gtf.h svn_keywords=Author+Date+Id+Revision
 libvo/jpeg_enc.c svn_keywords=Author+Date+Id+Revision
