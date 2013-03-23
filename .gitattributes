@@ -549,7 +549,6 @@ libass/ass_strtod.c -text
 libass/ass_types.h -text
 libass/ass_utils.c -text
 libass/ass_utils.h -text
-libdvdcss/bsdi_dvd.h svn_keywords=Author+Date+Id+Revision
 libdvdcss/common.h svn_keywords=Author+Date+Id+Revision
 libdvdcss/css.c svn_keywords=Author+Date+Id+Revision
 libdvdcss/css.h svn_keywords=Author+Date+Id+Revision
