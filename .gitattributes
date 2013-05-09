@@ -180,6 +180,7 @@ TOOLS/calcbpp.pl svn_keywords=Author+Date+Id+Revision
 TOOLS/checktree.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/compare.c svn_keywords=Author+Date+Id+Revision
 TOOLS/countquant.pl svn_keywords=Author+Date+Id+Revision
+TOOLS/coverity.sh -text
 TOOLS/divx2svcd.sh svn_keywords=Author+Date+Id+Revision
 TOOLS/dump_mp4.c svn_keywords=Author+Date+Id+Revision
 TOOLS/dvd2divxscript.pl svn_keywords=Author+Date+Id+Revision
