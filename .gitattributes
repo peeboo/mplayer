@@ -323,7 +323,7 @@ gui/dialog/pixmaps/aspect11.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/aspect169.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/aspect235.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/aspect43.xpm svn_keywords=Author+Date+Id+Revision
-gui/dialog/pixmaps/audiolang.xpm svn_keywords=Author+Date+Id+Revision
+gui/dialog/pixmaps/audio.xpm -text
 gui/dialog/pixmaps/cd.xpm -text
 gui/dialog/pixmaps/chapter.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/dir.xpm svn_keywords=Author+Date+Id+Revision
