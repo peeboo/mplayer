@@ -359,7 +359,6 @@ gui/dialog/pixmaps/skin.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/sound.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/stop.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/sub.xpm svn_keywords=Author+Date+Id+Revision
-gui/dialog/pixmaps/sublang.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/subtitle.xpm -text
 gui/dialog/pixmaps/title.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/tv.xpm -text
