@@ -365,6 +365,7 @@ gui/dialog/pixmaps/tv.xpm -text
 gui/dialog/pixmaps/up.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/url.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/vcd.xpm svn_keywords=Author+Date+Id+Revision
+gui/dialog/pixmaps/video.xpm -text
 gui/dialog/pixmaps/warning.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/playlist.c svn_keywords=Author+Date+Id+Revision
 gui/dialog/playlist.h svn_keywords=Author+Date+Id+Revision
