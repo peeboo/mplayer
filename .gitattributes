@@ -424,8 +424,8 @@ help/help_check.sh -text
 help/help_create.sh svn_keywords=Author+Date+Id+Revision
 help/help_mp-bg.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-cs.h svn_keywords=Author+Date+Id+Revision
+help/help_mp-da.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-de.h svneol=native#text/plain%3B+charset%3DUTF-8 svn_keywords=Author+Date+Id+Revision
-help/help_mp-dk.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-el.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-en.h svn_keywords=Author+Date+Id+Revision
 help/help_mp-es.h svn_keywords=Author+Date+Id+Revision
