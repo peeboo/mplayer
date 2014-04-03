@@ -398,6 +398,8 @@ gui/util/bitmap.h svn_keywords=Author+Date+Id+Revision
 gui/util/list.c -text
 gui/util/list.h -text
 gui/util/mem.h -text
+gui/util/misc.c -text
+gui/util/misc.h -text
 gui/util/string.c -text
 gui/util/string.h -text
 gui/win32/Changelog -text
