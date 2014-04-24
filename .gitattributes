@@ -356,6 +356,11 @@ gui/dialog/pixmaps/playlist.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/playvcd.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/prefs.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/prev.xpm svn_keywords=Author+Date+Id+Revision
+gui/dialog/pixmaps/rotate.xpm -text
+gui/dialog/pixmaps/rotate0.xpm -text
+gui/dialog/pixmaps/rotate180.xpm -text
+gui/dialog/pixmaps/rotate90ccw.xpm -text
+gui/dialog/pixmaps/rotate90cw.xpm -text
 gui/dialog/pixmaps/skin.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/sound.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/stop.xpm svn_keywords=Author+Date+Id+Revision
