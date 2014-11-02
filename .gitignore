@@ -85,8 +85,6 @@ libao2/*.d
 libao2/*.ho
 libass/*.d
 libass/*.ho
-libdvdcss/*.d
-libdvdcss/*.ho
 libmenu/*.d
 libmenu/*.ho
 libmpcodecs/*.d
