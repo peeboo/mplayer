@@ -352,6 +352,7 @@ gui/dialog/pixmaps/pause.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/play.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/playcd.xpm -text
 gui/dialog/pixmaps/playdvd.xpm svn_keywords=Author+Date+Id+Revision
+gui/dialog/pixmaps/playimage.xpm -text svneol=unset#image/x-xpmi
 gui/dialog/pixmaps/playlist.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/playvcd.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/prefs.xpm svn_keywords=Author+Date+Id+Revision
