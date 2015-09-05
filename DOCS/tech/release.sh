@@ -1,9 +1,11 @@
 #!/bin/bash
 # will create checkouts and tarballs in the current dir
-ver=1.1
+ver=1.2_dummy
+ffver=2.8
 dst=MPlayer-$ver
-svnurl=svn://svn.mplayerhq.hu/mplayer/trunk
-#svnurl=svn://svn.mplayerhq.hu/mplayer/branches/$ver
+#svnurl=svn://svn.mplayerhq.hu/mplayer/trunk
+svnurl=svn://svn.mplayerhq.hu/mplayer/branches/$ver
+#svnurl=svn://svn.mplayerhq.hu/mplayer/tags/MPlayer-$ver
 
 rm -rf $dst/ $dst-DOCS/ $dst.tar*
 
@@ -17,7 +19,8 @@ fi
 # create HTML docs
 cp -a $dst/ $dst-DOCS/
 pushd $dst-DOCS/
-mkdir -p ffmpeg/libavutil
+mkdir -p ffmpeg/libavutil/x86
+touch ffmpeg/libavutil/x86/asm.h
 ./configure --yasm='' --language=all
 make html-chunked
 popd
@@ -25,7 +28,7 @@ mv $dst-DOCS/DOCS/HTML $dst/DOCS
 rm -rf $dst-DOCS/
 
 # git archive unfortunately is refused
-git clone --depth 1 git://source.ffmpeg.org/ffmpeg.git $dst/ffmpeg
+git clone --depth 1 --branch release/$ffver git://source.ffmpeg.org/ffmpeg.git $dst/ffmpeg
 rm -rf $dst/.git* $dst/ffmpeg/.git*
 
 # create .tar.gz and .tar.xz files
@@ -38,5 +41,5 @@ md5sum $dst.tar.xz > $dst.tar.xz.md5
 sha1sum $dst.tar.xz > $dst.tar.xz.sha1
 md5sum $dst.tar.gz > $dst.tar.gz.md5
 sha1sum $dst.tar.gz > $dst.tar.gz.sha1
-gpg -a --detach-sign $dst.tar.xz
-gpg -a --detach-sign $dst.tar.gz
+#gpg -a --detach-sign $dst.tar.xz
+#gpg -a --detach-sign $dst.tar.gz
