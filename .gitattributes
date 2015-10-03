@@ -297,6 +297,7 @@ etc/mplayer24x24.png -text
 etc/mplayer256x256.png -text
 etc/mplayer32x32.png -text
 etc/mplayer48x48.png -text
+/ffmpeg2.8_mplayer1.2.diff -text
 /fmt-conversion.c -text
 /fmt-conversion.h -text
 gui/app/app.c svn_keywords=Author+Date+Id+Revision
