@@ -1,6 +1,17 @@
 MPlayer
 
-  1.2: "FrameCounter"
+  1.2.1:
+
+    Fixes:
+    * disable unsafe playlist parsing
+    * misc GUI fixes
+    * fix build regression in FreeBSD
+    * fix crashes in adpcm codecs with fuzzed files
+    Other:
+    * FFmpeg updated to 2.8.4
+
+
+  1.2: "FrameCounter" October 3, 2015
 
     Decoders:
     * Hardware accelerated decoding on OS X via VDA.
