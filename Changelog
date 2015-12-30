@@ -3,7 +3,6 @@ MPlayer
   1.2.1:
 
     Fixes:
-    * disable unsafe playlist parsing
     * misc GUI fixes
     * fix build regression in FreeBSD
     * fix crashes in adpcm codecs with fuzzed files
