@@ -1095,6 +1095,7 @@ loader/wrapper.h svn_keywords=Author+Date+Id+Revision
 /mpcommon.h -text
 /mplayer.c svn_keywords=Author+Date+Id+Revision
 /mplayer.h svn_keywords=Author+Date+Id+Revision
+/mpx86asm.h -text
 osdep/getch2-os2.c -text
 osdep/getch2-win.c svn_keywords=Author+Date+Id+Revision
 osdep/getch2.c svn_keywords=Author+Date+Id+Revision
