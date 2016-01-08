@@ -140,6 +140,8 @@ static af_data_t* play(struct af_instance_s* af, af_data_t* data)
           s->in[i]= realloc(s->in[i], s->in_alloc*sizeof(int16_t));
       }
   }
+  if(s->in[0] == NULL)
+      return NULL;
 
   if(chans==1){
       memcpy(&s->in[0][s->index], in, in_len * sizeof(int16_t));
