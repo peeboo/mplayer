@@ -5,9 +5,12 @@ MPlayer
     Fixes:
     * misc GUI fixes
     * fix build regression in FreeBSD
-    * fix crashes in adpcm codecs with fuzzed files
+    * fix many crashes with fuzzed files
     Other:
-    * FFmpeg updated to 2.8.4
+    * building with system FFmpeg libs is possible without a local copy of
+      of private FFmpeg headers
+    * docs building does not require FFmpeg anymore
+    * FFmpeg updated to 2.8.5
 
 
   1.2: "FrameCounter" October 3, 2015
