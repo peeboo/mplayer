@@ -6,6 +6,7 @@ MPlayer
     * misc GUI fixes
     * fix build regression in FreeBSD
     * fix many crashes with fuzzed files
+    * fix errors for multichannels files and pulseaudio >= 6
     Other:
     * building with system FFmpeg libs is possible without a local copy of
       of private FFmpeg headers
