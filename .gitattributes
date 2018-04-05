@@ -333,7 +333,6 @@ gui/dialog/pixmaps/cd.xpm -text
 gui/dialog/pixmaps/cd_play.xpm -text
 gui/dialog/pixmaps/chapter.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/dir.xpm svn_keywords=Author+Date+Id+Revision
-gui/dialog/pixmaps/dir2.xpm -text
 gui/dialog/pixmaps/dir_up.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/dvd.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/dvd_play.xpm svn_keywords=Author+Date+Id+Revision
@@ -345,7 +344,6 @@ gui/dialog/pixmaps/file.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/image.xpm -text
 gui/dialog/pixmaps/information.xpm -text
 gui/dialog/pixmaps/open.xpm svn_keywords=Author+Date+Id+Revision
-gui/dialog/pixmaps/open2.xpm -text
 gui/dialog/pixmaps/play.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/play_next.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/play_pause.xpm svn_keywords=Author+Date+Id+Revision
