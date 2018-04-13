@@ -323,6 +323,13 @@ gui/dialog/msgbox.h svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/dir.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/emblem.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/pixmaps/file.xpm svn_keywords=Author+Date+Id+Revision
+gui/dialog/pixmaps/file_audio.xpm -text
+gui/dialog/pixmaps/file_audio_track.xpm -text
+gui/dialog/pixmaps/file_font.xpm -text
+gui/dialog/pixmaps/file_image.xpm -text
+gui/dialog/pixmaps/file_playlist.xpm -text
+gui/dialog/pixmaps/file_subtitle.xpm -text
+gui/dialog/pixmaps/file_video.xpm -text
 gui/dialog/pixmaps/open.xpm svn_keywords=Author+Date+Id+Revision
 gui/dialog/playlist.c svn_keywords=Author+Date+Id+Revision
 gui/dialog/playlist.h svn_keywords=Author+Date+Id+Revision
